@@ -38,119 +38,71 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
 
-
-Trap Save DCs and Attack Bonuses
-
-Trap Danger Save DC Attack Bonus
-<table  cellspacing="0">
-  <tr>
-    <td  bgcolor="#EEECE1">
-      <p>Setback
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>10–11
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>+3 to +5
-    </td>
+<table>
+  <caption>Trap Save DCs and Attack Bonuses</caption>
+  <thead>
+    <tr>
+      <th>Trap Danger</th>
+      <th>Save DC</th>
+      <th>Attack Bonus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td>Setback</td>
+    <td>10–11</td>
+    <td>+3 to +5</td>
   </tr>
   <tr>
-    <td>
-      <p>Dangerous
-    </td>
-    <td>
-      <p>12–15
-    </td>
-    <td>
-      <p>+6 to +8
-    </td>
+    <td>Dangerous</td>
+    <td>12–15</td>
+    <td>+6 to +8</td>
   </tr>
   <tr>
-    <td  bgcolor="#EEECE1">
-      <p>Deadly
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>16–20
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>+9 to +12
-    </td>
+    <td>Deadly</td>
+    <td>16–20</td>
+    <td>+9 to +12</td>
   </tr>
+  </tbody>
 </table>
 
 
-Damage Severity by Level
-<table  cellspacing="0">
-  <tr>
-    <td>
-      <p>Character Level
-    </td>
-    <td>
-      <p>Setback
-    </td>
-    <td>
-      <p>Dangerous
-    </td>
-    <td>
-      <p>Deadly
-    </td>
+<table>
+  <caption>Damage Severity by Level</caption>
+  <thead>
+    <tr>
+    <th>Character Level</th>
+    <th>Setback</th>
+    <th>Dangerous</th>
+    <th>Deadly</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td>1st–4th</td>
+    <td>1d10</td>
+    <td>2d10</td>
+    <td>4d10</td>
   </tr>
   <tr>
-    <td  bgcolor="#EEECE1">
-      <p>1st–4th
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>1d10
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>2d10
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>4d10
-    </td>
+    <td>5th–10th</td>
+    <td>2d10</td>
+    <td>4d10</td>
+    <td>10d10</td>
   </tr>
   <tr>
-    <td>
-      <p>5th–10th
-    </td>
-    <td>
-      <p>2d10
-    </td>
-    <td>
-      <p>4d10
-    </td>
-    <td>
-      <p>10d10
-    </td>
+    <td>11th–16th</td>
+    <td>4d10</td>
+    <td>10d10</td>
+    <td>18d10</td>
   </tr>
   <tr>
-    <td  bgcolor="#EEECE1">
-      <p>11th–16th
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>4d10
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>10d10
-    </td>
-    <td  bgcolor="#EEECE1">
-      <p>18d10
-    </td>
+    <td>17th–20th</td>
+    <td>10d10</td>
+    <td>18d10</td>
+    <td>24d10</td>
   </tr>
-  <tr>
-    <td>
-      <p>17th–20th
-    </td>
-    <td>
-      <p>10d10
-    </td>
-    <td>
-      <p>18d10
-    </td>
-    <td>
-      <p>24d10
-    </td>
-  </tr>
+  </tbody>
 </table>
 
 ### Complex Traps

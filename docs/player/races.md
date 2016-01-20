@@ -181,8 +181,8 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 **Speed.** Your base walking speed is 30 feet.
 
-#### Draconic Ancestry 
 <table>
+  <caption>Draconic Ancestry</caption>
   <thead>
     <tr>
       <th>Dragon</th>
