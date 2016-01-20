@@ -38,7 +38,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 
 ## How you can help
 
-Converting this SRD into a universal format that everyone can use would be quick work if everyone takes a chunk. Knowledge of the easy to learn markdown format is preferred but not required. (You get bonus points if you can do pull requests on Github.)
+Converting the SRD into a universal format that everyone can use would be quick work if everyone takes a chunk. Knowledge of the markdown format is preferred but not required. (You get bonus points if you can do pull requests on Github.) I'll be happy to help you through any rough spots.
 
 1. Let me know you want to help by sending me a message at oestii [at] yahoo [dot] com.
 2. Pick one (or more) of the sections above under Status to do.
