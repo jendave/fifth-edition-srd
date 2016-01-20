@@ -11,7 +11,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [ ] Classes
 - [ ] Personality and Background
 - [ ] Equipment
-- [ ] Feats
+- [x] Feats
 - [ ] Playing the Game (Ability Scores)
 - [ ] Adventuring (Time, Movement)
 - [ ] Combat
