@@ -10,7 +10,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Races
 - [ ] Classes
 - [ ] Personality and Background
-- [ ] Equipment
+- [ ] Equipment - Claimed by EldritchFire
 - [x] Feats
 - [ ] Playing the Game (Ability Scores)
 - [ ] Adventuring (Time, Movement)
