@@ -26,7 +26,7 @@ Your speed determines how far you can move when traveling ( “Adventuring”) a
 
 #### Languages
 
-By virtue of your race, your character can speak, read, and write certain ** Languages.** 
+By virtue of your race, your character can speak, read, and write certain **Languages.** 
 
 #### Subraces
 
