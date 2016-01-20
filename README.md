@@ -2,21 +2,45 @@
 
 The goal of this project is to have a markdown conversion of the [Dungeons & Dragons Fifth Edition Systems Reference document](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
 
-## How to export source PDF to the master HTML file
+## Status
+This is a large undertaking. Below is a list of the various sections of the SRD. As portions get completed they will be checked off. (Do you want to help? See below.)
 
-1. Open source PDF in Acrobat
-2. File > Save
-3. Change Format to HTML using the settings shown below.
-4. Save out the file.
+### Player Information
+- [ ] Legal
+- [x] Races
+- [ ] Classes
+- [ ] Personality and Background
+- [ ] Equipment
+- [ ] Feats
+- [ ] Playing the Game (Ability Scores)
+- [ ] Adventuring (Time, Movement)
+- [ ] Combat
+- [ ] Spellcasting
+- [ ] Spells
+- [ ] Appendix A: Conditions
+- [ ] Appendix B: Gods
+- [ ] Appendix C: The Planes of Existence
 
-![Acrobat HTML Settings](img/acrobat-html-settings.png)
+### Gamemaster Information
+- [ ] Traps
+- [ ] Diseases
+- [ ] Madness
+- [ ] Objects 
+- [ ] Poisons
+- [ ] Magic Items
+- [ ] Artifacts
 
-## How to strip out the cruft
-The HTML exported above has a lot of extra information that we'd like to remove. There are many ways to do the following. What is documented here is my workflow.
+### Monster Information
+- [ ] Monsters, About
+- [ ] Monster list
+- [ ] Miscellaneous Creatures
+- [ ] Nonplayer Characters
 
-1. Open the file in Sublime Text 2.
-2. Use [Sublime-HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) to restructure the code into something readable.
-3. Remove everything except for the content of the `<body>` tag. This includes removing the `<body>` tag itself.
-4. Edit -> Line -> Reindent
-5. Find and Replace with the following regexes — `style=\"(.*?)\"` and `class=\"(.*?)\"` replacing them with nothing.
-6. Find and Replace the following to fix tags — `  >` and ` >` for `>`. This closing the space left from the actions above.
+## How you can help
+
+Converting this SRD into a universal format that everyone can use would be quick work if everyone takes a chunk. Knowledge of the easy to learn markdown format is preferred but not required. (You get bonus points if you can do pull requests on Github.)
+
+1. Let me know you want to help by sending me a message at oestii [at] yahoo [dot] com.
+2. Pick one (or more) of the sections above under Status to do.
+3. Pull out the relevant text from `source/SRD-OGL_V1.1.html` and convert it to markdown
+4. Send me the file(s) or do a Pull Request for this project.
