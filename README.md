@@ -22,7 +22,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [ ] Appendix C: The Planes of Existence
 
 ### Gamemaster Information
-- [ ] Traps
+- [x] Traps
 - [ ] Diseases
 - [ ] Madness
 - [ ] Objects 
