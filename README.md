@@ -6,7 +6,7 @@ The goal of this project is to have a markdown conversion of the [Dungeons & Dra
 This is a large undertaking. Below is a list of the various sections of the SRD. As portions get completed they will be checked off. (Do you want to help? See below.)
 
 ### Player Information
-- [ ] Legal
+- [x] Legal
 - [x] Races
 - [ ] Classes
 - [ ] Personality and Background
