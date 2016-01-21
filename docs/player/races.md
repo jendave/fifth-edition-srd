@@ -36,7 +36,6 @@ Some races have subraces. Members of a subrace have the traits of the parent rac
 
 ### Dwarf Traits
 
-
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature. 
 
 **Ability Score Increase.** Your Constitution score increases by 2. 
