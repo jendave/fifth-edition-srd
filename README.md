@@ -61,3 +61,7 @@ Converting the SRD into a universal format that everyone can use will be quick w
 2. Pick one (or more) of the sections above under Status to do.
 3. Pull out the relevant text from `source/SRD-OGL_V1.1.html` and convert it to markdown
 4. Send me the file(s) or do a Pull Request for this project.
+
+## License
+
+See `OGL.md`.
