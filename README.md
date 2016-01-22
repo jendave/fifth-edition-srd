@@ -23,7 +23,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
   - [ ] Wizard, pg 52-55
   - [ ] Beyond 1st Level, pg 56-58
 - [ ] Alignment, pg 58-59
-- [ ] Languages, pg 59
+- [x] Languages, pg 59
 - [ ] Inspiration, pg 59-60
 - [ ] Backgrounds, pg 60-61
 - [ ] Equipment, pg 62-74 - _Claimed by EldritchFire_
