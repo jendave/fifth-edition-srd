@@ -33,64 +33,64 @@ Each ability also has a modifier, derived from the score and ranging from -5 (fo
     <th align="center">Modifier</th>
   </tr>
   <tr>
-    <td align="center" bgcolor="#EEECE1">1</td> 
-    <td align="center" bgcolor="#EEECE1">-5</td>
+    <td align="center">1</td> 
+    <td align="center">-5</td>
   </tr>
   <tr>
     <td align="center">2-3</td> 
     <td align="center">-4</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#EEECE1">4-5</td> 
-    <td align="center" bgcolor="#EEECE1">-3</td>
+    <td align="center">4-5</td> 
+    <td align="center">-3</td>
   </tr>
   <tr>
     <td align="center">6-7</td> 
     <td align="center">-2</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#EEECE1">8-9</td> 
-    <td align="center" bgcolor="#EEECE1">-1</td>
+    <td align="center">8-9</td> 
+    <td align="center">-1</td>
   </tr>
   <tr>
     <td align="center">10-11</td> 
     <td align="center">+0</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#EEECE1">12-13</td> 
-    <td align="center" bgcolor="#EEECE1">+1</td>
+    <td align="center">12-13</td> 
+    <td align="center">+1</td>
   </tr>
   <tr>
     <td align="center">14-15</td> 
     <td align="center">+2</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#EEECE1">16-17</td> 
-    <td align="center" bgcolor="#EEECE1">+3</td>
+    <td align="center">16-17</td> 
+    <td align="center">+3</td>
   </tr>
   <tr>
     <td align="center">18-19</td> 
     <td align="center">+4</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#EEECE1">20-21</td> 
-    <td align="center" bgcolor="#EEECE1">+5</td>
+    <td align="center">20-21</td> 
+    <td align="center">+5</td>
   </tr>
   <tr>
     <td align="center">22-23</td> 
     <td align="center">+6</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#EEECE1">24-25</td> 
-    <td align="center" bgcolor="#EEECE1">+7</td>
+    <td align="center">24-25</td> 
+    <td align="center">+7</td>
   </tr>
   <tr>
     <td align="center">26-27</td> 
     <td align="center">+8</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#EEECE1">28-29</td> 
-    <td align="center" bgcolor="#EEECE1">+9</td>
+    <td align="center">28-29</td> 
+    <td align="center">+9</td>
   </tr>
   <tr>
     <td align="center">30</td> 
@@ -135,28 +135,28 @@ For every ability check, the GM decides which of the six abilities is relevant t
 <table>
   <caption>Typical Difficulty Classes</caption>
   <tr>
-    <th>Task Difficulty</th>
+    <th align="left">Task Difficulty</th>
     <th align="center">DC</th>
   </tr>
   <tr>
-    <td bgcolor="#EEECE1">Very easy</td> 
-    <td align="center" bgcolor="#EEECE1">5</td>
+    <td>Very easy</td> 
+    <td align="center">5</td>
   </tr>
   <tr>
     <td>Easy</td> 
     <td align="center">10</td>
   </tr>
   <tr>
-    <td bgcolor="#EEECE1">Medium</td> 
-    <td align="center" bgcolor="#EEECE1">15</td>
+    <td>Medium</td> 
+    <td align="center">15</td>
   </tr>
   <tr>
     <td>Hard</td> 
     <td align="center">20</td>
   </tr>
   <tr>
-    <td bgcolor="#EEECE1">Very hard</td> 
-    <td align="center" bgcolor="#EEECE1">25</td>
+    <td>Very hard</td> 
+    <td align="center">25</td>
   </tr>
   <tr>
     <td>Nearly impossible</td> 
@@ -314,7 +314,7 @@ A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or 
 
 ***Stealth.*** Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
 
-Other Dexterity Checks. The GM might call for a Dexterity check when you try to accomplish tasks like the following:
+***Other Dexterity Checks.*** The GM might call for a Dexterity check when you try to accomplish tasks like the following:
 
 - Control a heavily laden cart on a steep descent
 - Steer a chariot around a tight turn
@@ -474,9 +474,7 @@ Usually, a successful save means that a creature suffers no harm, or reduced har
 
 ## Time ##
 
-In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the
-
-chamber beyond for anything interesting or valuable.
+In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
 
 In a city or wilderness, a scale of **hours** is often more appropriate. Adventurers eager to reach the lonely tower at the heart of the forest hurry across those fifteen miles in just under four hours' time.
 
@@ -502,13 +500,13 @@ The following rules determine how far a character or monster can move in a minut
 
 While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully.
 
-Forced March. The Travel Pace table assumes that characters travel for 8 hours in day. They can push  on beyond that limit, at the risk of exhaustion.
+***Forced March.*** The Travel Pace table assumes that characters travel for 8 hours in day. They can push  on beyond that limit, at the risk of exhaustion.
 
 For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour.
 
 The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see appendix A).
 
-Mounts and Vehicles. For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
+***Mounts and Vehicles.*** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
 Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
@@ -528,11 +526,11 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
     <th align="left">Effect</th>
   </tr>
   <tr>
-    <td bgcolor="#EEECE1">Fast</td>
-    <td bgcolor="#EEECE1">400 feet</td>
-    <td bgcolor="#EEECE1">4 miles</td>
-    <td bgcolor="#EEECE1">30 miles</td>
-    <td bgcolor="#EEECE1">-5 penalty to passive Wisdom (Perception) scores</td>
+    <td>Fast</td>
+    <td>400 feet</td>
+    <td>4 miles</td>
+    <td>30 miles</td>
+    <td>-5 penalty to passive Wisdom (Perception) scores</td>
   </tr>
   <tr>
     <td>Normal</td>
@@ -542,11 +540,11 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
     <td></td>
   </tr>
   <tr>
-    <td bgcolor="#EEECE1">Slow</td>
-    <td bgcolor="#EEECE1">200 feet</td>
-    <td bgcolor="#EEECE1">2 miles</td>
-    <td bgcolor="#EEECE1">18 miles</td>
-    <td bgcolor="#EEECE1">Able to use stealth</td>
+    <td>Slow</td>
+    <td>200 feet</td>
+    <td>2 miles</td>
+    <td>18 miles</td>
+    <td>Able to use stealth</td>
   </tr>
 </table>
 
@@ -606,11 +604,11 @@ A **heavily obscured** area -- such as darkness, opaque fog, or dense foliage --
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
-Bright light lets most creatures see normally.  Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
+**Bright light** lets most creatures see normally.  Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
 
-Dim light, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
+**Dim light**, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
 
-Darkness creates a heavily obscured area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.
+**Darkness** creates a heavily obscured area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.
 
 #### Blindsight ####
 
@@ -900,24 +898,24 @@ Objects sometimes use the same size categories.
     <th align="left">Space</th>
   </tr>
   <tr>
-    <td bgcolor="#EEECE1">Tiny</td>
-    <td bgcolor="#EEECE1">2 1/2 by 2 1/2 ft.</td>
+    <td>Tiny</td>
+    <td>2 1/2 by 2 1/2 ft.</td>
   </tr>
   <tr>
     <td>Small</td>
     <td>5 by 5 ft.</td>
   </tr>
   <tr>
-    <td bgcolor="#EEECE1">Medium</td>
-    <td bgcolor="#EEECE1">5 by 5 ft.</td>
+    <td>Medium</td>
+    <td>5 by 5 ft.</td>
   </tr>
   <tr>
     <td>Large</td>
     <td>10 by 10 ft.</td>
   </tr>
   <tr>
-    <td bgcolor="#EEECE1">Huge</td>
-    <td bgcolor="#EEECE1">15 by 15 ft.</td>
+    <td>Huge</td>
+    <td>15 by 15 ft.</td>
   </tr>
   <tr>
     <td>Gargantuan</td>
@@ -1010,9 +1008,7 @@ If there's ever any question whether something you're doing counts as an attack,
 
 ### Attack Rolls ###
 
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class
-
-(AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
 
 #### Modifiers to the Roll ####
 
