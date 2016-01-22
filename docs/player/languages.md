@@ -12,9 +12,9 @@ Some of these languages are actually families of languages with many dialects. F
   <caption>Standard Languages</caption>
   <thead>
     <tr>
-      <td>Language</td>
-      <td>Typical Speakers</td>
-      <td>Script</td>
+      <th>Language</th>
+      <th>Typical Speakers</th>
+      <th>Script</th>
     </tr>
   </thead>
   <tbody>
@@ -65,9 +65,9 @@ Some of these languages are actually families of languages with many dialects. F
   <caption>Exotic Languages</caption>
   <thead>
     <tr>
-      <td>Language</td>
-      <td>Typical Speakers</td>
-      <td>Script</td>
+      <th>Language</th>
+      <th>Typical Speakers</th>
+      <th>Script</th>
     </tr>
   </thead>
   <tbody>
