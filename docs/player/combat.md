@@ -4,11 +4,11 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 
 > #### Combat Step by Step ####
 
-> 1. ***Determine surprise.*** The GM determines whether anyone involved in the combat encounter is surprised.
-> 2. ***Establish positions.*** The GM decides where all the characters and monsters are located. Given the adventurers’ marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
-> 3. ***Roll initiative.*** Everyone involved in the combat encounter rolls initiative, determining the order of combatants’ turns.
-> 4. ***Take turns.*** Each participant in the battle takes a turn in initiative order.
-> 5. ***Begin the next round.*** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
+> 1. **Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
+> 2. **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers’ marching order or their stated positions in the room or other location, the GM figures out where the adversaries are—how far away and in what direction.
+> 3. **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants’ turns.
+> 4. **Take turns.** Each participant in the battle takes a turn in initiative order.
+> 5. **Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
 ### Surprise ###
 
@@ -86,7 +86,7 @@ For example, if you have a speed of 30 and a flying speed of 60 because a wizard
 
 ### Difficult Terrain ###
 
-Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar- choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
 
 Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
 
@@ -125,7 +125,7 @@ To move while prone, you must **crawl** or use magic such as teleportation. Ever
 > - put your ear to a door
 > - kick a small stone
 > - turn a key in a lock
-> - tap the floor with a 10-­‐foot pole
+> - tap the floor with a 10-foot pole
 > - hand an item to another character
 
 ### Moving Around Other Creatures ###
@@ -142,9 +142,7 @@ Flying creatures enjoy many benefits of mobility, but they must also deal with t
 
 ### Creature Size ###
 
-Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat.
-
-Objects sometimes use the same size categories.
+Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
 <table>
   <caption>Size Categories</caption>
@@ -185,7 +183,7 @@ Objects sometimes use the same size categories.
 
 #### Space ####
 
-A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5- foot-wide doorway, other creatures can’t get through unless the hobgoblin lets them.
+A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5-foot-wide doorway, other creatures can’t get through unless the hobgoblin lets them.
 
 A creature’s space also reflects the area it needs to fight effectively. For that reason, there’s a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
 
@@ -259,9 +257,9 @@ You normally interact with an object while doing something else, such as when yo
 
 Whether you’re striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
 
-1. ***Choose a target.*** Pick a target within your attack’s range: a creature, an object, or a location.
-2. ***Determine modifiers.*** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
-3. ***Resolve the attack.*** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
+1. **Choose a target.** Pick a target within your attack’s range: a creature, an object, or a location.
+2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+3. **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 If there’s ever any question whether something you’re doing counts as an attack, the rule is simple: if you’re making an attack roll, you’re making an attack.
 
@@ -437,9 +435,7 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 Unless it results in death, damage isn’t permanent. Even death is reversible through powerful magic. Rest can restore a creature’s hit points, and magical methods such as a *cure wounds* spell or a *potion of healing* can remove damage in an instant.
 
-When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14
-
-current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
+When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
 
 A creature that has died can’t regain hit points until magic such as the *revivify* spell has restored it to life.
 
