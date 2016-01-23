@@ -24,8 +24,8 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
   - [ ] Beyond 1st Level, pg 56-58
 - [x] Alignment, pg 58-59
 - [x] Languages, pg 59
-- [ ] Inspiration, pg 59-60
-- [ ] Backgrounds, pg 60-61
+- [x] Inspiration, pg 59-60
+- [x] Backgrounds, pg 60-61
 - [ ] Equipment, pg 62-74
 - [x] Feats, pg 75 
 - [ ] Using Ability Scores, pg 76-83
