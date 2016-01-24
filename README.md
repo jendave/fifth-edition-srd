@@ -28,10 +28,10 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Backgrounds, pg 60-61
 - [ ] Equipment, pg 62-74
 - [x] Feats, pg 75 
-- [ ] Using Ability Scores, pg 76-83
-- [ ] Adventuring (a collection of the following subsections), pg 84-89
+- [x] Using Ability Scores, pg 76-83
+- [x] Adventuring (a collection of the following subsections), pg 84-89
   - _Time, Movement, Environment, Resting, Between Adventures_
-- [ ] Combat, pg 90-99
+- [x] Combat, pg 90-99
 - [ ] Spellcasting, pg 100-104
 - [ ] Spell Lists, pg 105-113
 - [ ] Spell Descriptions, pg 114-191
