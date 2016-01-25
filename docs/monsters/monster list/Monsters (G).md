@@ -36,7 +36,11 @@
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, petrified, poisoned **Senses** darkvision 60 ft., passive Perception 10 **Languages** Terran
+**Condition Immunities** exhaustion, petrified, poisoned 
+
+**Senses** darkvision 60 ft., passive Perception 10 
+
+**Languages** Terran
 
 **Challenge** 2 (450 XP)
 
@@ -272,7 +276,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Damage Immunities** poison
 
-**Condition Immunities** charmed, exhaustion, poisoned **Senses** darkvision 60 ft., passive Perception 10 **Languages** Common
+**Condition Immunities** charmed, exhaustion, poisoned 
+
+**Senses** darkvision 60 ft., passive Perception 10 
+
+**Languages** Common
 
 **Challenge** 2 (450 XP)
 
@@ -432,7 +440,11 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Skills** Athletics +11, Perception +6
 
-**Damage Immunities** fire **Senses** passive Perception 16 **Languages** Giant
+**Damage Immunities** fire 
+
+**Senses** passive Perception 16 
+
+**Languages** Giant
 
 **Challenge** 9 (5,000 XP)
 
@@ -638,7 +650,11 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Damage Resistances** cold
 
-**Damage Immunities** lightning, thunder **Senses** passive Perception 19 **Languages** Common, Giant
+**Damage Immunities** lightning, thunder 
+
+**Senses** passive Perception 19 
+
+**Languages** Common, Giant
 
 **Challenge** 13 (10,000 XP)
 

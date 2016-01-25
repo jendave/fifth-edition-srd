@@ -313,8 +313,11 @@ At will: *dancing lights*
 	</tbody>
 </table>
 
+**Skills** Perception +3, Stealth +4, Survival +3 
 
-**Skills** Perception +3, Stealth +4, Survival +3 **Senses** darkvision 60 ft., passive Perception 13 **Languages** —
+**Senses** darkvision 60 ft., passive Perception 13 
+
+**Languages** —
 
 **Challenge** 2 (450 XP)
 

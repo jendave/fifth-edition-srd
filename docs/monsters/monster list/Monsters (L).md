@@ -293,7 +293,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Skills** Perception +2
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons **Senses** passive Perception 12
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons 
+
+**Senses** passive Perception 12
 
 **Languages** Common (can’t speak in boar form)
 

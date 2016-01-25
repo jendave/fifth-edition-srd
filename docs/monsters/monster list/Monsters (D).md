@@ -458,7 +458,7 @@ _**Claw.**_ *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 
 
 **Challenge** 1 (200 XP)
 
-**Shapechanger.** The quasit can use its action to polymorph into a beast form that resembles a bat (**Speed** 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the **Speed** changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+**Shapechanger.** The quasit can use its action to polymorph into a beast form that resembles a bat (Speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the Speed changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
 **Magic Resistance.** The quasit has advantage on saving throws against spells and other magical effects.
 
@@ -1005,7 +1005,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Challenge** 1 (200 XP)
 
-**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (**Speed** 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the **Speed** changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (Speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the Speed changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
 **Devil’s Sight.** Magical darkness doesn’t impede the imp’s darkvision.
 
@@ -1052,7 +1052,13 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** charmed, frightened, poisoned **Senses** darkvision 120 ft., passive Perception 10 **Languages** understands Infernal but can’t speak **Challenge** 0 (10 XP)
+**Condition Immunities** charmed, frightened, poisoned 
+
+**Senses** darkvision 120 ft., passive Perception 10 
+
+**Languages** understands Infernal but can’t speak 
+
+**Challenge** 0 (10 XP)
 
 **Devil’s Sight.** Magical darkness doesn’t impede the lemure’s darkvision.
 
@@ -1580,6 +1586,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Acid Breath (Recharge 5–6).** The dragon exhales acid in a 15-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
+### Blue Dragon
+
 ### Ancient Blue Dragon
 
 *Gargantuan dragon, lawful evil*
@@ -1610,8 +1618,6 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 		</tr>
 	</tbody>
 </table>
-
-### Blue Dragon
 
 **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
 
@@ -2835,9 +2841,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Sleep Breath.** The dragon exhales sleep gas in a 15-­‐foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-### Bronze Dragons
+### Bronze Dragon
 
-### Ancient Bronze Dragons
+### Ancient Bronze Dragon
 
 *Gargantuan dragon, lawful good*
 

@@ -409,7 +409,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Skills** Perception +2
 
-**Senses** passive Perception 12 **Languages** Aquan, Common **Challenge** 1/8 (25 XP)
+**Senses** passive Perception 12
+
+**Languages** Aquan, Common 
+
+**Challenge** 1/8 (25 XP)
 
 **Amphibious.** The merfolk can breathe air and water.
 

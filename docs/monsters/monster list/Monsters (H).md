@@ -179,9 +179,9 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows.
 
-**Challenge**._ To avoid recalculating the creature’s challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, recalculate the rating after you apply the template.
+**Challenge**. To avoid recalculating the creature’s challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, recalculate the rating after you apply the template.
 
-**Senses**._ The half-dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.
+**Senses**. The half-dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.
 
 **Resistances.** The half-dragon gains resistance to a type of damage based on its color.
 

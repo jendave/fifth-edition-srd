@@ -39,7 +39,11 @@
 
 **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Senses** darkvision 120 ft., passive Perception 17 **Languages** the **Languages** it knew in life **Challenge** 13 (10,000 XP)
+**Senses** darkvision 120 ft., passive Perception 17 
+
+**Languages** the languages it knew in life 
+
+**Challenge** 13 (10,000 XP)
 
 **Shapechanger.** If the vampire isn’t in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
 

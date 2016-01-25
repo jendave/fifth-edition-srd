@@ -96,7 +96,11 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 
-**Senses** darkvision 120 ft., passive Perception 12 **Languages** the **Languages** it knew in life **Challenge** 2 (450 XP)
+**Senses** darkvision 120 ft., passive Perception 12 
+
+**Languages** the languages it knew in life 
+
+**Challenge** 2 (450 XP)
 
 **Consume Life.** As a bonus action, the will-­‐o’-­‐wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-­‐o’-­‐wisp regains 10 (3d6) hit points.
 

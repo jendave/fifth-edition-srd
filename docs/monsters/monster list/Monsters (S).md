@@ -314,7 +314,7 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Challenge** 7 (2,900 XP)
 
-**Bound.**The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet’s wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet’s wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
+**Bound.** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet’s wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet’s wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
 
 **Regeneration.** The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
@@ -468,7 +468,9 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, poisoned **Senses** darkvision 60 ft., passive Perception 9
+**Condition Immunities** exhaustion, poisoned 
+
+**Senses** darkvision 60 ft., passive Perception 9
 
 **Languages** —
 
@@ -610,7 +612,7 @@ Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
 
 **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn’t knocked prone.
 
-### Legendary Actions
+#### Legendary Actions
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The sphinx regains spent legendary actions at the start of its turn.
 
