@@ -49,9 +49,9 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
   </tbody>
 </table>
 
-## Modifying Creatures
+> ## Modifying Creatures
 
-Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
+> Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
 
 ## Type
 
@@ -368,14 +368,13 @@ If a monster is naturally blind, it has a parenthetical note to this effect, ind
 
 A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can’t discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
 
-#### Armor, Weapon, and Tool Proficiencies
-See the *Player’s Handbook* for rules on using armor or weapons without proficiency.
+> #### Armor, Weapon, and Tool Proficiencies
 
-Armor, Weapon, and Tool Proficiencies Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
+> Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
 
-For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
+> For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
 
-See the *Player’s Handbook* for rules on using armor or weapons without proficiency.
+> See the *Player’s Handbook* for rules on using armor or weapons without proficiency.
 
 ### Tremorsense
 
@@ -625,11 +624,11 @@ For example, “Recharge 5–6” means a monster can use the special ability on
 
 **Recharge after a Short or Long Rest.** This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
 
-#### Grapple Rules for Monsters
+> #### Grapple Rules for Monsters
 
-Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
+> Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
 
-A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster’s stat block. If no escape DC is given, assume the DC is 10 + the monster’s Strength (Athletics) modifier.
+> A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster’s stat block. If no escape DC is given, assume the DC is 10 + the monster’s Strength (Athletics) modifier.
 
 ## Equipment
 
