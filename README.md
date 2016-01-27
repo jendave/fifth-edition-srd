@@ -50,7 +50,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 ### Monster Information
 - [x] Monsters, About, pg 257-263
 - [x] Legendary Creatures, pg 263
-- [ ] Monster list, pg 264-360
+- [x] Monster list, pg 264-360
 - [ ] Appendix A: Miscellaneous Creatures, pg 361-389
 - [ ] Nonplayer Characters, pg 391-398
 
