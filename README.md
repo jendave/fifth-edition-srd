@@ -1,6 +1,6 @@
 # Fifth Edition System Reference Document
 
-The goal of this project is to have a markdown conversion of the [Dungeons & Dragons Fifth Edition Systems Reference document](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
+The goal of this project is to have a markdown conversion of the [Dungeons & Dragons Fifth Edition System Reference document](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
 
 ## Status
 This is a large undertaking. Below is a list of the various sections of the SRD. As portions get completed they will be checked off. (Do you want to help? See below.)
