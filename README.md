@@ -41,10 +41,10 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 
 ### Gamemaster Information
 - [x] Traps, pg 200-203
-- [ ] Diseases, pg 204-205
-- [ ] Madness, pg 206-207
-- [ ] Objects, pg 208
-- [ ] Poisons, pg 209-210
+- [x] Diseases, pg 204-205
+- [x] Madness, pg 206-207
+- [x] Objects, pg 208
+- [x] Poisons, pg 209-210
 - [ ] Magic Items, pg 211-256
 
 ### Monster Information
