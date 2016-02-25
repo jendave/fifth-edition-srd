@@ -21,12 +21,12 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
   - [ ] Sorcerer, pg 42-45
   - [ ] Warlock, pg 46-51
   - [ ] Wizard, pg 52-55
-  - [ ] Beyond 1st Level, pg 56-58
+  - [x] Beyond 1st Level, pg 56-58
 - [x] Alignment, pg 58-59
 - [x] Languages, pg 59
 - [x] Inspiration, pg 59-60
 - [x] Backgrounds, pg 60-61
-- [ ] Equipment, pg 62-74
+- [x] Equipment, pg 62-74
 - [x] Feats, pg 75 
 - [x] Using Ability Scores, pg 76-83
 - [x] Adventuring (a collection of the following subsections), pg 84-89
