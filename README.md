@@ -9,15 +9,15 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Legal, pg 1-2
 - [x] Races, pg 3-7
 - [ ] Classes, pg 8-55
-  - [ ] Barbarian, pg 8-10
+  - [x] Barbarian, pg 8-10
   - [ ] Bard, pg 11-14
   - [ ] Cleric, pg 15-18
   - [ ] Druid, pg 19-23
-  - [ ] Fighter, pg 24-25
+  - [x] Fighter, pg 24-25
   - [ ] Monk, pg 26-29
   - [ ] Paladin, pg 30-34
   - [ ] Ranger, pg 35-38
-  - [ ] Rogue, pg 39-41
+  - [x] Rogue, pg 39-41
   - [ ] Sorcerer, pg 42-45
   - [ ] Warlock, pg 46-51
   - [ ] Wizard, pg 52-55
