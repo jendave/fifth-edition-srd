@@ -11,7 +11,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [ ] Classes, pg 8-55
   - [x] Barbarian, pg 8-10
   - [x] Bard, pg 11-14
-  - [ ] Cleric, pg 15-18
+  - [x] Cleric, pg 15-18
   - [ ] Druid, pg 19-23
   - [x] Fighter, pg 24-25
   - [ ] Monk, pg 26-29
