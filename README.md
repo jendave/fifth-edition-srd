@@ -10,7 +10,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Races, pg 3-7
 - [ ] Classes, pg 8-55
   - [x] Barbarian, pg 8-10
-  - [ ] Bard, pg 11-14
+  - [x] Bard, pg 11-14
   - [ ] Cleric, pg 15-18
   - [ ] Druid, pg 19-23
   - [x] Fighter, pg 24-25
