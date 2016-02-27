@@ -14,8 +14,8 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
   - [x] Cleric, pg 15-18
   - [x] Druid, pg 19-23
   - [x] Fighter, pg 24-25
-  - [ ] Monk, pg 26-29
-  - [ ] Paladin, pg 30-34
+  - [x] Monk, pg 26-29
+  - [x] Paladin, pg 30-34
   - [ ] Ranger, pg 35-38
   - [x] Rogue, pg 39-41
   - [ ] Sorcerer, pg 42-45
