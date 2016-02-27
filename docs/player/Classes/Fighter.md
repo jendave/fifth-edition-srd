@@ -16,9 +16,10 @@ As a fighter, you gain the following class features.
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (a) chain mail or (b) leather armor, longbow, and 20 arrows  (a) a martial weapon and a shield or (b) two martial weapons
-* (a) a light crossbow and 20 bolts or (b) two handaxes
-* (a) a dungeoneer's pack or (b) an explorer's pack
+* (*a*) chain mail or (*b*) leather armor, longbow, and 20 arrows 
+* (*a*) a martial weapon and a shield or (*b*) two martial weapons
+* (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
+* (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
 <table>
 <caption id="thefighter">The Fighter</caption>
@@ -141,7 +142,7 @@ You start with the following equipment, in addition to the equipment granted by 
 </table>
 
 ### Fighting Style
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 #### Archery
 You gain a +2 bonus to attack rolls you make with ranged weapons.
@@ -173,7 +174,7 @@ Once you use this feature, you must finish a short or long rest before you can u
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -181,7 +182,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
 ### Indomitable
-Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
+Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
@@ -195,7 +196,7 @@ The archetypal Champion focuses on the development of raw physical power honed t
 Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
 
 #### Remarkable Athlete
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus.
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 
 In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
 
@@ -206,7 +207,7 @@ At 10th level, you can choose a second option from the Fighting Style class feat
 Starting at 15th level, your weapon attacks score a critical hit on a roll of 18–20.
 
 #### Survivor
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points
 
 
 
