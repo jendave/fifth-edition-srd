@@ -8,7 +8,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 ### Player Information
 - [x] Legal, pg 1-2
 - [x] Races, pg 3-7
-- [ ] Classes, pg 8-55
+- [x] Classes, pg 8-55
   - [x] Barbarian, pg 8-10
   - [x] Bard, pg 11-14
   - [x] Cleric, pg 15-18
@@ -18,9 +18,9 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
   - [x] Paladin, pg 30-34
   - [x] Ranger, pg 35-38
   - [x] Rogue, pg 39-41
-  - [ ] Sorcerer, pg 42-45
-  - [ ] Warlock, pg 46-51
-  - [ ] Wizard, pg 52-55
+  - [x] Sorcerer, pg 42-45
+  - [x] Warlock, pg 46-51
+  - [x] Wizard, pg 52-55
   - [x] Beyond 1st Level, pg 56-58
 - [x] Alignment, pg 58-59
 - [x] Languages, pg 59
