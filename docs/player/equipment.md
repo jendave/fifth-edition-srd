@@ -1,4 +1,5 @@
 # Equipment
+
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 
 With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don’t usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
@@ -12,7 +13,7 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 <table>
-<caption id="standardexchangerates">Standard Exchange Rates</caption>
+<caption id="standard-exchange-rates">Standard Exchange Rates</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:right;"/>
@@ -302,8 +303,6 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 </tbody>
 </table>
 
-
-
 ### Getting Into and Out of Armor
 
 The time it takes to don or doff armor depends on the armor’s category.
@@ -313,7 +312,7 @@ The time it takes to don or doff armor depends on the armor’s category.
 **Doff.** This is the time it takes to take off armor. If you have help, reduce this time by half.
 
 <table>
-<caption id="donninganddoffingarmor">Donning and Doffing Armor</caption>
+<caption id="donning-and-doffing-armor">Donning and Doffing Armor</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:right;"/>
@@ -352,9 +351,8 @@ The time it takes to don or doff armor depends on the armor’s category.
 </tbody>
 </table>
 
-
-
 ## Weapons
+
 Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring. 
 
 The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
@@ -392,6 +390,7 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 **Versatile.** This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
 #### Improvised Weapons
+
 Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
 Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
@@ -399,9 +398,11 @@ Often, an improvised weapon is similar to an actual weapon and can be treated as
 An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
 #### Silvered Weapons
+
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
 #### Special Weapons
+
 Weapons with special rules are described here.
 
 **Lance.** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
@@ -677,8 +678,6 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 </tbody>
 </table>
 
-
-
 ## Adventuring Gear
 
 This section describes items that have special rules or require further explanation.
@@ -770,7 +769,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 **Torch.** A torch burns for 1 hour, providing bright light in a 20 foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
 <table>
-<caption id="adventuringgear">Adventuring Gear</caption>
+<caption id="adventuring-gear">Adventuring Gear</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:right;"/>
@@ -1296,10 +1295,8 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 </tbody>
 </table>
 
-
-
 <table>
-<caption id="containercapacity">Container Capacity</caption>
+<caption id="container-capacity">Container Capacity</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:left;"/>
@@ -1372,25 +1369,22 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 </table>
 
 
+> ### Equipment Packs
+> The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 
----CALLOUT BOX---  
-**Equipment Packs**  
-The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
+> **Burglar's Pack (16 gp).** Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
-**Burglar's Pack (16 gp).** Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Diplomat's Pack (39 gp).** Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 
-**Diplomat's Pack (39 gp).** Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+> **Dungeoneer's Pack (12 gp).** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
-**Dungeoneer's Pack (12 gp).** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Entertainer's Pack (40 gp).** Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
 
-**Entertainer's Pack (40 gp).** Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
+> **Explorer's Pack (10 gp).** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
-**Explorer's Pack (10 gp).** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Priest's Pack (19 gp).** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
 
-**Priest's Pack (19 gp).** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
-
-**Scholar's Pack (40 gp).** Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.  
----END CALLOUT BOX---
+> **Scholar's Pack (40 gp).** Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.  
 
 ## Tools
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
@@ -1607,8 +1601,6 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 </tbody>
 </table>
 
-
-
 **Artisan's Tools.** These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
 
 **Disguise Kit.** This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
@@ -1628,6 +1620,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 **Thieves' Tools.** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
 
 ## Mounts and Vehicles
+
 A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s speed and base carrying capacity.
 
 An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
@@ -1643,7 +1636,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 **Rowed Vessels.** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
 <table>
-<caption id="mountsandotheranimals">Mounts and Other Animals</caption>
+<caption id="mounts-and-other-animals">Mounts and Other Animals</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:right;"/>
@@ -1714,7 +1707,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 
 <table>
-<caption id="tackharnessanddrawnvehicles">Tack, Harness, and Drawn Vehicles</caption>
+<caption id="tack-harness-and-drawn-vehicles">Tack, Harness, and Drawn Vehicles</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:right;"/>
@@ -1807,9 +1800,8 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 </table>
 
 
-
 <table>
-<caption id="waterbornevehicles">Waterborne Vehicles</caption>
+<caption id="waterborne-vehicles">Waterborne Vehicles</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:right;"/>
@@ -1858,15 +1850,14 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 </tbody>
 </table>
 
-
-
 ## Trade Goods
+
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
 <table>
-<caption id="tradegoods">Trade Goods</caption>
+<caption id="trade-goods">Trade Goods</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:left;"/>
@@ -1934,8 +1925,9 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 </tr>
 </tbody>
 </table>
+
 <table>
-<caption id="tradegoods">Trade Goods</caption>
+<caption id="trade-goods">Trade Goods</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:left;"/>
@@ -2005,10 +1997,12 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 </table>
 
 
-##Expenses
+## Expenses
+
 When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
 
 ### Lifestyle Expenses
+
 Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
 
 At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30.
@@ -2016,7 +2010,7 @@ At the start of each week or month (your choice), choose a lifestyle from the Ex
 Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career. Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
 <table>
-<caption id="lifestyleexpenses">Lifestyle Expenses</caption>
+<caption id="lifestyle-expenses">Lifestyle Expenses</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:right;"/>
@@ -2061,7 +2055,6 @@ Your lifestyle might change from one period to the next, based on the funds you 
 </tbody>
 </table>
 
-
 **Wretched.** You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
 
 **Squalid.** You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible setback. They might be disturbed, marked as exiles, or suffer from disease.
@@ -2077,20 +2070,17 @@ Your lifestyle might change from one period to the next, based on the funds you 
 **Aristocratic.** You live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant.
 
 
----CALLOUT BOX---  
-**Self-Sufficiency**
-
+> ### Self-Sufficiency
 The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
 
-Maintaining this kind of lifestyle doesn’t require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.  
----END CALLOUT BOX---
+> Maintaining this kind of lifestyle doesn’t require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.  
 
 ### Food, Drink, and Lodging
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night’s lodging. These prices are included in your total lifestyle expenses.
 
 <table>
-<caption id="fooddrinkandlodging">Food, Drink, and Lodging</caption>
+<caption id="food-drink-and-lodging">Food, Drink, and Lodging</caption>
 <colgroup>
 <col style="text-align:left;"/>
 <col style="text-align:right;"/>
@@ -2199,14 +2189,13 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 </tbody>
 </table>
 
+### Services
 
-###Services
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 
 Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the *secret chest* spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
-
 
 <table>
 <caption id="services">Services</caption>
@@ -2259,8 +2248,6 @@ Other hirelings provide more expert or dangerous services. Mercenary soldiers pa
 </tr>
 </tbody>
 </table>
-
-
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 
