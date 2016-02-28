@@ -15,6 +15,7 @@ As a barbarian, you gain the following class features.
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None  
+
 **Saving Throws:** Strength, Constitution  
 
 **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
