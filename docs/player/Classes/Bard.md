@@ -403,10 +403,8 @@ Additionally, when you gain a level in this class, you can choose one of the bar
 #### Spellcasting Ability
 Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
-CENTER THIS PLEASE
 **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
-END CENTER PLEASE
 
 #### Ritual Casting
 You can cast any bard spell you know as a ritual if that spell has the ritual tag.
