@@ -103,9 +103,8 @@ For example, if your speed is 30 feet, you must spend 15 feet of movement to sta
 To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
 > #### Interacting with Objects Around You ####
-
 > Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
-
+>
 > - draw or sheathe a sword
 > - open or close a door
 > - withdraw a potion from your backpack
@@ -271,11 +270,11 @@ When you make an attack, your attack roll determines whether the attack hits or 
 
 When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character’s proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
 
-***Ability Modifier.*** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
+**Ability Modifier.** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
 
 Some spells also require an attack roll. The ability modifier used for a spell attack depends on the spellcasting ability of the spellcaster.
 
-***Proficiency Bonus.*** You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
+**Proficiency Bonus.** You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
 
 #### Rolling 1 or 20 ####
 
@@ -337,12 +336,11 @@ When you want to grab a creature or wrestle with it, you can use the Attack acti
 
 The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
-***Escaping a Grapple.*** A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
+**Escaping a Grapple.** A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
 
-***Moving a Grappled Creature.*** When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+**Moving a Grappled Creature.** When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
 > #### Contests in Combat ####
-
 > Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.
 
 #### Shoving a Creature ####
@@ -395,31 +393,31 @@ Different attacks, damaging spells, and other harmful effects deal different typ
 
 The damage types follow, with examples to help a GM assign a damage type to a new effect.
 
-***Acid.*** The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage.
+**Acid.** The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage.
 
-***Bludgeoning.*** Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
+**Bludgeoning.** Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
 
-***Cold.*** The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
+**Cold.** The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
 
-***Fire.*** Red dragons breathe fire, and many spells conjure flames to deal fire damage.
+**Fire.** Red dragons breathe fire, and many spells conjure flames to deal fire damage.
 
-***Force.*** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including *magic missile* and *spiritual weapon*.
+**Force.** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including *magic missile* and *spiritual weapon*.
 
-***Lightning.*** A *lightning bolt* spell and a blue dragon’s breath deal lightning damage.
+**Lightning.** A *lightning bolt* spell and a blue dragon’s breath deal lightning damage.
 
-***Necrotic.*** Necrotic damage, dealt by certain undead and a spell such as *chill touch*, withers matter and even the soul.
+**Necrotic.** Necrotic damage, dealt by certain undead and a spell such as *chill touch*, withers matter and even the soul.
 
-***Piercing.*** Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
+**Piercing.** Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
 
-***Poison.*** Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
+**Poison.** Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
 
-***Psychic.*** Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
+**Psychic.** Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
 
-***Radiant.*** Radiant damage, dealt by a cleric’s *flame strike* spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+**Radiant.** Radiant damage, dealt by a cleric’s *flame strike* spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
-***Slashing.*** Swords, axes, and monsters’ claws deal slashing damage.
+**Slashing.** Swords, axes, and monsters’ claws deal slashing damage.
 
-***Thunder.*** A concussive burst of sound, such as the effect of the *thunderwave* spell, deals thunder damage.
+**Thunder.** A concussive burst of sound, such as the effect of the *thunderwave* spell, deals thunder damage.
 
 ### Damage Resistance and Vulnerability ###
 
@@ -459,9 +457,9 @@ Whenever you start your turn with 0 hit points, you must make a special saving t
 
 Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
 
-***Rolling 1 or 20.*** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point.
+**Rolling 1 or 20.** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point.
 
-***Damage at 0 Hit Points.*** If you take any damage while you have 0 hit points, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage equals or exceeds your hit point maximum, you suffer instant death.
+**Damage at 0 Hit Points.** If you take any damage while you have 0 hit points, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage equals or exceeds your hit point maximum, you suffer instant death.
 
 #### Stabilizing a Creature ####
 

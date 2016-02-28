@@ -3,6 +3,7 @@
 ## Formatting
 
 A few points for consistency:
+
 * Inside `source/` is a .md file that has most of the garbage stripped out of it. Use this as the starting point.
 * The title of the "Chapter" should be the only first level header (e.g. # Alignment)
 * Classes should be one file each, e.g. `wizard.md`.
