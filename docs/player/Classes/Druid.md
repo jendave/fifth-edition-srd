@@ -1,20 +1,31 @@
 # Druid
+
 ## Class Features
+
 As a druid, you gain the following class features
 
 #### Hit Points
+
 **Hit Dice:** 1d8 per druid level  
+
 **Hit Points at 1st Level:** 8 + your Constitution modifier  
+
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
 #### Proficiencies
+
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)  
+
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears  
+
 **Tools:** Herbalism kit  
+
 **Saving Throws:** Intelligence, Wisdom  
+
 **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
 #### Equipment
+
 You start with the following equipment, in addition to the equipment granted by your background:
 
 * (*a*) a wooden shield or (*b*) any simple weapon
@@ -22,7 +33,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * Leather armor, an explorer's pack, and a druidic focus
 
 <table>
-<caption id="thedruid">The Druid</caption>
+<caption id="the-druid">The Druid</caption>
 <colgroup>
 <col style="text-align:center;"/>
 <col style="text-align:center;"/>
@@ -362,15 +373,19 @@ You start with the following equipment, in addition to the equipment granted by 
 </table>
 
 ### Druidic
+
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
 
 ### Spellcasting
+
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
 #### Cantrips
+
 At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
 
 #### Preparing and Casting Spells
+
 The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
@@ -383,21 +398,25 @@ Spellcasting Ability
 Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier  
+
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 #### Ritual Casting
+
 You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 #### Spellcasting Focus
+
 You can use a druidic focus (see chapter 5, “Equip  ment”) as a spellcasting focus for your druid spells.
 
 ### Wild Shape
+
 Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of &frac14; or lower that doesn't have a flying or swimming speed.
 
 <table>
-<caption id="beastshapes">Beast Shapes</caption>
+<caption id="beast-shapes">Beast Shapes</caption>
 <colgroup>
 <col style="text-align:center;"/>
 <col style="text-align:center;"/>
@@ -447,33 +466,42 @@ While you are transformed, the following rules apply:
 * You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ### Druid Circle
+
 At 2nd level, you choose to identify with a circle of druids: the Circle of the Land or the Circle of the Moon, both detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ### Ability Score Improvement
+
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Timeless Body
+
 Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
 ### Beast Spells
+
 Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
 
 ### Archdruid
+
 At 20th level, you can use your Wild Shape an unlimited number of times.
 Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
 
 ### Circle of the Land
+
 The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.
 
 #### Bonus Cantrip
+
 When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.
 
 #### Natural Recovery
+
 Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
 
 For example, when you are a 4th level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd level slot or two 1st level slots.
 
 #### Circle Spells
+
 Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells. 
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
@@ -723,32 +751,27 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 </table>
 
 #### Land's Stride
+
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
 
 #### Nature's Ward
+
 When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.
 
 #### Nature's Sanctuary
+
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
 
 The creature is aware of this effect before it makes its attack against you.
 
-CALLOUT BOX PLEASE
-
-**Sacred Plants and Wood**  
+> #### Sacred Plants and Wood**  
 A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 
-Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
+> Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
 
-Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
+> Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
 
-END CALLOUT BOX PLEASE
-
-ANOTHER CALLOUT BOX PLEASE
-
-**Druids and the Gods**  
+> #### Druids and the Gods**  
 Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
-
-END ANOTHER CALLOUT BOX PLEASE
