@@ -162,12 +162,12 @@ You start with the following equipment, in addition to the equipment granted by 
 <tr>
 	<td>7th</td>
 	<td>+3</td>
-	<td>&#8212;3</td>
+	<td>&#8212;</td>
+	<td>3</td>
 	<td>4</td>
 	<td>3</td>
 	<td>3</td>
 	<td>1</td>
-	<td>&#8212;</td>
 	<td>&#8212;</td>
 	<td>&#8212;</td>
 	<td>&#8212;</td>
