@@ -33,7 +33,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
   - _Time, Movement, Environment, Resting, Between Adventures_
 - [x] Combat, pg 90-99
 - [x] Spellcasting, pg 100-104
-- [ ] Spell Lists, pg 105-113
+- [x] Spell Lists, pg 105-113
 - [ ] Spell Descriptions, pg 114-191
 - [ ] Appendix A: Conditions, pg 192-193
 - [ ] Appendix B: Gods, pg 194-196
