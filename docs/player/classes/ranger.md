@@ -6,21 +6,21 @@ As a ranger, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d10 per ranger level  
+**Hit Dice:** 1d10 per ranger level
 
-**Hit Points at 1st Level:** 10 + your Constitution modifier  
+**Hit Points at 1st Level:** 10 + your Constitution modifier
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st  
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
 
 #### Proficiencies
 
-**Armor:** Light armor, medium armor, shields  
+**Armor:** Light armor, medium armor, shields
 
-**Weapons:** Simple weapons, martial weapons  
+**Weapons:** Simple weapons, martial weapons
 
-**Tools:** None  
+**Tools:** None
 
-**Saving Throws:** Strength, Dexterity  
+**Saving Throws:** Strength, Dexterity
 
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
@@ -321,7 +321,7 @@ You gain a +2 bonus to attack rolls you make with ranged weapons.
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
-####  Dueling
+####Dueling
 
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
@@ -350,7 +350,7 @@ Additionally, when you gain a level in this class, you can choose one of the ran
 
 Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier  
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 

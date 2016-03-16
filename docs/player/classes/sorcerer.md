@@ -6,19 +6,19 @@ As a sorcerer, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d6 per sorcerer level  
+**Hit Dice:** 1d6 per sorcerer level
 
-**Hit Points at 1st Level:** 6 + your Constitution modifier  
+**Hit Points at 1st Level:** 6 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
 #### Proficiencies
 
-**Armor:** None  
+**Armor:** None
 
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows 
 
-**Tools:** None  
+**Tools:** None
 
 **Saving Throws:** Constitution, Charisma 
 
@@ -440,7 +440,7 @@ Additionally, when you gain a level in this class, you can choose one of the sor
 
 Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one. 
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier  
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
 
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 

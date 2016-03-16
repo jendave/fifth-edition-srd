@@ -208,7 +208,7 @@ A saving throw bonus is the sum of a monster’s relevant ability modifier and i
       <td>+2</td>
     </tr>
     <tr>
-      <td>1/8</td>
+      <td>&frac18;</td>
       <td>+2</td>
     </tr>
     <tr>
@@ -426,7 +426,7 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
       <td>0 or 10</td>
     </tr>
     <tr>
-      <td>1/8</td>
+      <td>&frac18;</td>
       <td>25</td>
     </tr>
     <tr>

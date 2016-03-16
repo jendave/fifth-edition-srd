@@ -8,19 +8,19 @@ As a wizard, you gain the following class features.
 
 **Hit Dice:** 1d6 per wizard level 
 
-**Hit Points at 1st Level:** 6 + your Constitution modifier  
+**Hit Points at 1st Level:** 6 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per wizard level after 1st
 
 #### Proficiencies
 
-**Armor:** None  
+**Armor:** None
 
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows  
+**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 
-**Tools:** None  
+**Tools:** None
 
-**Saving Throws:** Intelligence, Wisdom  
+**Saving Throws:** Intelligence, Wisdom
 
 **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
@@ -384,7 +384,7 @@ At 1st level, you know three cantrips of your choice from the wizard spell list.
 
 #### Spellbook
 
-At 1st level, you have a spellbook containing six 1st  level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+At 1st level, you have a spellbook containing six 1st level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
 #### Preparing and Casting Spells
 
@@ -398,7 +398,7 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier  
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 
@@ -473,7 +473,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 
 
 
-> #### Your Spellbook  
+> #### Your Spellbook
 The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
 >
 > **Copying a Spell into the Book.** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.

@@ -6,21 +6,21 @@ As a cleric, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d8 per cleric level  
+**Hit Dice:** 1d8 per cleric level 
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
+**Hit Points at 1st Level:** 8 + your Constitution modifier 
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
 #### Proficiencies
 
-**Armor:** Light armor, medium armor, shields  
+**Armor:** Light armor, medium armor, shields 
 
-**Weapons:** Simple weapons  
+**Weapons:** Simple weapons 
 
-**Tools:** None  
+**Tools:** None 
 
-**Saving Throws:** Wisdom, Charisma  
+**Saving Throws:** Wisdom, Charisma 
 
 **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
@@ -397,7 +397,7 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier  
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 #### Ritual Casting

@@ -6,21 +6,21 @@ As a monk, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d8 per monk level  
+**Hit Dice:** 1d8 per monk level
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
+**Hit Points at 1st Level:** 8 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
 #### Proficiencies
 
-**Armor:** None  
+**Armor:** None
 
-**Weapons:** Simple weapons, shortswords  
+**Weapons:** Simple weapons, shortswords
 
-**Tools:** Choose one type of artisan's tools or one musical instrument  
+**Tools:** Choose one type of artisan's tools or one musical instrument
 
-**Saving Throws:** Strength, Dexterity  
+**Saving Throws:** Strength, Dexterity
 
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
@@ -224,7 +224,7 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 
 ### Martial Arts
 
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two  handed or heavy property.
+At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the twohanded or heavy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:
 

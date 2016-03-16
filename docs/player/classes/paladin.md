@@ -6,21 +6,21 @@ As a paladin, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d10 per paladin level  
+**Hit Dice:** 1d10 per paladin level
 
-**Hit Points at 1st Level:** 10 + your Constitution modifier  
+**Hit Points at 1st Level:** 10 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
 
 #### Proficiencies
 
-**Armor:** All armor, shields  
+**Armor:** All armor, shields
 
-**Weapons:** Simple weapons, martial weapons  
+**Weapons:** Simple weapons, martial weapons
 
-**Tools:** None  
+**Tools:** None
 
-**Saving Throws:** Wisdom, Charisma  
+**Saving Throws:** Wisdom, Charisma
 
 **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
@@ -309,7 +309,7 @@ The Paladin table shows how many spell slots you have to cast your spells. To ca
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th level paladin, you have four 1st level and two 2nd level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st level spell *cure wounds*, you can cast it using a 1st level or a 2nd  level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th level paladin, you have four 1st level and two 2nd level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st level spell *cure wounds*, you can cast it using a 1st level or a 2ndlevel slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -317,7 +317,7 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier  
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
 
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 
@@ -393,13 +393,13 @@ The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, 
 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
-**Honesty.** Don't lie or cheat. Let your word be your promise.  
+**Honesty.** Don't lie or cheat. Let your word be your promise.
 
-**Courage.** Never fear to act, though caution is wise.  
+**Courage.** Never fear to act, though caution is wise.
 
-**Compassion.** Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.  
+**Compassion.** Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
 
-**Honor.** Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.  
+**Honor.** Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
 
 **Duty.** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 

@@ -47,7 +47,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 	<td>Silver (sp)</td>
 	<td>10</td>
 	<td>1</td>
-	<td>1/5</td>
+	<td>&frac15;</td>
 	<td>1/10</td>
 	<td>1/100</td>
 </tr>
@@ -56,7 +56,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 	<td>50</td>
 	<td>5</td>
 	<td>1</td>
-	<td>1/2</td>
+	<td>&frac12;</td>
 	<td>1/20</td>
 </tr>
 <tr>

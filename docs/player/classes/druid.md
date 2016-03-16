@@ -6,21 +6,21 @@ As a druid, you gain the following class features
 
 #### Hit Points
 
-**Hit Dice:** 1d8 per druid level  
+**Hit Dice:** 1d8 per druid level 
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
+**Hit Points at 1st Level:** 8 + your Constitution modifier 
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
 #### Proficiencies
 
-**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)  
+**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) 
 
-**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears  
+**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears 
 
-**Tools:** Herbalism kit  
+**Tools:** Herbalism kit 
 
-**Saving Throws:** Intelligence, Wisdom  
+**Saving Throws:** Intelligence, Wisdom 
 
 **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
@@ -397,7 +397,7 @@ You can also change your list of prepared spells when you finish a long rest. Pr
 Spellcasting Ability
 Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier  
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier 
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
@@ -407,7 +407,7 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 #### Spellcasting Focus
 
-You can use a druidic focus (see chapter 5, “Equip  ment”) as a spellcasting focus for your druid spells.
+You can use a druidic focus (see chapter 5, “Equip ment”) as a spellcasting focus for your druid spells.
 
 ### Wild Shape
 
@@ -766,7 +766,7 @@ When you reach 14th level, creatures of the natural world sense your connection 
 
 The creature is aware of this effect before it makes its attack against you.
 
-> #### Sacred Plants and Wood  
+> #### Sacred Plants and Wood 
 A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 >
 > Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.

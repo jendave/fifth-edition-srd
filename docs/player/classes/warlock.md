@@ -6,21 +6,21 @@ As a warlock, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d8 per warlock level  
+**Hit Dice:** 1d8 per warlock level
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
+**Hit Points at 1st Level:** 8 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
 
 #### Proficiencies
 
-**Armor:** Light armor  
+**Armor:** Light armor
 
-**Weapons:** Simple weapons  
+**Weapons:** Simple weapons
 
-**Tools:** None  
+**Tools:** None
 
-**Saving Throws:** Wisdom, Charisma  
+**Saving Throws:** Wisdom, Charisma
 
 **Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
@@ -292,7 +292,7 @@ Additionally, when you gain a level in this class, you can choose one of the war
 
 Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier  
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
 
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 
@@ -338,10 +338,10 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 ### Mystic Arcanum
 
-At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th  level spell from the warlock spell list as this arcanum.
+At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th level spell from the warlock spell list as this arcanum.
 You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
 
-At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th  level spell at 13th level, one 8th level spell at 15th level, and one 9th level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
+At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th level spell at 13th level, one 8th level spell at 15th level, and one 9th level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
 
 ### Eldritch Master
 
@@ -518,7 +518,7 @@ The beings that serve as patrons for warlocks are mighty inhabitants of other pl
 
 Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
-###  Fiend
+### Fiend
 
 You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
 
@@ -570,7 +570,7 @@ Starting at 1st level, when you reduce a hostile creature to 0 hit points, you g
 
 #### Dark One's Own Luck
 
-Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to  a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
+Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature toa d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
