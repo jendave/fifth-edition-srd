@@ -82,7 +82,7 @@
 
 **Languages** understands Common and Draconic but can’t speak
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 **Keen Senses.** The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
 

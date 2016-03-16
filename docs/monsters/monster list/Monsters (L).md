@@ -187,7 +187,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Languages** Draconic 
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Hold Breath.** The lizardfolk can hold its breath for 15 minutes.
 

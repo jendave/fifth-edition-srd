@@ -251,7 +251,7 @@ Destroying a tendril deals no damage to the roper, which can extrude a replaceme
 
 **Languages** —
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Iron Scent.** The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
 

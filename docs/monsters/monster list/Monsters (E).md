@@ -264,7 +264,7 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 
 **Languages** Elvish, Undercommon
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 **Fey Ancestry.** The drow has advantage on saving throws against being charmed, and magic can’t put the drow to sleep.
 

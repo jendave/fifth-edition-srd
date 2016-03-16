@@ -764,7 +764,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 **Languages** Gnoll
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Rampage.** When the gnoll reduces a creature to 0 hit poitns with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
@@ -814,7 +814,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 **Languages** Gnomish, Terran, Undercommon
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Stone Camouflage.** The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
@@ -870,7 +870,7 @@ At will: *nondetection* (self only)
 
 **Languages** Common, Goblin
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 **Nimble Escape.** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
@@ -1310,7 +1310,7 @@ The golem’s creator, if within 60 feet of the berserk golem, can try to calm i
 
 **Languages** Undercommon
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 **Blind Senses.** The grimlock can’t use its blindsight while deafened and unable to smell.
 

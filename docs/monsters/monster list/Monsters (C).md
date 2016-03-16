@@ -253,7 +253,7 @@ A duplicate has the cloaker’s AC and uses its saving throws. If an attack hits
 
 **Languages** —
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 #### Actions
 

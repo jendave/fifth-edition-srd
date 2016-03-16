@@ -36,7 +36,7 @@
 
 **Languages** Common, Draconic
 
-**Challenge** 1/8 (25 XP)
+**Challenge** &frac18; (25 XP)
 
 **Sunlight Sensitivity.** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

@@ -382,7 +382,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Languages** —
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 **Antimagic Susceptibility.** The sword is incapacitated while in the area of an *antimagic field.* If targeted by *dispel magic*, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 

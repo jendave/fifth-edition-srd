@@ -37,7 +37,7 @@
 
 **Languages** Sahuagin
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Blood Frenzy.** The sahuagin has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
 
@@ -147,7 +147,7 @@
 
 **Languages** Common, Elvish, Sylvan
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Magic Resistance.** The satyr has advantage on saving throws against spells and other magical effects.
 
@@ -204,7 +204,7 @@
 
 **Languages** —
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Regeneration.** The shadow can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -374,7 +374,7 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Languages** understands Abyssal but can’t speak
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 #### Actions
 
@@ -474,7 +474,7 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Languages** —
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 #### Actions
 
@@ -738,7 +738,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Languages** Common, Elvish, Sylvan 
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 #### Actions
 
@@ -785,7 +785,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Languages** —
 
-**Challenge** 1/8 (25 XP)
+**Challenge** &frac18; (25 XP)
 
 #### Actions
 

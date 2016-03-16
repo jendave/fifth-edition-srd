@@ -39,7 +39,7 @@
 
 **Languages** Ignan
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Death Burst.** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren’t being worn or carried in that area are ignited.
 
@@ -199,7 +199,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Languages** Auran, Terran
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Death Burst.** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
@@ -254,7 +254,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Languages** Aquan, Auran
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Death Burst.** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 
@@ -311,7 +311,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Languages** Ignan, Terran
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Death Burst.** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -364,7 +364,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Languages** Aquan, Ignan
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 **Death Burst.** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
 
@@ -413,7 +413,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Languages** Aquan, Common 
 
-**Challenge** 1/8 (25 XP)
+**Challenge** &frac18; (25 XP)
 
 **Amphibious.** The merfolk can breathe air and water.
 

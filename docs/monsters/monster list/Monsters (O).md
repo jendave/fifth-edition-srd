@@ -265,7 +265,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 **Languages** —
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Regeneration.** The ooze can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -371,7 +371,7 @@ The ooze can eat through 2-­‐inch-­‐thick, nonmagical metal in 1 round.
 
 **Languages** Common, Orc
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Aggressive.** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 

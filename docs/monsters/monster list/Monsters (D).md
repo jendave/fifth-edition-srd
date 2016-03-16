@@ -37,7 +37,7 @@
 
 **Languages** —
 
-**Challenge** 1/2 (100 XP)
+**Challenge** &frac12; (100 XP)
 
 **Echolocation.** The darkmantle can’t use its blindsight while deafened.
 
@@ -159,7 +159,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 #### Actions
 

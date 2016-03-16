@@ -86,7 +86,7 @@
 
 **Languages** —
 
-**Challenge** 1/4 (50 XP)
+**Challenge** &frac14; (50 XP)
 
 **False Appearance.** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
