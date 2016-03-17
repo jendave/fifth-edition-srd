@@ -36,7 +36,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Spell Lists, pg 105-113
 - [ ] Spell Descriptions, pg 114-191
 - [x] Appendix A: Conditions, pg 192-193
-- [ ] Appendix B: Gods, pg 194-196
+- [x] Appendix B: Gods, pg 194-196
 - [x] Appendix C: The Planes of Existence, pg 197-199
 
 ### Gamemaster Information
