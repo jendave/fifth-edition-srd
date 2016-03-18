@@ -16,7 +16,9 @@ As a fighter, you gain the following class features.
 
 **Armor:** All armor, shields 
 
-**Weapons:** Simple weapons, martial weapons Tools: None 
+**Weapons:** Simple weapons, martial weapons
+
+**Tools:** None 
 
 **Saving Throws:** Strength, Constitution 
 
