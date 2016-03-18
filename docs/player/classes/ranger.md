@@ -30,7 +30,8 @@ You start with the following equipment, in addition to the equipment granted by 
 
 * (*a*) scale mail or (*b*) leather armor
 * (*a*) two shortswords or (*b*) two simple melee weapons
-* (*a*) a dungeoneer's pack or (*b*) an explorer's pack A longbow and a quiver of 20 arrows
+* (*a*) a dungeoneer's pack or (*b*) an explorer's pack
+* A longbow and a quiver of 20 arrows
 
 <table>
 <caption id="the-ranger">The Ranger</caption>
