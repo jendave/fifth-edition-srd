@@ -65,7 +65,7 @@ Converting the SRD into a universal format that everyone can use will be quick w
 
 1. Let me know you want to help by sending me a message at oestii [at] yahoo [dot] com.
 2. Pick one (or more) of the sections above under Status to do and I'll assign it to you as an Issue.
-3. Pull out the relevant text from `source/SRD-OGL_V1.1.md` and convert it to markdown
+3. Pull out the relevant text from `source/SRD-OGL_V5.1.md` and convert it to markdown
 4. Send me the file(s) or do a Pull Request for this project.
 
 ## License
