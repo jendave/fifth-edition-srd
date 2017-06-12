@@ -27,32 +27,37 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Inspiration, pg 59-60
 - [x] Backgrounds, pg 60-61
 - [x] Equipment, pg 62-74
-- [x] Feats, pg 75 
+- [x] Feats, pg 75
 - [x] Using Ability Scores, pg 76-83
 - [x] Adventuring (a collection of the following subsections), pg 84-89
   - _Time, Movement, Environment, Resting, Between Adventures_
 - [x] Combat, pg 90-99
 - [x] Spellcasting, pg 100-104
 - [x] Spell Lists, pg 105-113
-- [ ] Spell Descriptions, pg 114-191
-- [x] Appendix A: Conditions, pg 192-193
-- [x] Appendix B: Gods, pg 194-196
-- [x] Appendix C: The Planes of Existence, pg 197-199
+- [ ] Spell Descriptions, pg 114-194
 
 ### Gamemaster Information
-- [x] Traps, pg 200-203
-- [x] Diseases, pg 204-205
-- [x] Madness, pg 206-207
-- [x] Objects, pg 208
-- [x] Poisons, pg 209-210
-- [ ] Magic Items, pg 211-256
+- [x] Traps, pg 195-198
+- [x] Diseases, pg 199-200
+- [x] Madness, pg 201-202
+- [x] Objects, pg 203
+- [x] Poisons, pg 204-205
+- [ ] Magic Items, pg 206-253
 
 ### Monster Information
-- [x] Monsters, About, pg 257-263
-- [x] Legendary Creatures, pg 263
-- [x] Monster list, pg 264-360
-- [ ] Appendix A: Miscellaneous Creatures, pg 361-389
-- [x] Nonplayer Characters, pg 391-398
+- [x] Monsters, About, pg 254-260
+- [x] Legendary Creatures, pg 260
+- [x] Monster list, pg 261-357
+
+### Appendicies PH
+- [x] Appendix A: Conditions, pg 358-359
+- [x] Appendix B: Gods, pg 360-362
+- [x] Appendix C: The Planes of Existence, pg 363-365
+
+### Appendicies MM
+- [ ] Appendix A: Miscellaneous Creatures, pg 366-394
+- [x] Appendix B: Nonplayer Characters, pg 395-403
+
 
 ## How you can help
 
