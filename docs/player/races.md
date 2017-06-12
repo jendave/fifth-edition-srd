@@ -2,63 +2,63 @@
 
 ### Racial Traits
 
-The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races. 
+The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races.
 
 #### Ability Score Increase
 
-Every race increases one or more of a character’s ability scores. 
+Every race increases one or more of a character’s ability scores.
 
 #### Age
 
-The age entry notes the age when a member of the race is considered an adult, as well as the race’s expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom. 
+The age entry notes the age when a member of the race is considered an adult, as well as the race’s expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
 
 #### Alignment
 
-Most races have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character. 
+Most races have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
 
 #### Size
 
-Characters of most races are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few races are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.” 
+Characters of most races are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few races are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
 
 #### Speed
 
-Your speed determines how far you can move when traveling ( “Adventuring”) and fighting (“Combat”). 
+Your speed determines how far you can move when traveling ( “Adventuring”) and fighting (“Combat”).
 
 #### Languages
 
-By virtue of your race, your character can speak, read, and write certain languages. 
+By virtue of your race, your character can speak, read, and write certain languages.
 
 #### Subraces
 
-Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world. 
+Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world.
 
 ## Dwarf
 
 ### Dwarf Traits
 
-Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature. 
+Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
-**Ability Score Increase.** Your Constitution score increases by 2. 
+**Ability Score Increase.** Your Constitution score increases by 2.
 
-**Age.** Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years. 
+**Age.** Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.
 
-**Alignment.** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order. 
+**Alignment.** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
 
-**Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium. 
+**Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
-**Speed.** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor. 
+**Speed.** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 
-**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
+**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-**Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage. 
+**Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
 
-**Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer. 
+**Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
 
-**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools. 
+**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
 
-**Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. 
+**Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
-**Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak. 
+**Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
 #### Hill Dwarf
 
@@ -78,9 +78,7 @@ Your elf character has a variety of natural abilities, the result of thousands o
 
 **Age.** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
-**Alignment.** Elves love freedom, variety, and self- expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile has made them vicious and dangerous.
-
-Drow are more often evil than not.
+**Alignment.** Elves love freedom, variety, and self- expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not.
 
 **Size.** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
 
@@ -158,7 +156,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 
-**Speed.** Your base walking speed is 30 feet. 
+**Speed.** Your base walking speed is 30 feet.
 
 **Languages.** You can speak, read, and write Common and one extra language of your choice.
 

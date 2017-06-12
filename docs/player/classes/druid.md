@@ -6,21 +6,21 @@ As a druid, you gain the following class features
 
 #### Hit Points
 
-**Hit Dice:** 1d8 per druid level 
+**Hit Dice:** 1d8 per druid level
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier 
+**Hit Points at 1st Level:** 8 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
 #### Proficiencies
 
-**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) 
+**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 
-**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears 
+**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
 
-**Tools:** Herbalism kit 
+**Tools:** Herbalism kit
 
-**Saving Throws:** Intelligence, Wisdom 
+**Saving Throws:** Intelligence, Wisdom
 
 **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
@@ -397,7 +397,7 @@ You can also change your list of prepared spells when you finish a long rest. Pr
 Spellcasting Ability
 Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier 
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
@@ -407,7 +407,7 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 #### Spellcasting Focus
 
-You can use a druidic focus (see chapter 5, “Equip ment”) as a spellcasting focus for your druid spells.
+You can use a druidic focus (see “Equipment”) as a spellcasting focus for your druid spells.
 
 ### Wild Shape
 
@@ -467,7 +467,7 @@ While you are transformed, the following rules apply:
 
 ### Druid Circle
 
-At 2nd level, you choose to identify with a circle of druids: the Circle of the Land or the Circle of the Moon, both detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+At 2nd level, you choose to identify with a circle of druids, such as the Circle of the Land. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ### Ability Score Improvement
 
@@ -502,7 +502,7 @@ For example, when you are a 4th level druid, you can recover up to two levels wo
 
 #### Circle Spells
 
-Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells. 
+Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -766,12 +766,12 @@ When you reach 14th level, creatures of the natural world sense your connection 
 
 The creature is aware of this effect before it makes its attack against you.
 
-> #### Sacred Plants and Wood 
+> #### Sacred Plants and Wood
 A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 >
 > Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
 >
 > Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
 >
-> #### Druids and the Gods 
-Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
+> #### Druids and the Gods
+Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix PH-B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
