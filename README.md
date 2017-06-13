@@ -50,14 +50,13 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Monster list, pg 261-357
 
 ### Appendicies PH
-- [x] Appendix A: Conditions, pg 358-359
-- [x] Appendix B: Gods, pg 360-362
-- [x] Appendix C: The Planes of Existence, pg 363-365
+- [x] Appendix PH-A: Conditions, pg 358-359
+- [x] Appendix Ph-B: Gods, pg 360-362
+- [x] Appendix PH-C: The Planes of Existence, pg 363-365
 
 ### Appendicies MM
-- [ ] Appendix A: Miscellaneous Creatures, pg 366-394
-- [x] Appendix B: Nonplayer Characters, pg 395-403
-
+- [ ] Appendix MM-A: Miscellaneous Creatures, pg 366-394
+- [x] Appendix MM-B: Nonplayer Characters, pg 395-403
 
 ## How you can help
 
