@@ -6,7 +6,7 @@ Choosing a background provides you with important story cues about your characte
 
 What sets you apart from ordinary people who share your background?
 
-The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
+The sample background presented here provides both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
 ### Proficiencies
 

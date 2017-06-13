@@ -30,9 +30,9 @@ If a tie occurs, the GM decides the order among tied GM-controlled creatures, an
 
 On your turn, you can **move** a distance up to your speed and **take one action** . You decide whether to move first or take your action first. Your speed—sometimes called your walking speed—is noted on your character sheet.
 
-The most common actions you can take are described in the “Actions in Combat” section later in this chapter. Many class features and other abilities provide additional options for your action.
+The most common actions you can take are described in the “Actions in Combat” section. Many class features and other abilities provide additional options for your action.
 
-The “Movement and Position” section later in this chapter gives the rules for your move.
+The “Movement and Position” section gives the rules for your move.
 
 You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
 
@@ -58,7 +58,7 @@ The GM might require you to use an action for any of these activities when it ne
 
 ### Reactions ###
 
-Certain special abilities, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The opportunity attack, described later in this chapter, is the most common type of reaction.
+Certain special abilities, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The opportunity attack is the most common type of reaction.
 
 When you take a reaction, you can’t take another one until the start of your next turn. If the reaction interrupts another creature’s turn, that creature can continue its turn right after the reaction.
 
@@ -94,7 +94,7 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 
 ### Being Prone ###
 
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix A.
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix PH-A.
 
 You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed.
 
@@ -133,7 +133,7 @@ You can move through a nonhostile creature’s space. In contrast, you can move 
 
 Whether a creature is a friend or an enemy, you can’t willingly end your move in its space.
 
-If you leave a hostile creature’s reach during your move, you provoke an opportunity attack, as explained later in the chapter.
+If you leave a hostile creature’s reach during your move, you provoke an opportunity attack.
 
 ### Flying Movement ###
 
@@ -222,7 +222,7 @@ If you take the Disengage action, your movement doesn’t provoke opportunity at
 
 ### Dodge ###
 
-When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix A) or if your speed drops to 0.
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
 
 ### Help ###
 
@@ -232,7 +232,7 @@ Alternatively, you can aid a friendly creature in attacking a creature within 5 
 
 ### Hide ###
 
-When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section later in this chapter.
+When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
 
 ### Ready ###
 
@@ -280,7 +280,7 @@ Some spells also require an attack roll. The ability modifier used for a spell a
 
 Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
 
-If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit, which is explained later in this chapter.
+If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit.
 
 If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s AC.
 
@@ -334,7 +334,7 @@ If either weapon has the thrown property, you can throw the weapon, instead of m
 
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH-A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 **Escaping a Grapple.** A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
 
@@ -449,7 +449,7 @@ For example, a cleric with a maximum of 12 hit points currently has 6 hit points
 
 #### Falling Unconscious ####
 
-If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix A). This unconsciousness ends if you regain any hit points.
+If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix PH-A). This unconsciousness ends if you regain any hit points.
 
 #### Death Saving Throws ####
 

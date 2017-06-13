@@ -18,7 +18,6 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-
 <table>
 <caption id="short-term-madness">Short-Term Madness</caption>
 <colgroup>
@@ -35,19 +34,19 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 <tbody>
 <tr>
-	<td style="text-align:center;">01&#8211;20</td>
+	<td style="text-align:center;">01–20</td>
 	<td style="text-align:left;">The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.</td>
 </tr>
 <tr>
-	<td style="text-align:center;">21&#8211;30</td>
+	<td style="text-align:center;">21–30</td>
 	<td style="text-align:left;">The character becomes incapacitated and spends the duration screaming, laughing, or weeping.</td>
 </tr>
 <tr>
-	<td style="text-align:center;">31&#8211;40</td>
+	<td style="text-align:center;">31–40</td>
 	<td style="text-align:left;">The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear.</td>
 </tr>
 <tr>
-	<td style="text-align:center;">41&#8211;50</td>
+	<td style="text-align:center;">41–50</td>
 	<td style="text-align:left;">The character begins babbling and is incapable of normal speech or spellcasting.</td>
 </tr>
 <tr>
@@ -211,4 +210,4 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ## Curing Madness
 
-A calm emotions spell can suppress the effects of madness, while a lesser restoration spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, remove curse or dispel evil might also prove effective. A greater restoration spell or more powerful magic is required to rid a character of indefinite madness.
+A *calm emotions* spell can suppress the effects of madness, while a *lesser restoration* spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, *remove curse* or *dispel evil* might also prove effective. A *greater restoration* spell or more powerful magic is required to rid a character of indefinite madness.

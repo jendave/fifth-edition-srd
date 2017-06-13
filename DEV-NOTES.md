@@ -9,7 +9,7 @@ A few points for consistency:
 * Classes should be one file each, e.g. `wizard.md`.
 * The other headers should fall naturally under that first level header. This is mentioned because in the conversion process there were a lot of h3's that will need to become h2's.
 * Tables should use html mark up. I know that you _can_ do tables with markdown but who wants that?
-* If something is bold and italic, like the "Ability Score Increase." in the Race section, just make it bold. 
+* If something is bold and italic, like the "Ability Score Increase." in the Race section, just make it bold.
 
 ## When the SRD updates
 
@@ -33,3 +33,7 @@ The HTML exported above has a lot of extra information that we'd like to remove.
 4. Edit -> Line -> Reindent
 5. Find and Replace with the following regexes — `style=\"(.*?)\"` and `class=\"(.*?)\"` replacing them with nothing.
 6. Find and Replace the following to fix tags — `  >` and ` >` for `>`. This closing the space left from the actions above.
+
+### Alternate Method from the Command Line
+1. Install pdftohtml and pandoc via a package manager on Linux or Homebrew on Mac.
+2. Execute for the `source/` directory. `pdftohtml -noframes -s -i -c -enc UTF-8 SRD-OGL_V5.1.pdf && pandoc --parse-raw -f html -t markdown_github SRD-OGL_V5.1.html -o SRD-OGL_V5.1.md`

@@ -30,7 +30,7 @@ While traveling, a group of adventurers can move at a normal, fast, or slow pace
 
 For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour.
 
-The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see appendix A).
+The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see appendix PH-A).
 
 **Mounts and Vehicles.** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
@@ -129,7 +129,7 @@ Darkness and other effects that obscure vision can prove a significant hindrance
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 
-A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix A) when trying to see something in that area.
+A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix PH-A) when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
@@ -153,7 +153,7 @@ A creature with truesight can, out to a specific range, see in normal and magica
 
 ### Food and Water ###
 
-Characters who don’t eat or drink suffer the effects of exhaustion (see appendix A). Exhaustion caused by lack of food or water can’t be removed until the character eats and drinks the full required amount.
+Characters who don’t eat or drink suffer the effects of exhaustion (see appendix PH-A). Exhaustion caused by lack of food or water can’t be removed until the character eats and drinks the full required amount.
 
 #### Food ####
 
