@@ -51,7 +51,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 
 ### Appendicies PH
 - [x] Appendix PH-A: Conditions, pg 358-359
-- [x] Appendix Ph-B: Gods, pg 360-362
+- [x] Appendix PH-B: Gods, pg 360-362
 - [x] Appendix PH-C: The Planes of Existence, pg 363-365
 
 ### Appendicies MM
