@@ -34,7 +34,8 @@ The HTML exported above has a lot of extra information that we'd like to remove.
 5. Find and Replace with the following regexes — `style=\"(.*?)\"` and `class=\"(.*?)\"` replacing them with nothing.
 6. Find and Replace the following to fix tags — `  >` and ` >` for `>`. This closing the space left from the actions above.
 
-### Alternate Method from the Command Line
-1. Install pdftohtml and pandoc via a package manager on Linux or Homebrew on Mac.
-2. Execute in the `source/` directory. `pdftohtml -noframes -s -i -c -enc UTF-8 SRD-OGL_V5.1.pdf && pandoc --parse-raw -f html -t markdown_github SRD-OGL_V5.1.html -o SRD-OGL_V5.1.md`
-3. Split-diff using Vim and compare.
+### Alternate Method from the Command Line in a terminal
+1. Install pdftohtml, pandoc and vim via a package manager on Linux or Homebrew on Mac.
+2. Execute in the `source/` directory. `pdftohtml -noframes -s -i -c -enc UTF-8 SRD-OGL_V1.1.pdf && pandoc --parse-raw -f html -t markdown_github SRD-OGL_V1.1.html -o SRD-OGL_V1.1.md`
+3. Execute in the `source/` directory. `pdftohtml -noframes -s -i -c -enc UTF-8 SRD-OGL_V5.1.pdf && pandoc --parse-raw -f html -t markdown_github SRD-OGL_V5.1.html -o SRD-OGL_V5.1.md`
+4. Split-diff using Vim and compare. `vim -d SRD-OGL_V1.1.md SRD-OGL_V5.1.md` or use the GUI.
