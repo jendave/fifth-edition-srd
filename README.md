@@ -34,7 +34,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Combat, pg 90-99
 - [x] Spellcasting, pg 100-104
 - [x] Spell Lists, pg 105-113
-- [ ] Spell Descriptions, pg 114-194
+- [X] Spell Descriptions, pg 114-194
 
 ### Gamemaster Information
 - [x] Traps, pg 195-198
@@ -42,7 +42,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Madness, pg 201-202
 - [x] Objects, pg 203
 - [x] Poisons, pg 204-205
-- [ ] Magic Items, pg 206-253
+- [X] Magic Items, pg 206-253
 
 ### Monster Information
 - [x] Monsters, About, pg 254-260
@@ -55,7 +55,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 - [x] Appendix PH-C: The Planes of Existence, pg 363-365
 
 ### Appendicies MM
-- [ ] Appendix MM-A: Miscellaneous Creatures, pg 366-394
+- [X] Appendix MM-A: Miscellaneous Creatures, pg 366-394
 - [x] Appendix MM-B: Nonplayer Characters, pg 395-403
 
 ## How you can help
