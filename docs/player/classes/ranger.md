@@ -332,12 +332,13 @@ When you engage in two weapon fighting, you can add your ability modifier to the
 
 ### Spellcasting
 
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.
+By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does.
 
 #### Spell Slots
 
 The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-For example, if you know the 1st level spell *animal friendship* and have a 1st level and a 2nd level spell slot available, you can cast *animal friendship* using either slot.
+
+For example, if you know the 1st level spell *animal friendship* and have a 1st-level and a 2nd-level spell slot available, you can cast *animal friendship* using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -357,7 +358,7 @@ Wisdom is your spellcasting ability for your ranger spells, since your magic dra
 
 ### Ranger Archetype
 
-At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beast Master, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+At 3rd level, you choose an archetype that you strive to emulate, such as the Hunter. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
 ### Primeval Awareness
 
@@ -398,7 +399,7 @@ At 20th level, you become an unparalleled hunter of your enemies. Once on each o
 
 ## Ranger Archetypes
 
-The ideal of the ranger has two classic expressions: the Hunter and the Beast Master.
+A classic expression of the ranger ideal is the Hunter.
 
 ### Hunter
 

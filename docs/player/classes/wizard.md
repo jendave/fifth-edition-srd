@@ -6,7 +6,7 @@ As a wizard, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d6 per wizard level 
+**Hit Dice:** 1d6 per wizard level
 
 **Hit Points at 1st Level:** 6 + your Constitution modifier
 
@@ -421,7 +421,7 @@ For example, if you're a 4th level wizard, you can recover up to two levels wort
 
 ### Arcane Tradition
 
-When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation, all detailed at the end of the class description.
+When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
@@ -444,7 +444,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 
 The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
 
-The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools; a wizard might study at the School of Illusion while another studies across town at the School of Enchantment. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
+The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
 
 ### School of Evocation
 

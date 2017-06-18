@@ -417,7 +417,7 @@ _**Claw.**_ *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 
 
 *Tiny fiend (demon, shapechanger), chaotic evil*
 
-**Armor Class** 13 
+**Armor Class** 13
 
 **Hit Points** 7 (3d4)
 
@@ -444,7 +444,7 @@ _**Claw.**_ *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 
 	</tbody>
 </table>
 
-**Skills** Stealth +5  
+**Skills** Stealth +5
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -842,7 +842,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 **Armor Class** 18 (natural armor)
 
-**Hit Points** 148 (17d10 + 55)
+**Hit Points** 178 (17d10 + 85)
 
 **Speed** 20 ft., fly 60 ft.
 
@@ -1052,11 +1052,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** charmed, frightened, poisoned 
+**Condition Immunities** charmed, frightened, poisoned
 
-**Senses** darkvision 120 ft., passive Perception 10 
+**Senses** darkvision 120 ft., passive Perception 10
 
-**Languages** understands Infernal but can’t speak 
+**Languages** understands Infernal but can’t speak
 
 **Challenge** 0 (10 XP)
 
@@ -1170,9 +1170,9 @@ At will: *detect magic*, *fireball*
 	</tbody>
 </table>
 
-**Skills** Perception +3, Stealth +4 
+**Skills** Perception +3, Stealth +4
 
-**Senses** passive Perception 13 
+**Senses** passive Perception 13
 
 **Languages** —
 
@@ -1322,7 +1322,7 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 **Shapechanger.** The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
-**Ambusher.** The doppelganger has advantage on attack rolls against any creature it has surprised.
+**Ambusher.** In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it has surprised.
 
 **Surprise Attack.** If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
 
@@ -1863,9 +1863,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
 
-**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8 
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
 
-**Damage Immunities** poison 
+**Damage Immunities** poison
 
 **Condition Immunities** poisoned
 
@@ -4154,4 +4154,3 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 **Invisibility (Recharges after a Short or Long Rest).** The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell).
 
 Any equipment the duergar wears or carries is invisible with it.
-

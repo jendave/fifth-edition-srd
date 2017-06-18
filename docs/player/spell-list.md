@@ -1,4 +1,4 @@
-# Spell List
+# Spell Lists
 
 ### Bard
 #### Cantrips (0 Level)
@@ -12,11 +12,13 @@
 <li>Minor Illusion</li>
 <li>Prestidigitation</li>
 <li>True Strike</li>
+<li>Vicious Mockery</li>
 </ul>
 
 #### 1st Level
 
 <ul style="list-style-type:none">
+<li>Animal Friendship</li>
 <li>Bane</li>
 <li>Charm Person</li>
 <li>Comprehend Languages</li>
@@ -85,6 +87,7 @@
 #### 4th Level
 
 <ul style="list-style-type:none">
+<li>Compulsion</li>
 <li>Confusion</li>
 <li>Dimension Door</li>
 <li>Freedom of Movement</li>
@@ -170,6 +173,7 @@
 <li>Mending</li>
 <li>Resistance</li>
 <li>Sacred Flame</li>
+<li>Spare the Dying</li>
 <li>Thaumaturgy</li>
 </ul>
 
@@ -247,6 +251,7 @@
 <li>Death Ward</li>
 <li>Divination</li>
 <li>Freedom of Movement</li>
+<li>Guardian of Faith</li>
 <li>Locate Creature</li>
 <li>Stone Shape</li>
 </ul>
@@ -320,8 +325,10 @@
 #### Cantrips (0 Level)
 
 <ul style="list-style-type:none">
+<li>Druidcraft</li>
 <li>Guidance</li>
 <li>Mending</li>
+<li>Poison Spray</li>
 <li>Produce Flame</li>
 <li>Resistance</li>
 <li>Shillelagh</li>
@@ -330,6 +337,7 @@
 #### 1st Level
 
 <ul style="list-style-type:none">
+<li>Animal Friendship</li>
 <li>Charm Person</li>
 <li>Create or Destroy Water</li>
 <li>Cure Wounds</li>
@@ -338,6 +346,7 @@
 <li>Entangle</li>
 <li>Faerie Fire</li>
 <li>Fog Cloud</li>
+<li>Goodberry</li>
 <li>Healing Word</li>
 <li>Jump</li>
 <li>Longstrider</li>
@@ -490,6 +499,7 @@
 
 <ul style="list-style-type:none">
 <li>Aid</li>
+<li>Branding Smite</li>
 <li>Find Steed</li>
 <li>Lesser Restoration</li>
 <li>Locate Object</li>
@@ -531,10 +541,13 @@
 
 <ul style="list-style-type:none">
 <li>Alarm</li>
+<li>Animal Friendship</li>
 <li>Cure Wounds</li>
 <li>Detect Magic</li>
 <li>Detect Poison and Disease</li>
 <li>Fog Cloud</li>
+<li>Goodberry</li>
+<li>Hunter's Mark</li>
 <li>Jump</li>
 <li>Longstrider</li>
 <li>Speak with Animals</li>
@@ -584,11 +597,13 @@
 <li>Acid Splash</li>
 <li>Chill Touch</li>
 <li>Dancing Lights</li>
+<li>Fire Bolt</li>
 <li>Light</li>
 <li>Mage Hand</li>
 <li>Mending</li>
 <li>Message</li>
 <li>Minor Illusion</li>
+<li>Poison Spray</li>
 <li>Prestidigitation</li>
 <li>Ray of Frost</li>
 <li>Shocking Grasp</li>
@@ -642,6 +657,7 @@
 <ul style="list-style-type:none">
 <li>Blink</li>
 <li>Clairvoyance</li>
+<li>Counterspell</li>
 <li>Daylight</li>
 <li>Dispel Magic</li>
 <li>Fear</li>
@@ -660,7 +676,7 @@
 <li>Water Breathing</li>
 <li>Water Walk</li>
 </ul>
- #### 4th Level<ul style="list-style-type:none">
+#### 4th Level<ul style="list-style-type:none">
 <li>Banishment</li>
 <li>Blight</li>
 <li>Confusion</li>
@@ -730,8 +746,10 @@
 
 ### Warlock Spells#### Cantrips (0 Level)<ul style="list-style-type:none">
 <li>Chill Touch</li>
+<li>Eldritch  Blast</li>
 <li>Mage Hand</li>
 <li>Minor Illusion</li>
+<li>Poison Spray</li>
 <li>Prestidigitation</li>
 <li>True Strike</li>
 </ul>
@@ -741,6 +759,7 @@
 <li>Charm Person</li>
 <li>Comprehend Languages</li>
 <li>Expeditious Retreat</li>
+<li>Hellish Rebuke</li>
 <li>Illusory Script</li>
 <li>Protection from Evil and Good</li>
 <li>Unseen Servant</li>
@@ -759,6 +778,7 @@
 </ul>
 
 #### 3rd Level<ul style="list-style-type:none">
+<li>Counterspell</li>
 <li>Dispel Magic</li>
 <li>Fear</li>
 <li>Fly</li>
@@ -830,11 +850,13 @@
 <li>Acid Splash</li>
 <li>Chill Touch</li>
 <li>Dancing Lights</li>
+<li>Fire Bolt</li>
 <li>Light</li>
 <li>Mage Hand</li>
 <li>Mending</li>
 <li>Message</li>
 <li>Minor Illusion</li>
+<li>Poison Spray</li>
 <li>Prestidigitation</li>
 <li>Ray of Frost</li>
 <li>Shocking Grasp</li>
@@ -851,6 +873,7 @@
 <li>Expeditious Retreat</li>
 <li>False Life</li>
 <li>Feather Fall</li>
+<li>Find Familiar</li>
 <li>Floating Disk</li>
 <li>Fog Cloud</li>
 <li>Grease</li>
@@ -906,6 +929,7 @@
 <li>Bestow Curse</li>
 <li>Blink</li>
 <li>Clairvoyance</li>
+<li>Counterspell</li>
 <li>Dispel Magic</li>
 <li>Fear</li>
 <li>Fireball</li>

@@ -16,11 +16,11 @@ As a sorcerer, you gain the following class features.
 
 **Armor:** None
 
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows 
+**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 
 **Tools:** None
 
-**Saving Throws:** Constitution, Charisma 
+**Saving Throws:** Constitution, Charisma
 
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
@@ -438,7 +438,7 @@ Additionally, when you gain a level in this class, you can choose one of the sor
 
 #### Spellcasting Ability
 
-Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one. 
+Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
 
@@ -450,7 +450,8 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
 ### Sorcerous Origin
 
-Choose a sorcerous origin, which describes the source of your innate magical power: Draconic Bloodline or Wild Magic, both detailed at the end of the class description.
+Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline.
+
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
 ### Font of Magic
@@ -550,7 +551,7 @@ When you cast a spell, you can spend 1 sorcery point to cast it without any soma
 
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
+To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* is.
 
 ### Ability Score Improvement
 
@@ -562,7 +563,7 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 
 ## Sorcerous Origins
 
-Different sorcerers claim different origins for their innate magic. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild magic.
+Different sorcerers claim different origins for their innate magic, such as a draconic bloodline.
 
 ### Draconic Bloodline
 

@@ -6,21 +6,21 @@ As a bard, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d8 per bard level 
+**Hit Dice:** 1d8 per bard level
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier 
+**Hit Points at 1st Level:** 8 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
 #### Proficiencies
 
-**Armor:** Light armor 
+**Armor:** Light armor
 
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords 
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 
-**Tools:** Three musical instruments of your choice 
+**Tools:** Three musical instruments of your choice
 
-**Saving Throws:** Dexterity, Charisma 
+**Saving Throws:** Dexterity, Charisma
 
 **Skills:** Choose any three
 
@@ -430,7 +430,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 #### Spellcasting Focus
 
-You can use a musical instrument (see chapter 5, “Equipment”) as a spellcasting focus for your bard spells.
+You can use a musical instrument (see “Equipment”) as a spellcasting focus for your bard spells.
 
 ### Bardic Inspiration
 
@@ -454,7 +454,7 @@ The extra hit points increase when you reach certain levels in this class: to 1d
 
 ### Bard College
 
-At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level.
+At 3rd level, you delve into the advanced techniques of a bard college of your choice, such as the College of Lore. Your choice grants you features at 3rd level and again at 6th and 14th level.
 
 ### Expertise
 

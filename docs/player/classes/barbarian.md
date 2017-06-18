@@ -6,17 +6,17 @@ As a barbarian, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d12 per barbarian level 
+**Hit Dice:** 1d12 per barbarian level
 
-**Hit Points at 1st Level:** 12 + your Constitution modifier 
+**Hit Points at 1st Level:** 12 + your Constitution modifier
 
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
 
 #### Proficiencies
 
-**Armor:** Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None 
+**Armor:** Light armor, medium armor, shields Weapons: Simple weapons, martial weapons Tools: None
 
-**Saving Throws:** Strength, Constitution 
+**Saving Throws:** Strength, Constitution
 
 **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
@@ -272,7 +272,7 @@ For some barbarians, rage is a means to an end— that end being violence. The P
 
 #### Frenzy
 
-Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).
+Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix PH-A).
 
 #### Mindless Rage
 
