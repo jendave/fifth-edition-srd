@@ -28,169 +28,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) two handaxes or (*b*) any simple weapon
 * An explorer's pack and four javelins
 
-<table>
-<caption id="the-barbarian">The Barbarian</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### The Barbarian
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Proficiency Bonus</th>
-	<th>Features</th>
-	<th>Rages</th>
-	<th>Rage Damage</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>+2</td>
-	<td>Rage, Unarmored Defense</td>
-	<td>2</td>
-	<td>+2</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>+2</td>
-	<td>Reckless Attack, Danger Sense</td>
-	<td>2</td>
-	<td>+2</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>+2</td>
-	<td>Primal Path</td>
-	<td>3</td>
-	<td>+2</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>+2</td>
-	<td>Ability Score Improvement</td>
-	<td>3</td>
-	<td>+2</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>+3</td>
-	<td>Extra Attack, Fast Movement</td>
-	<td>3</td>
-	<td>+2</td>
-</tr>
-<tr>
-	<td>6th</td>
-	<td>+3</td>
-	<td>Path feature</td>
-	<td>4</td>
-	<td>+2</td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td>+3</td>
-	<td>Feral Instinct</td>
-	<td>4</td>
-	<td>+2</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>+3</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>+2</td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td>+4</td>
-	<td>Brutal Critical (1die)</td>
-	<td>4</td>
-	<td>+3</td>
-</tr>
-<tr>
-	<td>10th</td>
-	<td>+4</td>
-	<td>Path feature</td>
-	<td>4</td>
-	<td>+3</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>+4</td>
-	<td>Relentless Rage</td>
-	<td>4</td>
-	<td>+3</td>
-</tr>
-<tr>
-	<td>12th</td>
-	<td>+4</td>
-	<td>Ability Score Improvement</td>
-	<td>5</td>
-	<td>+3</td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td>+5</td>
-	<td>Brutal Critical (2 dice)</td>
-	<td>5</td>
-	<td>+3</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>+5</td>
-	<td>Path Feature</td>
-	<td>5</td>
-	<td>+3</td>
-</tr>
-<tr>
-	<td>15th</td>
-	<td>+5</td>
-	<td>Persistant Rage</td>
-	<td>5</td>
-	<td>+3</td>
-</tr>
-<tr>
-	<td>16th</td>
-	<td>+5</td>
-	<td>Ability Score Improvement</td>
-	<td>5</td>
-	<td>+4</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>+6</td>
-	<td>Brutal Critical (3 dice)</td>
-	<td>6</td>
-	<td>+4</td>
-</tr>
-<tr>
-	<td>18th</td>
-	<td>+6</td>
-	<td>Indomitable Might</td>
-	<td>6</td>
-	<td>+4</td>
-</tr>
-<tr>
-	<td>19th</td>
-	<td>+6</td>
-	<td>Ability Score Improvement</td>
-	<td>6</td>
-	<td>+4</td>
-</tr>
-<tr>
-	<td>20th</td>
-	<td>+6</td>
-	<td>Primal Champion</td>
-	<td>Unlimited</td>
-	<td>+4</td>
-</tr>
-</tbody>
-</table>
+|Level|Proficiency Bonus|Features|Rages|Rage Damage|
+|--- |--- |--- |--- |--- |
+|1st|+2|Rage, Unarmored Defense|2|+2|
+|2nd|+2|Reckless Attack, Danger Sense|2|+2|
+|3rd|+2|Primal Path|3|+2|
+|4th|+2|Ability Score Improvement|3|+2|
+|5th|+3|Extra Attack, Fast Movement|3|+2|
+|6th|+3|Path feature|4|+2|
+|7th|+3|Feral Instinct|4|+2|
+|8th|+3|Ability Score Improvement|4|+2|
+|9th|+4|Brutal Critical (1die)|4|+3|
+|10th|+4|Path feature|4|+3|
+|11th|+4|Relentless Rage|4|+3|
+|12th|+4|Ability Score Improvement|5|+3|
+|13th|+5|Brutal Critical (2 dice)|5|+3|
+|14th|+5|Path Feature|5|+3|
+|15th|+5|Persistant Rage|5|+3|
+|16th|+5|Ability Score Improvement|5|+4|
+|17th|+6|Brutal Critical (3 dice)|6|+4|
+|18th|+6|Indomitable Might|6|+4|
+|19th|+6|Ability Score Improvement|6|+4|
+|20th|+6|Primal Champion|Unlimited|+4|
 
 ### Rage
 

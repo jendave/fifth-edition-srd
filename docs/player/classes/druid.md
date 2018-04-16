@@ -32,345 +32,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a scimitar or (*b*) any simple melee weapon
 * Leather armor, an explorer's pack, and a druidic focus
 
-<table>
-<caption id="the-druid">The Druid</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### The Druid
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Proficiency Bonus</th>
-	<th>Features</th>
-	<th>Cantrips Known</th>
-	<th>1st</th>
-	<th>2nd</th>
-	<th>3rd</th>
-	<th>4th</th>
-	<th>5th</th>
-	<th>6th</th>
-	<th>7th</th>
-	<th>8th</th>
-	<th>9th</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>+2</td>
-	<td>Druidic, Spellcasting</td>
-	<td>2</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>+2</td>
-	<td>Wild Shape, Druid Circle</td>
-	<td>2</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>+2</td>
-	<td>&#8212;</td>
-	<td>2</td>
-	<td>4</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>+2</td>
-	<td>Wild Shape improvement, Ability Score Improvement</td>
-	<td>3</td>
-	<td>4</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>+3</td>
-	<td>&#8212;</td>
-	<td>3</td>
-	<td>4</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>6th</td>
-	<td>+3</td>
-	<td>Druid Circle feature</td>
-	<td>3</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td>+3</td>
-	<td>&#8212;</td>
-	<td>3</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>+3</td>
-	<td>Wild Shape improvement, Ability Score Improvement</td>
-	<td>3</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td>+4</td>
-	<td>&#8212;</td>
-	<td>3</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>10th</td>
-	<td>+4</td>
-	<td>Druid Circle feature</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>+4</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>12th</td>
-	<td>+4</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td>+5</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>+5</td>
-	<td>Druid Circle feature</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>15th</td>
-	<td>+5</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>16th</td>
-	<td>+5</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>+6</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>18th</td>
-	<td>+6</td>
-	<td>Timeless Body, Beast Spells</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>19th</td>
-	<td>+6</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>20th</td>
-	<td>+6</td>
-	<td>Archdruid</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-</tbody>
-</table>
+|Level|Proficiency Bonus|Features|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|1st|+2|Druidic, Spellcasting|2|2|—|—|—|—|—|—|—|—|
+|2nd|+2|Wild Shape, Druid Circle|2|3|—|—|—|—|—|—|—|—|
+|3rd|+2|—|2|4|2|—|—|—|—|—|—|—|
+|4th|+2|Wild Shape improvement, Ability Score Improvement|3|4|3|—|—|—|—|—|—|—|
+|5th|+3|—|3|4|3|2|—|—|—|—|—|—|
+|6th|+3|Druid Circle feature|3|4|3|3|—|—|—|—|—|—|
+|7th|+3|—|3|4|3|3|1|—|—|—|—|—|
+|8th|+3|Wild Shape improvement, Ability Score Improvement|3|4|3|3|2|—|—|—|—|—|
+|9th|+4|—|3|4|3|3|2|—|—|—|—|—|
+|10th|+4|Druid Circle feature|4|4|3|3|3|2|—|—|—|—|
+|11th|+4|—|4|4|3|3|3|2|1|—|—|—|
+|12th|+4|Ability Score Improvement|4|4|3|3|3|2|1|—|—|—|
+|13th|+5|—|4|4|3|3|3|2|1|—|—|—|
+|14th|+5|Druid Circle feature|4|4|3|3|3|2|1|1|—|—|
+|15th|+5|—|4|4|3|3|3|2|1|1|1|—|
+|16th|+5|Ability Score Improvement|4|4|3|3|3|2|1|1|1|—|
+|17th|+6|—|4|4|3|3|3|2|1|1|1|1|
+|18th|+6|Timeless Body, Beast Spells|4|4|3|3|3|3|1|1|1|1|
+|19th|+6|Ability Score Improvement|4|4|3|3|3|3|2|1|1|1|
+|20th|+6|Archdruid|4|4|3|3|3|3|2|2|1|1|
 
 ### Druidic
 
@@ -415,45 +100,13 @@ Starting at 2nd level, you can use your action to magically assume the shape of 
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of &frac14; or lower that doesn't have a flying or swimming speed.
 
-<table>
-<caption id="beast-shapes">Beast Shapes</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Beast Shapes
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Max. CR</th>
-	<th>Limitations</th>
-	<th>Example</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>2nd</td>
-	<td>&frac14;</td>
-	<td>No flying or swimming speed</td>
-	<td>Wolf</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>&frac12;</td>
-	<td>No flying speed</td>
-	<td>Crocodile</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>Giant eagle</td>
-</tr>
-</tbody>
-</table>
+|Level|Max. CR|Limitations|Example|
+|--- |--- |--- |--- |
+|2nd|¼|No flying or swimming speed|Wolf|
+|4th|½|No flying speed|Crocodile|
+|8th|1|—|Giant eagle|
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
@@ -506,249 +159,68 @@ Your mystical connection to the land infuses you with the ability to cast certai
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-<table>
-<caption id="arctic">Arctic</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Arctic
 
-<thead>
-<tr>
-	<th>Druid Level</th>
-	<th>Circle Spells</th>
-</tr>
-</thead>
+| Druid Level | Circle Spells                         |
+| ----------- | ------------------------------------- |
+| 3rd         | *hold person*, *spike growth*         |
+| 5th         | *sleet storm*, *slow*                 |
+| 7th         | *freedom of movement*, *ice storm*    |
+| 9th         | *commune with nature*, *cone of cold* |
 
-<tbody>
-<tr>
-	<td>3rd</td>
-	<td><em>hold person</em>, <em>spike growth</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>sleet storm</em>, <em>slow</em></td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td><em>freedom of movement</em>, <em>ice storm</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>commune with nature</em>, <em>cone of cold</em></td>
-</tr>
-</tbody>
-</table>
+#### Coast
 
+| Druid Level | Circle Spells                          |
+| ----------- | -------------------------------------- |
+| 3rd         | *mirror image,* *misty step*           |
+| 5th         | *water breathing*, *water walk*        |
+| 7th         | *control water*, *freedom of movement* |
+| 9th         | *conjure elemental*, *scrying*         |
 
-<table>
-<caption id="coast">Coast</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Desert
 
-<thead>
-<tr>
-	<th>Druid Level</th>
-	<th>Circle Spells</th>
-</tr>
-</thead>
+| Druid Level | Circle Spells                                     |
+| ----------- | ------------------------------------------------- |
+| 3rd         | *blur*, *silence*                                 |
+| 5th         | *create food and water*, *protection from energy* |
+| 7th         | *blight*, *hallucinatory terrain*                 |
+| 9th         | *insect plague*, *wall of stone*                  |
 
-<tbody>
-<tr>
-	<td>3rd</td>
-	<td><em>mirror image,</em> <em>misty step</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>water breathing</em>, <em>water walk</em></td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td><em>control water</em>, <em>freedom of movement</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>conjure elemental</em>, <em>scrying</em></td>
-</tr>
-</tbody>
-</table>
+#### Forest
 
+| Druid Level | Circle Spells                        |
+| ----------- | ------------------------------------ |
+| 3rd         | *barkskin*, *spider climb*           |
+| 5th         | *call lightning*, *plant growth*     |
+| 7th         | *divination*, *freedom of movement*  |
+| 9th         | *commune with nature*, *tree stride* |
 
-<table>
-<caption id="desert">Desert</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Grassland
 
-<thead>
-<tr>
-	<th>Druid Level</th>
-	<th>Circle Spells</th>
-</tr>
-</thead>
+| Druid Level | Circle Spells                        |
+| ----------- | ------------------------------------ |
+| 3rd         | *invisibility*, *pass without trace* |
+| 5th         | *daylight*, *haste*                  |
+| 7th         | *divination*, *freedom of movement*  |
+| 9th         | *dream*, *insect plague*             |
 
-<tbody>
-<tr>
-	<td>3rd</td>
-	<td><em>blur</em>, <em>silence</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>create food and water</em>, <em>protection from energy</em></td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td><em>blight</em>, <em>hallucinatory terrain</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>insect plague</em>, <em>wall of stone</em></td>
-</tr>
-</tbody>
-</table>
+#### Mountain
 
+| Druid Level | Circle Spells                       |
+| ----------- | ----------------------------------- |
+| 3rd         | *spider climb,* *spike growth*      |
+| 5th         | *lightning bolt*, *meld into stone* |
+| 7th         | *stone shape*, *stoneskin*          |
+| 9th         | *passwall*, *wall of stone*         |
 
-<table>
-<caption id="forest">Forest</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Swamp
 
-<thead>
-<tr>
-	<th>Druid Level</th>
-	<th>Circle Spells</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>3rd</td>
-	<td><em>barkskin</em>, <em>spider climb</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>call lightning</em>, <em>plant growth</em></td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td><em>divination</em>, <em>freedom of movement</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>commune with nature</em>, <em>tree stride</em></td>
-</tr>
-</tbody>
-</table>
-
-
-<table>
-<caption id="grassland">Grassland</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
-
-<thead>
-<tr>
-	<th>Druid Level</th>
-	<th>Circle Spells</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>3rd</td>
-	<td><em>invisibility</em>, <em>pass without trace</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>daylight</em>, <em>haste</em></td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td><em>divination</em>, <em>freedom of movement</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>dream</em>, <em>insect plague</em></td>
-</tr>
-</tbody>
-</table>
-
-
-<table>
-<caption id="mountain">Mountain</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
-
-<thead>
-<tr>
-	<th>Druid Level</th>
-	<th>Circle Spells</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>3rd</td>
-	<td><em>spider climb,</em> <em>spike growth</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>lightning bolt</em>, <em>meld into stone</em></td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td><em>stone shape</em>, <em>stoneskin</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>passwall</em>, <em>wall of stone</em></td>
-</tr>
-</tbody>
-</table>
-
-
-<table>
-<caption id="swamp">Swamp</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
-
-<thead>
-<tr>
-	<th>Druid Level</th>
-	<th>Circle Spells</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>3rd</td>
-	<td><em>acid arrow</em>, <em>darkness</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>water walk</em>, <em>stinking cloud</em></td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td><em>freedom of movement</em>, <em>locate creature</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>insect plague</em>, <em>scrying</em></td>
-</tr>
-</tbody>
-</table>
+| Druid Level | Circle Spells                            |
+| ----------- | ---------------------------------------- |
+| 3rd         | *acid arrow*, *darkness*                 |
+| 5th         | *water walk*, *stinking cloud*           |
+| 7th         | *freedom of movement*, *locate creature* |
+| 9th         | *insect plague*, *scrying*               |
 
 #### Land's Stride
 

@@ -33,235 +33,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a priest's pack or (*b*) an explorer's pack
 * Chain mail and a holy symbol
 
-<table>
-<caption id="the-paladin">The Paladin</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### The Paladin
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Proficiency Bonus</th>
-	<th>Features</th>
-	<th>1st</th>
-	<th>2nd</th>
-	<th>3rd</th>
-	<th>4th</th>
-	<th>5th</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>+2</td>
-	<td>Divine Sense, Lay on Hands</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>+2</td>
-	<td>Fighting Style, Spellcasting, Divine Smite</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>+2</td>
-	<td>Divine Health, Sacred Oath</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>+2</td>
-	<td>Ability Score Improvement</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>+3</td>
-	<td>Extra Attack</td>
-	<td>4</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>6th</td>
-	<td>+3</td>
-	<td>Aura of Protection</td>
-	<td>4</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td>+3</td>
-	<td>Sacred Oath feature</td>
-	<td>4</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>+3</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td>+4</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>10th</td>
-	<td>+4</td>
-	<td>Aura of Courage</td>
-	<td>4</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>+4</td>
-	<td>Improved Divine Smite</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>12th</td>
-	<td>+4</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td>+5</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>+5</td>
-	<td>Cleansing Touch</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>15th</td>
-	<td>+5</td>
-	<td>Sacred Oath feature</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>16th</td>
-	<td>+5</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>+6</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>18th</td>
-	<td>+6</td>
-	<td>Aura improvements</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>19th</td>
-	<td>+6</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-</tr>
-<tr>
-	<td>20th</td>
-	<td>+6</td>
-	<td>Sacred Oath feature</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-</tr>
-</tbody>
-</table>
+| Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ----------------- | ------------------------------------------ | --- | --- | --- | --- | --- |
+| 1st   |  +2               | Divine Sense, Lay on Hands                 | —   | —   | —   | —   | —   |
+| 2nd   |  +2               | Fighting Style, Spellcasting, Divine Smite | 2   | —   | —   | —   | —   |
+| 3rd   |  +2               | Divine Health, Sacred Oath                 | 3   | —   | —   | —   | —   |
+| 4th   |  +2               | Ability Score Improvement                  | 3   | —   | —   | —   | —   |
+| 5th   |  +3               | Extra Attack                               | 4   | 2   | —   | —   | —   |
+| 6th   |  +3               | Aura of Protection                         | 4   | 2   | —   | —   | —   |
+| 7th   |  +3               | Sacred Oath feature                        | 4   | 3   | —   | —   | —   |
+| 8th   |  +3               | Ability Score Improvement                  | 4   | 3   | —   | —   | —   |
+| 9th   |  +4               | —                                          | 4   | 3   | 2   | —   | —   |
+| 10th  |  +4               | Aura of Courage                            | 4   | 3   | 2   | —   | —   |
+| 11th  |  +4               | Improved Divine Smite                      | 4   | 3   | 3   | —   | —   |
+| 12th  |  +4               | Ability Score Improvement                  | 4   | 3   | 3   | —   | —   |
+| 13th  |  +5               | —                                          | 4   | 3   | 3   | 1   | —   |
+| 14th  |  +5               | Cleansing Touch                            | 4   | 3   | 3   | 1   | —   |
+| 15th  |  +5               | Sacred Oath feature                        | 4   | 3   | 3   | 2   | —   |
+| 16th  |  +5               | Ability Score Improvement                  | 4   | 3   | 3   | 2   | —   |
+| 17th  |  +6               | —                                          | 4   | 3   | 3   | 3   | 1   |
+| 18th  |  +6               | Aura improvements                          | 4   | 3   | 3   | 3   | 1   |
+| 19th  |  +6               | Ability Score Improvement                  | 4   | 3   | 3   | 3   | 2   |
+| 20th  |  +6               | Sacred Oath feature                        | 4   | 3   | 3   | 3   | 2   |
 
 ### Divine Sense
 
@@ -407,43 +202,15 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 
 You gain oath spells at the paladin levels listed.
 
-<table>
-<caption id="oath-of-devotion-spells">Oath of Devotion Spells</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Oath of Devotion Spells
 
-<thead>
-<tr>
-	<th>Paladin Level</th>
-	<th>Spells</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>3rd</td>
-	<td><em>protection from evil and good</em>, <em>sanctuary</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>lesser restoration</em>, <em>zone of truth</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>beacon of hope</em>, <em>dispel magic</em></td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td><em>freedom of movement</em>, <em>guardian of faith</em></td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td><em>commune</em>, <em>flame strike</em></td>
-</tr>
-</tbody>
-</table>
+| Paladin Level | Spells                                       |
+| ------------- | -------------------------------------------- |
+| 3rd           | *protection from evil and good*, *sanctuary* |
+| 5th           | *lesser restoration*, *zone of truth*        |
+| 9th           | *beacon of hope*, *dispel magic*             |
+| 13th          | *freedom of movement*, *guardian of faith*   |
+| 17th          | *commune*, *flame strike*                    |
 
 #### Channel Divinity
 

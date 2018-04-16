@@ -34,346 +34,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a priest's pack or (*b*) an explorer's pack
 * A shield and a holy symbol
 
-<table>
-<caption id="the-cleric">The Cleric</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### The Cleric
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Proficiency Bonus</th>
-	<th>Features</th>
-	<th>Cantrips Known</th>
-	<th>1st</th>
-	<th>2nd</th>
-	<th>3rd</th>
-	<th>4th</th>
-	<th>5th</th>
-	<th>6th</th>
-	<th>7th</th>
-	<th>8th</th>
-	<th>9th</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>+2</td>
-	<td>Spellcasting, Divine Domain</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>+2</td>
-	<td>Channel Divinity (1/rest), Divine Domain feature</td>
-	<td>3</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>+2</td>
-	<td>&#8212;</td>
-	<td>3</td>
-	<td>4</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>+2</td>
-	<td>Ability Score Improvement</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>+3</td>
-	<td>Destroy Undead (CR 1/2)</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>6th</td>
-	<td>+3</td>
-	<td>Channel Divinity (2/rest), Divine Domain feature</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td>+3</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>+3</td>
-	<td>Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td>+4</td>
-	<td>&#8212;</td>
-	<td>4</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>10th</td>
-	<td>+1</td>
-	<td>Divine Intervention</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>+4</td>
-	<td>Destroy Undead (CR 2)</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>12th</td>
-	<td>+4</td>
-	<td>Ability Score Improvement</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td>+5</td>
-	<td>&#8212;</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>+5</td>
-	<td>Destroy Undead (CR 3)</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>15th</td>
-	<td>+5</td>
-	<td>&#8212;</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>16th</td>
-	<td>+5</td>
-	<td>Ability Score Improvement</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>+6</td>
-	<td>Destroy Undead (CR 4), Divine Domain feature</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>18th</td>
-	<td>+6</td>
-	<td>Channel Divinity (3/rest)</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>19th</td>
-	<td>+6</td>
-	<td>Ability Score Improvement</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>20th</td>
-	<td>+6</td>
-	<td>Divine Intervention improvement</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-</tbody>
-</table>
+|Level|Proficiency Bonus|Features|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|1st|+2|Spellcasting, Divine Domain|3|2|—|—|—|—|—|—|—|—|
+|2nd|+2|Channel Divinity (1/rest), Divine Domain feature|3|3|—|—|—|—|—|—|—|—|
+|3rd|+2|—|3|4|2|—|—|—|—|—|—|—|
+|4th|+2|Ability Score Improvement|4|4|3|—|—|—|—|—|—|—|
+|5th|+3|Destroy Undead (CR 1/2)|4|4|3|2|—|—|—|—|—|—|
+|6th|+3|Channel Divinity (2/rest), Divine Domain feature|4|4|3|3|—|—|—|—|—|—|
+|7th|+3|—|4|4|3|3|1|—|—|—|—|—|
+|8th|+3|Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature|4|4|3|3|2|—|—|—|—|—|
+|9th|+4|—|4|4|3|3|3|1|—|—|—|—|
+|10th|+1|Divine Intervention|5|4|3|3|3|2|—|—|—|—|—|
+|11th|+4|Destroy Undead (CR 2)|5|4|3|3|3|2|1|—|—|—|
+|12th|+4|Ability Score Improvement|5|4|3|3|3|2|1|—|—|—|
+|13th|+5|—|5|4|3|3|3|2|1|1|—|—|
+|14th|+5|Destroy Undead (CR 3)|5|4|3|3|3|2|1|1|—|—|
+|15th|+5|—|5|4|3|3|3|2|1|1|1|—|
+|16th|+5|Ability Score Improvement|5|4|3|3|3|2|1|1|1|—|
+|17th|+6|Destroy Undead (CR 4), Divine Domain feature|5|4|3|3|3|2|1|1|1|1|
+|18th|+6|Channel Divinity (3/rest)|5|4|3|3|3|3|1|1|1|1|
+|19th|+6|Ability Score Improvement|5|4|3|3|3|3|2|1|1|1|
+|20th|+6|Divine Intervention improvement|5|4|3|3|3|3|2|2|1|1|
 
 ### Spellcasting
 
@@ -442,43 +126,15 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
-<table>
-<caption id="destroy-undead">Destroy Undead</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Destroy Undead
 
-<thead>
-<tr>
-	<th>Cleric Level</th>
-	<th>Destroys Undead of CR …</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>5th</td>
-	<td>&frac12; or lower</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>1 or lower</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>2 or lower</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>3 or lower</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>4 or lower</td>
-</tr>
-</tbody>
-</table>
+|Cleric Level|Destroys Undead of CR …|
+|--- |--- |
+|5th|½ or lower|
+|8th|1 or lower|
+|11th|2 or lower|
+|14th|3 or lower|
+|17th|4 or lower|
 
 ### Divine Intervention
 
@@ -494,43 +150,15 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-<table>
-<caption id="life-domain-spells">Life Domain Spells</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Life Domain Spells
 
-<thead>
-<tr>
-	<th>Cleric Level</th>
-	<th>Spells</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td><em>bless</em>, <em>cure wounds</em></td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td><em>lesser restoration</em>, <em>spiritual weapon</em></td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td><em>beacon of hope</em>, <em>revivify</em></td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td><em>death ward</em>, <em>guardian of faith</em></td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td><em>mass cure wounds</em>, <em>raise dead</em></td>
-</tr>
-</tbody>
-</table>
+|Cleric Level|Spells|
+|--- |--- |
+|1st|*bless, cure wounds*|
+|3rd|*lesser restoration, spiritual weapon*|
+|5th|*beacon of hope, revivify*|
+|7th|*death ward, guardian of faith*|
+|9th|*mass cure wounds, raise dead*|
 
 #### Bonus Proficiency
 

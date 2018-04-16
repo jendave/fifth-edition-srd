@@ -33,125 +33,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
 * (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-<table>
-<caption id="the-fighter">The Fighter</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### The Fighter
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Proficiency Bonus</th>
-	<th>Features</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>+2</td>
-	<td>Fighting Style, Second Wind</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>+2</td>
-	<td>Action Surge (one use)</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>+2</td>
-	<td>Martial Archetype</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>+2</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>+3</td>
-	<td>Extra Attack</td>
-</tr>
-<tr>
-	<td>6th</td>
-	<td>+3</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td>+3</td>
-	<td>Martial Archetype feature</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>+3</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td>+4</td>
-	<td>Indomitable (one use)</td>
-</tr>
-<tr>
-	<td>10th</td>
-	<td>+4</td>
-	<td>Martial Archetype feature</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>+4</td>
-	<td>Extra Attack (2)</td>
-</tr>
-<tr>
-	<td>12th</td>
-	<td>+4</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td>+5</td>
-	<td>Indomitable (two uses)</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>+5</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>15th</td>
-	<td>+5</td>
-	<td>Martial Archetype feature</td>
-</tr>
-<tr>
-	<td>16th</td>
-	<td>+5</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>+6</td>
-	<td>Action Surge (two uses), Indomitable (three uses)</td>
-</tr>
-<tr>
-	<td>18th</td>
-	<td>+6</td>
-	<td>Martial Archetype feature</td>
-</tr>
-<tr>
-	<td>19th</td>
-	<td>+6</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>20th</td>
-	<td>+3</td>
-	<td>Extra Attack (3)</td>
-</tr>
-</tbody>
-</table>
+| Level | Proficiency Bonus | Features                                          |
+| ----- | ----------------- | ------------------------------------------------- |
+| 1st   |  +2               | Fighting Style, Second Wind                       |
+| 2nd   |  +2               | Action Surge (one use)                            |
+| 3rd   |  +2               | Martial Archetype                                 |
+| 4th   |  +2               | Ability Score Improvement                         |
+| 5th   |  +3               | Extra Attack                                      |
+| 6th   |  +3               | Ability Score Improvement                         |
+| 7th   |  +3               | Martial Archetype feature                         |
+| 8th   |  +3               | Ability Score Improvement                         |
+| 9th   |  +4               | Indomitable (one use)                             |
+| 10th  |  +4               | Martial Archetype feature                         |
+| 11th  |  +4               | Extra Attack (2)                                  |
+| 12th  |  +4               | Ability Score Improvement                         |
+| 13th  |  +5               | Indomitable (two uses)                            |
+| 14th  |  +5               | Ability Score Improvement                         |
+| 15th  |  +5               | Martial Archetype feature                         |
+| 16th  |  +5               | Ability Score Improvement                         |
+| 17th  |  +6               | Action Surge (two uses), Indomitable (three uses) |
+| 18th  |  +6               | Martial Archetype feature                         |
+| 19th  |  +6               | Ability Score Improvement                         |
+| 20th  |  +3               | Extra Attack (3)                                  |
 
 ### Fighting Style
 

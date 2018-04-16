@@ -32,191 +32,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 * 10 darts
 
-<table>
-<caption id="the-monk">The Monk</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### The Monk
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Proficiency Bonus</th>
-	<th>Martial Arts</th>
-	<th>Ki Points</th>
-	<th>Unarmored Movement</th>
-	<th>Features</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>+2</td>
-	<td>1d4</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>Unarmored Defense, Martial Arts</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>+2</td>
-	<td>1d4</td>
-	<td>2</td>
-	<td>+10 ft.</td>
-	<td>Ki, Unarmored Movement</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>+2</td>
-	<td>1d4</td>
-	<td>3</td>
-	<td>+10 ft.</td>
-	<td>Monastic Tradition, Deflect Missiles</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>+2</td>
-	<td>1d4</td>
-	<td>4</td>
-	<td>+10 ft.</td>
-	<td>Ability Score Improvement, Slow Fall</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>+3</td>
-	<td>1d6</td>
-	<td>5</td>
-	<td>+10 ft.</td>
-	<td>Extra Attack, Stunning Strike</td>
-</tr>
-<tr>
-	<td>6th</td>
-	<td>+3</td>
-	<td>1d6</td>
-	<td>6</td>
-	<td>+15 ft.</td>
-	<td>Ki-Empowered Strikes, Monastic Tradition feature</td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td>+3</td>
-	<td>1d6</td>
-	<td>7</td>
-	<td>+15 ft.</td>
-	<td>Evasion, Stillness of Mind</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>+3</td>
-	<td>1d6</td>
-	<td>8</td>
-	<td>+15 ft.</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td>+4</td>
-	<td>1d6</td>
-	<td>9</td>
-	<td>+15 ft.</td>
-	<td>Unarmored Movement improvement</td>
-</tr>
-<tr>
-	<td>10th</td>
-	<td>+4</td>
-	<td>1d6</td>
-	<td>10</td>
-	<td>+20 ft.</td>
-	<td>Purity of Body</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>+4</td>
-	<td>1d8</td>
-	<td>11</td>
-	<td>+20 ft.</td>
-	<td>Monastic Tradition feature</td>
-</tr>
-<tr>
-	<td>12th</td>
-	<td>+4</td>
-	<td>1d8</td>
-	<td>12</td>
-	<td>+20 ft.</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td>+5</td>
-	<td>1d8</td>
-	<td>13</td>
-	<td>+20 ft.</td>
-	<td>Tongue of the Sun and Moon</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>+5</td>
-	<td>1d8</td>
-	<td>14</td>
-	<td>+25 ft.</td>
-	<td>Diamond Soul</td>
-</tr>
-<tr>
-	<td>15th</td>
-	<td>+5</td>
-	<td>1d8</td>
-	<td>15</td>
-	<td>+25 ft.</td>
-	<td>Timeless Body</td>
-</tr>
-<tr>
-	<td>16th</td>
-	<td>+5</td>
-	<td>1d8</td>
-	<td>16</td>
-	<td>+25 ft.</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>+6</td>
-	<td>1d10</td>
-	<td>17</td>
-	<td>+25 ft.</td>
-	<td>Monastic Tradition feature</td>
-</tr>
-<tr>
-	<td>18th</td>
-	<td>+6</td>
-	<td>1d10</td>
-	<td>18</td>
-	<td>+30 ft.</td>
-	<td>Empty Body</td>
-</tr>
-<tr>
-	<td>19th</td>
-	<td>+6</td>
-	<td>1d10</td>
-	<td>19</td>
-	<td>+30 ft.</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>20th</td>
-	<td>+6</td>
-	<td>1d10</td>
-	<td>20</td>
-	<td>+30 ft.</td>
-	<td>Perfect Self</td>
-</tr>
-</tbody>
-</table>
+| Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
+| ----- | ----------------- | ------------ | --------- | ------------------ | ------------------------------------------------ |
+| 1st   |  +2               | 1d4          | —         | —                  | Unarmored Defense, Martial Arts                  |
+| 2nd   |  +2               | 1d4          | 2         |  +10 ft.           | Ki, Unarmored Movement                           |
+| 3rd   |  +2               | 1d4          | 3         |  +10 ft.           | Monastic Tradition, Deflect Missiles             |
+| 4th   |  +2               | 1d4          | 4         |  +10 ft.           | Ability Score Improvement, Slow Fall             |
+| 5th   |  +3               | 1d6          | 5         |  +10 ft.           | Extra Attack, Stunning Strike                    |
+| 6th   |  +3               | 1d6          | 6         |  +15 ft.           | Ki-Empowered Strikes, Monastic Tradition feature |
+| 7th   |  +3               | 1d6          | 7         |  +15 ft.           | Evasion, Stillness of Mind                       |
+| 8th   |  +3               | 1d6          | 8         |  +15 ft.           | Ability Score Improvement                        |
+| 9th   |  +4               | 1d6          | 9         |  +15 ft.           | Unarmored Movement improvement                   |
+| 10th  |  +4               | 1d6          | 10        |  +20 ft.           | Purity of Body                                   |
+| 11th  |  +4               | 1d8          | 11        |  +20 ft.           | Monastic Tradition feature                       |
+| 12th  |  +4               | 1d8          | 12        |  +20 ft.           | Ability Score Improvement                        |
+| 13th  |  +5               | 1d8          | 13        |  +20 ft.           | Tongue of the Sun and Moon                       |
+| 14th  |  +5               | 1d8          | 14        |  +25 ft.           | Diamond Soul                                     |
+| 15th  |  +5               | 1d8          | 15        |  +25 ft.           | Timeless Body                                    |
+| 16th  |  +5               | 1d8          | 16        |  +25 ft.           | Ability Score Improvement                        |
+| 17th  |  +6               | 1d10         | 17        |  +25 ft.           | Monastic Tradition feature                       |
+| 18th  |  +6               | 1d10         | 18        |  +30 ft.           | Empty Body                                       |
+| 19th  |  +6               | 1d10         | 19        |  +30 ft.           | Ability Score Improvement                        |
+| 20th  |  +6               | 1d10         | 20        |  +30 ft.           | Perfect Self                                     |
 
 ### Unarmored Defense
 

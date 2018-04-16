@@ -33,389 +33,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 * Two daggers
 
-<table>
-<caption id="the-sorcerer">The Sorcerer</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### The Sorcerer
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Proficiency Bonus</th>
-	<th>Sorcery Points</th>
-	<th>Features</th>
-	<th>Cantrips Known</th>
-	<th>Spells Known</th>
-	<th>1st</th>
-	<th>2nd</th>
-	<th>3rd</th>
-	<th>4th</th>
-	<th>5th</th>
-	<th>6th</th>
-	<th>7th</th>
-	<th>8th</th>
-	<th>9th</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>+2</td>
-	<td>&#8212;</td>
-	<td>Spellcasting,Sorcerous Origin</td>
-	<td>4</td>
-	<td>2</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>+2</td>
-	<td>2</td>
-	<td>FontofMagic</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>+2</td>
-	<td>3</td>
-	<td>Metamagic</td>
-	<td>4</td>
-	<td>4</td>
-	<td>4</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>+2</td>
-	<td>4</td>
-	<td>Ability Score Improvement</td>
-	<td>5</td>
-	<td>5</td>
-	<td>4</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>+3</td>
-	<td>5</td>
-	<td>&#8212;</td>
-	<td>5</td>
-	<td>6</td>
-	<td>4</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>6th</td>
-	<td>+3</td>
-	<td>6</td>
-	<td>Sorcerous Origin feature</td>
-	<td>5</td>
-	<td>7</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td>+3</td>
-	<td>7</td>
-	<td>&#8212;</td>
-	<td>5</td>
-	<td>8</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>+3</td>
-	<td>8</td>
-	<td>Ability Score Improvement</td>
-	<td>5</td>
-	<td>9</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td>+4</td>
-	<td>9</td>
-	<td>&#8212;</td>
-	<td>5</td>
-	<td>10</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>10th</td>
-	<td>+4</td>
-	<td>10</td>
-	<td>Metamagic</td>
-	<td>6</td>
-	<td>11</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>+4</td>
-	<td>11</td>
-	<td>&#8212;</td>
-	<td>6</td>
-	<td>12</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>12th</td>
-	<td>+4</td>
-	<td>12</td>
-	<td>Ability Score Improvement</td>
-	<td>6</td>
-	<td>12</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td>+5</td>
-	<td>13</td>
-	<td>&#8212;</td>
-	<td>6</td>
-	<td>13</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>+5</td>
-	<td>14</td>
-	<td>Sorcerous Origin feature</td>
-	<td>6</td>
-	<td>13</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>15th</td>
-	<td>+5</td>
-	<td>15</td>
-	<td>&#8212;</td>
-	<td>6</td>
-	<td>14</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>16th</td>
-	<td>+5</td>
-	<td>16</td>
-	<td>Ability Score Improvement</td>
-	<td>6</td>
-	<td>14</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>+6</td>
-	<td>17</td>
-	<td>Metamagic</td>
-	<td>6</td>
-	<td>15</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>18th</td>
-	<td>+6</td>
-	<td>18</td>
-	<td>Sorcerous Origin feature</td>
-	<td>6</td>
-	<td>15</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>19th</td>
-	<td>+6</td>
-	<td>19</td>
-	<td>Ability Score Improvement</td>
-	<td>6</td>
-	<td>15</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-<tr>
-	<td>20th</td>
-	<td>+6</td>
-	<td>20</td>
-	<td>Sorcerous Restoration</td>
-	<td>6</td>
-	<td>15</td>
-	<td>4</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>3</td>
-	<td>2</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1</td>
-</tr>
-</tbody>
-</table>
+| Level | Proficiency Bonus | Sorcery Points | Features                      | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | -------------- | ----------------------------- | -------------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   |  +2               | —              | Spellcasting,Sorcerous Origin | 4              | 2            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   |  +2               | 2              | FontofMagic                   | 4              | 3            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   |  +2               | 3              | Metamagic                     | 4              | 4            | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   |  +2               | 4              | Ability Score Improvement     | 5              | 5            | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   |  +3               | 5              | —                             | 5              | 6            | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6th   |  +3               | 6              | Sorcerous Origin feature      | 5              | 7            | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   |  +3               | 7              | —                             | 5              | 8            | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th   |  +3               | 8              | Ability Score Improvement     | 5              | 9            | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   |  +4               | 9              | —                             | 5              | 10           | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th  |  +4               | 10             | Metamagic                     | 6              | 11           | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  |  +4               | 11             | —                             | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  |  +4               | 12             | Ability Score Improvement     | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  |  +5               | 13             | —                             | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th  |  +5               | 14             | Sorcerous Origin feature      | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th  |  +5               | 15             | —                             | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th  |  +5               | 16             | Ability Score Improvement     | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th  |  +6               | 17             | Metamagic                     | 6              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  |  +6               | 18             | Sorcerous Origin feature      | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  |  +6               | 19             | Ability Score Improvement     | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  |  +6               | 20             | Sorcerous Restoration         | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Spellcasting
 
@@ -469,44 +110,15 @@ You can use your sorcery points to gain additional spell slots, or sacrifice spe
 **Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
-<table>
-<caption id="creating-spell-slots">Creating Spell Slots</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### Creating Spell Slots
 
-<thead>
-<tr>
-	<th>Spell Slot Level</th>
-	<th>Sorcerer Point Cost</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>2</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>3</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>5</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>6</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>7</td>
-</tr>
-</tbody>
-</table>
-
+| Spell Slot Level | Sorcerer Point Cost |
+| ---------------- | ------------------- |
+| 1st              | 2                   |
+| 2nd              | 3                   |
+| 3rd              | 5                   |
+| 4th              | 6                   |
+| 5th              | 7                   |
 
 **Converting a Spell Slot to Sorcery Points.** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
@@ -573,63 +185,20 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
-<table>
-<caption id="draconic-ancestry">Draconic Ancestry</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Draconic Ancestry
 
-<thead>
-<tr>
-	<th>Dragon</th>
-	<th>Damage Type</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Black</td>
-	<td>Acid</td>
-</tr>
-<tr>
-	<td>BLue</td>
-	<td>Lightning</td>
-</tr>
-<tr>
-	<td>Brass</td>
-	<td>Fire</td>
-</tr>
-<tr>
-	<td>Bronze</td>
-	<td>Lightning</td>
-</tr>
-<tr>
-	<td>Copper</td>
-	<td>Acid</td>
-</tr>
-<tr>
-	<td>Gold</td>
-	<td>Fire</td>
-</tr>
-<tr>
-	<td>Green</td>
-	<td>Poison</td>
-</tr>
-<tr>
-	<td>Red</td>
-	<td>Fire</td>
-</tr>
-<tr>
-	<td>Silver</td>
-	<td>Cold</td>
-</tr>
-<tr>
-	<td>White</td>
-	<td>Cold</td>
-</tr>
-</tbody>
-</table>
+| Dragon | Damage Type |
+| ------ | ----------- |
+| Black  | Acid        |
+| BLue   | Lightning   |
+| Brass  | Fire        |
+| Bronze | Lightning   |
+| Copper | Acid        |
+| Gold   | Fire        |
+| Green  | Poison      |
+| Red    | Fire        |
+| Silver | Cold        |
+| White  | Cold        |
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 

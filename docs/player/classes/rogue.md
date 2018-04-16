@@ -33,147 +33,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a burglar's pack, (*b*) a dungeoneer's pack, or (*c*) an explorer's pack
 * (*a*) Leather armor, two daggers, and thieves' tools
 
-<table>
-<caption id="the-rogue">The Rogue</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### The Rogue
 
-<thead>
-<tr>
-	<th>Level</th>
-	<th>Proficiency Bonus</th>
-	<th>Sneak Attack</th>
-	<th>Features</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1st</td>
-	<td>+2</td>
-	<td>1d6</td>
-	<td>Expertise, Sneak Attack, Thieves' Cant</td>
-</tr>
-<tr>
-	<td>2nd</td>
-	<td>+2</td>
-	<td>1d6</td>
-	<td>Cunning Action</td>
-</tr>
-<tr>
-	<td>3rd</td>
-	<td>+2</td>
-	<td>2d6</td>
-	<td>Roguish Archetype</td>
-</tr>
-<tr>
-	<td>4th</td>
-	<td>+2</td>
-	<td>2d6</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>5th</td>
-	<td>+3</td>
-	<td>3d6</td>
-	<td>Uncanny Dodge</td>
-</tr>
-<tr>
-	<td>6th</td>
-	<td>+3</td>
-	<td>3d6</td>
-	<td>Expertise</td>
-</tr>
-<tr>
-	<td>7th</td>
-	<td>+3</td>
-	<td>4d6</td>
-	<td>Evasion</td>
-</tr>
-<tr>
-	<td>8th</td>
-	<td>+3</td>
-	<td>4d6</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>9th</td>
-	<td>+4</td>
-	<td>5d6</td>
-	<td>Roguish Archetype feature</td>
-</tr>
-<tr>
-	<td>10th</td>
-	<td>+4</td>
-	<td>5d6</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>11th</td>
-	<td>+4</td>
-	<td>6d6</td>
-	<td>Reliable Talent</td>
-</tr>
-<tr>
-	<td>12th</td>
-	<td>+4</td>
-	<td>6d6</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>13th</td>
-	<td>+5</td>
-	<td>7d6</td>
-	<td>Roguish Archetype feature</td>
-</tr>
-<tr>
-	<td>14th</td>
-	<td>+5</td>
-	<td>7d6</td>
-	<td>Blindsense</td>
-</tr>
-<tr>
-	<td>15th</td>
-	<td>+5</td>
-	<td>8d6</td>
-	<td>Slippery Mind</td>
-</tr>
-<tr>
-	<td>16th</td>
-	<td>+5</td>
-	<td>8d6</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>17th</td>
-	<td>+6</td>
-	<td>9d6</td>
-	<td>Roguish Archetype feature</td>
-</tr>
-<tr>
-	<td>18th</td>
-	<td>+6</td>
-	<td>9d6</td>
-	<td>Elusive</td>
-</tr>
-<tr>
-	<td>19th</td>
-	<td>+6</td>
-	<td>10d6</td>
-	<td>Ability Score Improvement</td>
-</tr>
-<tr>
-	<td>20th</td>
-	<td>+6</td>
-	<td>10d6</td>
-	<td>Stroke of Luck</td>
-</tr>
-</tbody>
-</table>
+| Level | Proficiency Bonus | Sneak Attack | Features                               |
+| ----- | ----------------- | ------------ | -------------------------------------- |
+| 1st   |  +2               | 1d6          | Expertise, Sneak Attack, Thieves' Cant |
+| 2nd   |  +2               | 1d6          | Cunning Action                         |
+| 3rd   |  +2               | 2d6          | Roguish Archetype                      |
+| 4th   |  +2               | 2d6          | Ability Score Improvement              |
+| 5th   |  +3               | 3d6          | Uncanny Dodge                          |
+| 6th   |  +3               | 3d6          | Expertise                              |
+| 7th   |  +3               | 4d6          | Evasion                                |
+| 8th   |  +3               | 4d6          | Ability Score Improvement              |
+| 9th   |  +4               | 5d6          | Roguish Archetype feature              |
+| 10th  |  +4               | 5d6          | Ability Score Improvement              |
+| 11th  |  +4               | 6d6          | Reliable Talent                        |
+| 12th  |  +4               | 6d6          | Ability Score Improvement              |
+| 13th  |  +5               | 7d6          | Roguish Archetype feature              |
+| 14th  |  +5               | 7d6          | Blindsense                             |
+| 15th  |  +5               | 8d6          | Slippery Mind                          |
+| 16th  |  +5               | 8d6          | Ability Score Improvement              |
+| 17th  |  +6               | 9d6          | Roguish Archetype feature              |
+| 18th  |  +6               | 9d6          | Elusive                                |
+| 19th  |  +6               | 10d6         | Ability Score Improvement              |
+| 20th  |  +6               | 10d6         | Stroke of Luck                         |
 
 ### Expertise
 
