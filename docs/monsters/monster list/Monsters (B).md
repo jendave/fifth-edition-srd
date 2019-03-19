@@ -10,26 +10,9 @@
 
 **Speed** 20 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>8 (−1)</td>
-			<td>15 (+2)</td>
-			<td>2 (−4)</td>
-			<td>8 (−1)</td>
-			<td>7 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|16 (+3)|8 (−1)|15 (+2)|2 (−4)|8 (−1)|7 (−2)|
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -57,26 +40,9 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 **Speed** 50 ft., climb 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>23 (+6)</td>
-			<td>16 (+3)</td>
-			<td>18 (+4)</td>
-			<td>7 (−2)</td>
-			<td>14 (+2)</td>
-			<td>12 (+1)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|23 (+6)|16 (+3)|18 (+4)|7 (−2)|14 (+2)|12 (+1)|
 
 **Skills** Perception +6, Stealth +7
 
@@ -113,26 +79,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>15 (+2)</td>
-			<td>14 (+2)</td>
-			<td>13 (+1)</td>
-			<td>8 (−1)</td>
-			<td>11 (+0)</td>
-			<td>9 (−1)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|15 (+2)|14 (+2)|13 (+1)|8 (−1)|11 (+0)|9 (−1)|
 
 **Skills** Stealth +6, Survival +2
 
@@ -162,26 +111,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 40 ft., burrow 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>11 (+0)</td>
-			<td>21 (+5)</td>
-			<td>2 (−4)</td>
-			<td>10 (+0)</td>
-			<td>5 (−3)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|19 (+4)|11 (+0)|21 (+5)|2 (−4)|10 (+0)|5 (−3)|
 
 **Skills** Perception +6
 

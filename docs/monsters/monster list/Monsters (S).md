@@ -10,26 +10,9 @@
 
 **Speed** 30 ft., swim 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>13 (+1)</td>
-			<td>11 (+0)</td>
-			<td>12 (+1)</td>
-			<td>12 (+1)</td>
-			<td>13 (+1)</td>
-			<td>9 (−1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (−1) |
 
 **Skills** Perception +5
 
@@ -65,26 +48,9 @@
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>14 (+2)</td>
-			<td>15 (+2)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-			<td>12 (+1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Damage Vulnerabilities** cold
 
@@ -120,26 +86,9 @@
 
 **Speed** 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>12 (+1)</td>
-			<td>16 (+3)</td>
-			<td>11 (+0)</td>
-			<td>12 (+1)</td>
-			<td>10 (+0)</td>
-			<td>14 (+2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
 **Skills** Perception +2, Performance +6, Stealth +5
 
@@ -169,26 +118,9 @@
 
 **Speed** 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>6 (−2)</td>
-			<td>14 (+2)</td>
-			<td>13 (+1)</td>
-			<td>6 (−2)</td>
-			<td>10 (+0)</td>
-			<td>8 (−1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (−2) | 14 (+2) | 13 (+1) | 6 (−2) | 10 (+0) | 8 (−1) |
 
 **Skills** Stealth +4 (+6 in dim light or darkness)
 
@@ -228,26 +160,9 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Speed** 20 ft., swim 20 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>8 (−1)</td>
-			<td>16 (+3)</td>
-			<td>5 (−3)</td>
-			<td>10 (+0)</td>
-			<td>5 (−3)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 18 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 10 (+0) | 5 (−3) |
 
 **Skills** Stealth +2
 
@@ -283,26 +198,9 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>8 (−1)</td>
-			<td>18 (+4)</td>
-			<td>7 (−2)</td>
-			<td>10 (+0)</td>
-			<td>3 (−4)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 18 (+4) | 8 (−1) | 18 (+4) | 7 (−2) | 10 (+0) | 3 (−4) |
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 
@@ -342,27 +240,9 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>10 (+0)</td>
-			<td>14 (+2)</td>
-			<td>15 (+2)</td>
-			<td>6 (-2)</td>
-			<td>8 (-1)</td>
-			<td>5 (-3)</td>
-		</tr>
-	</tbody>
-</table>
-
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 10 (+0) | 14 (+2) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -392,26 +272,9 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Speed** 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>11 (+0)</td>
-			<td>15 (+2)</td>
-			<td>6 (-2)</td>
-			<td>8 (-1)</td>
-			<td>5 (-3)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 18 (+4) | 11 (+0) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -443,26 +306,9 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Speed** 60 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>12 (+1)</td>
-			<td>15 (+2)</td>
-			<td>2 (−4)</td>
-			<td>8 (−1)</td>
-			<td>5 (−3)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 18 (+4) | 12 (+1) | 15 (+2) | 2 (−4) | 8 (−1) | 5 (−3) |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -490,26 +336,9 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>1 (−5)</td>
-			<td>14 (+2)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-			<td>10 (+0)</td>
-			<td>11 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -543,26 +372,9 @@ If a non-­‐evil humanoid dies from this attack, a new shadow rises from the c
 
 **Speed** 40 ft., fly 60 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>22 (+6)</td>
-			<td>10 (+0)</td>
-			<td>20 (+5)</td>
-			<td>16 (+3)</td>
-			<td>18 (+4)</td>
-			<td>23 (+6)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 22 (+6) | 10 (+0) | 20 (+5) | 16 (+3) | 18 (+4) | 23 (+6) |
 
 **Saving Throws** Dex +6, Con +11, Int +9, Wis +10
 
@@ -632,26 +444,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 60 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>15 (+2)</td>
-			<td>16 (+3)</td>
-			<td>18 (+4)</td>
-			<td>18 (+4)</td>
-			<td>18 (+4)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
 
 **Skills** Arcana +12, History +12, Perception +8, Religion +8
 
@@ -711,26 +506,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 10 ft., fly 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>3 (−4)</td>
-			<td>18 (+4)</td>
-			<td>10 (+0)</td>
-			<td>14 (+2)</td>
-			<td>13 (+1)</td>
-			<td>11 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 3 (−4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +3, Stealth +8 
 
@@ -760,26 +538,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 10 ft., fly 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>4 (−3)</td>
-			<td>16 (+3)</td>
-			<td>11 (+0)</td>
-			<td>2 (−4)</td>
-			<td>8 (−1)</td>
-			<td>6 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 4 (−3) | 16 (+3) | 11 (+0) | 2 (−4) | 8 (−1) | 6 (−2) |
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -803,26 +564,9 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 
 **Speed** 30 ft., fly 60 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>8 (−1)</td>
-			<td>17 (+3)</td>
-			<td>13 (+1)</td>
-			<td>15 (+2)</td>
-			<td>12 (+1)</td>
-			<td>20 (+5)</td>
-		</tr>
-	</tbody>
-</table>
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 8 (−1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
 
 **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
 

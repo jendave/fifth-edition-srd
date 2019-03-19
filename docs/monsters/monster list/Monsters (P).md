@@ -10,26 +10,9 @@
 
 **Speed** 60 ft., fly 90 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>15 (+2)</td>
-			<td>16 (+3)</td>
-			<td>10 (+0)</td>
-			<td>15 (+2)</td>
-			<td>13 (+1)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
 
 **Saving Throws** Dex +4, Wis +4, Cha +3
 
@@ -55,26 +38,9 @@
 
 **Speed** 15 ft., fly 60 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>6 (−2)</td>
-			<td>15 (+2)</td>
-			<td>13 (+1)</td>
-			<td>10 (+0)</td>
-			<td>12 (+1)</td>
-			<td>10 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|6 (−2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 
 **Skills** Perception +3, Stealth +4
 
@@ -106,26 +72,9 @@
 
 **Speed** 50 ft., burrow 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>28 (+9)</td>
-			<td>7 (−2)</td>
-			<td>22 (+6)</td>
-			<td>1 (−5)</td>
-			<td>8 (−1)</td>
-			<td>4 (−3)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|28 (+9)|7 (−2)|22 (+6)|1 (−5)|8 (−1)|4 (−3)|
 
 **Saving Throws** Con +11, Wis +4
 

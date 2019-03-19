@@ -12,26 +12,9 @@
 
 **Speed** 20 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>13 (+1)</td>
-			<td>6 (−2)</td>
-			<td>16 (+3)</td>
-			<td>3 (−4)</td>
-			<td>6 (−2)</td>
-			<td>5 (-3)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|13 (+1)|6 (−2)|16 (+3)|3 (−4)|6 (−2)|5 (-3)|
 
 **Saving Throws** Wis +0
 
@@ -61,26 +44,9 @@
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>6 (−2)</td>
-			<td>18 (+4)</td>
-			<td>3 (−4)</td>
-			<td>6 (−2)</td>
-			<td>5 (−3)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|19 (+4)|6 (−2)|18 (+4)|3 (−4)|6 (−2)|5 (−3)|
 
 **Saving Throws** Wis +0
 

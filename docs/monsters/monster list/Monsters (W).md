@@ -10,26 +10,9 @@
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>15 (+2)</td>
-			<td>14 (+2)</td>
-			<td>16 (+3)</td>
-			<td>10 (+0)</td>
-			<td>13 (+1)</td>
-			<td>15 (+2)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
 **Skills** Perception +3, Stealth +4
 
@@ -69,26 +52,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>1 (−5)</td>
-			<td>28 (+9)</td>
-			<td>10 (+0)</td>
-			<td>13 (+1)</td>
-			<td>14 (+2)</td>
-			<td>11 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|1 (−5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
 
 **Damage Immunities** lightning, poison
 
@@ -126,26 +92,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 0 ft., fly 60 ft. (hover)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>6 (−2)</td>
-			<td>16 (+3)</td>
-			<td>16 (+3)</td>
-			<td>12 (+1)</td>
-			<td>14 (+2)</td>
-			<td>15 (+2)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|6 (−2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 
@@ -179,26 +128,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 20 ft., fly 80 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>10 (+0)</td>
-			<td>16 (+3)</td>
-			<td>5 (−3)</td>
-			<td>12 (+1)</td>
-			<td>6 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|19 (+4)|10 (+0)|16 (+3)|5 (−3)|12 (+1)|6 (−2)|
 
 **Skills** Perception +4
 

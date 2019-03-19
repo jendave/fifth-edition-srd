@@ -10,26 +10,9 @@
 
 **Speed** 50 ft., fly 50 ft. (hover)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>19 (+4)</td>
-			<td>14 (+2)</td>
-			<td>10 (+0)</td>
-			<td>15 (+2)</td>
-			<td>11 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
 
 **Skills** Perception +8, Stealth +10
 

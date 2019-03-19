@@ -12,26 +12,9 @@
 
 **Speed** 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>18 (+4)</td>
-			<td>16 (+3)</td>
-			<td>16 (+3)</td>
-			<td>19 (+4)</td>
-			<td>18 (+4)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
 
 **Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8
 
@@ -79,26 +62,9 @@ Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
 
 **Speed** 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>17 (+3)</td>
-			<td>14 (+2)</td>
-			<td>16 (+3)</td>
-			<td>15 (+2)</td>
-			<td>16 (+3)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
 
 **Saving Throws** Dex +6, Con +5, Wis +5, Cha +6
 
@@ -142,26 +108,9 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 **Speed** 60 ft., fly 90 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>15 (+2)</td>
-			<td>16 (+3)</td>
-			<td>10 (+0)</td>
-			<td>13 (+1)</td>
-			<td>15 (+2)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
 **Damage Immunities** fire
 

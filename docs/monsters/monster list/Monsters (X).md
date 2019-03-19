@@ -10,26 +10,9 @@
 
 **Speed** 20 ft., burrow 20 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>10 (+0)</td>
-			<td>22 (+6)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-			<td>11 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)|
 
 **Skills** Perception +6, Stealth +3
 

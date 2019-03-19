@@ -12,72 +12,15 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-<table>
-<caption id="standard-exchange-rates">Standard Exchange Rates</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Standard Exchange Rates
 
-<thead>
-<tr>
-	<th>Coin</th>
-	<th>CP</th>
-	<th>SP</th>
-	<th>EP</th>
-	<th>GP</th>
-	<th>PP</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Copper (cp)</td>
-	<td>1</td>
-	<td>1/10</td>
-	<td>1/50</td>
-	<td>1/100</td>
-	<td>1/1,000</td>
-</tr>
-<tr>
-	<td>Silver (sp)</td>
-	<td>10</td>
-	<td>1</td>
-	<td>&frac15;</td>
-	<td>1/10</td>
-	<td>1/100</td>
-</tr>
-<tr>
-	<td>Electrum (ep)</td>
-	<td>50</td>
-	<td>5</td>
-	<td>1</td>
-	<td>&frac12;</td>
-	<td>1/20</td>
-</tr>
-<tr>
-	<td>Gold (gp)</td>
-	<td>100</td>
-	<td>10</td>
-	<td>2</td>
-	<td>1</td>
-	<td>1/10</td>
-</tr>
-<tr>
-	<td>Platinum (pp)</td>
-	<td>1,000</td>
-	<td>100</td>
-	<td>20</td>
-	<td>10</td>
-	<td>1</td>
-</tr>
-</tbody>
-</table>
-
+| Coin          | CP    | SP   | EP   | GP    | PP      |
+| ------------- | ----- | ---- | ---- | ----- | ------- |
+| Copper (cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
+| Silver (sp)   | 10    | 1    | ⅕    | 1/10  | 1/100   |
+| Electrum (ep) | 50    | 5    | 1    | ½     | 1/20    |
+| Gold (gp)     | 100   | 10   | 2    | 1     | 1/10    |
+| Platinum (pp) | 1,000 | 100  | 20   | 10    | 1       |
 
 ## Selling Treasure
 
@@ -146,162 +89,28 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 
 **Plate.** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-<table>
-<caption id="armor">Armor</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Armor
 
-<thead>
-<tr>
-	<th>Armor</th>
-	<th>Cost</th>
-	<th>Armor Class (AC)</th>
-	<th style="text-align:center;">Strength</th>
-	<th>Stealth</th>
-	<th>Weight</th>
-</tr>
-</thead>
+| Armor           | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
+| --------------- | -------- | ------------------------- | -------- | ------------ | ------ |
+| Light Armor     |
+| Padded          | 5 gp     | 11 + Dex modifier         | —       | Disadvantage | 8 lb.  |
+| Leather         | 10 gp    | 11 + Dex modifier         | —       | —           | 10 lb. |
+| Studded leather | 45 gp    | 12 + Dex modifier         | —       | —           | 13 lb. |
+| Medium Armor    |
+| Hide            | 10 gp    | 12 + Dex modifier (max 2) | —       | —           | 12 lb. |
+| Chain shirt     | 50 gp    | 13 + Dex modifier (max 2) | —       | —           | 20 lb. |
+| Scale mail      | 50 gp    | 14 + Dex modifier (max 2) | —       | Disadvantage | 45 lb. |
+| Breastplate     | 400 gp   | 14 + Dex modifier (max 2) | —       | —           | 20 lb. |
+| Half plate      | 750 gp   | 15 + Dex modifier (max 2) | —       | Disadvantage | 40 lb. |
+| Heavy Armor     |
+| Ring mail       | 30 gp    | 14                        | —       | Disadvantage | 40 lb. |
+| Chain mail      | 75 gp    | 16                        | Str 13   | Disadvantage | 55 lb. |
+| Splint          | 200 gp   | 17                        | Str 15   | Disadvantage | 60 lb. |
+| Plate           | 1,500 gp | 18                        | Str 15   | Disadvantage | 65 lb. |
+| Shield          |
+| Shield          | 10 gp    | +2                        | —       | —           | 6 lb.  |
 
-<tbody>
-<tr>
-	<td style="text-align:left;" colspan="6"><em>Light Armor</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Padded</td>
-	<td>5 gp</td>
-	<td>11 + Dex modifier</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>Disadvantage</td>
-	<td>8 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Leather</td>
-	<td>10 gp</td>
-	<td>11 + Dex modifier</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>&#8212;</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Studded leather</td>
-	<td>45 gp</td>
-	<td>12 + Dex modifier</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>&#8212;</td>
-	<td>13 lb.</td>
-</tr>
-<tr>
-	<td><em>Medium Armor</em></td>
-	<td></td>
-	<td></td>
-	<td style="text-align:center;"></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Hide</td>
-	<td>10 gp</td>
-	<td>12 + Dex modifier (max 2)</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>&#8212;</td>
-	<td>12 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Chain shirt</td>
-	<td>50 gp</td>
-	<td>13 + Dex modifier (max 2)</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>&#8212;</td>
-	<td>20 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Scale mail</td>
-	<td>50 gp</td>
-	<td>14 + Dex modifier (max 2)</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>Disadvantage</td>
-	<td>45 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Breastplate</td>
-	<td>400 gp</td>
-	<td>14 + Dex modifier (max 2)</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>&#8212;</td>
-	<td>20 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Half plate</td>
-	<td>750 gp</td>
-	<td>15 + Dex modifier (max 2)</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>Disadvantage</td>
-	<td>40 lb.</td>
-</tr>
-<tr>
-	<td><em>Heavy Armor</em></td>
-	<td></td>
-	<td></td>
-	<td style="text-align:center;"></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Ring mail</td>
-	<td>30 gp</td>
-	<td>14</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>Disadvantage</td>
-	<td>40 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Chain mail</td>
-	<td>75 gp</td>
-	<td>16</td>
-	<td style="text-align:center;">Str 13</td>
-	<td>Disadvantage</td>
-	<td>55 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Splint</td>
-	<td>200 gp</td>
-	<td>17</td>
-	<td style="text-align:center;">Str 15</td>
-	<td>Disadvantage</td>
-	<td>60 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Plate</td>
-	<td>1,500 gp</td>
-	<td>18</td>
-	<td style="text-align:center;">Str 15</td>
-	<td>Disadvantage</td>
-	<td>65 lb.</td>
-</tr>
-<tr>
-	<td><em>Shield</em></td>
-	<td></td>
-	<td></td>
-	<td style="text-align:center;"></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Shield</td>
-	<td>10 gp</td>
-	<td>+2</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td>&#8212;</td>
-	<td>6 lb.</td>
-</tr>
-</tbody>
-</table>
 
 ### Getting Into and Out of Armor
 
@@ -311,45 +120,14 @@ The time it takes to don or doff armor depends on the armor’s category.
 
 **Doff.** This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-<table>
-<caption id="donning-and-doffing-armor">Donning and Doffing Armor</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Donning and Doffing Armor
 
-<thead>
-<tr>
-	<th>Category</th>
-	<th>Don</th>
-	<th>Doff</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Light Armor</td>
-	<td>1 minute</td>
-	<td>1 minute</td>
-</tr>
-<tr>
-	<td>Medium Armor</td>
-	<td>5 minutes</td>
-	<td>1 minute</td>
-</tr>
-<tr>
-	<td>Heavy Armor</td>
-	<td>10 minutes</td>
-	<td>5 minutes</td>
-</tr>
-<tr>
-	<td>Shield</td>
-	<td>1 action</td>
-	<td>1 action</td>
-</tr>
-</tbody>
-</table>
+| Category     | Don        | Doff      |
+| ------------ | ---------- | --------- |
+| Light Armor  | 1 minute   | 1 minute  |
+| Medium Armor | 5 minutes  | 1 minute  |
+| Heavy Armor  | 10 minutes | 5 minutes |
+| Shield       | 1 action   | 1 action  |
 
 ## Weapons
 
@@ -411,272 +189,47 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-<table>
-<caption id="weapons">Weapons</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Weapons
 
-<thead>
-<tr>
-	<th>Name</th>
-	<th>Cost</th>
-	<th>Damage</th>
-	<th>Weight</th>
-	<th>Properties</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;" colspan="4"><em>Simple Melee Weapons</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Club</td>
-	<td>1&nbsp;sp</td>
-	<td>1d4&nbsp;bludgeoning</td>
-	<td>2 &nbsp;lb.</td>
-	<td>Light</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Dagger</td>
-	<td>2&nbsp;gp</td>
-	<td>1d4&nbsp;piercing</td>
-	<td>1&nbsp;lb.</td>
-	<td>Finesse, light, thrown (range 20/60)</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Greatclub</td>
-	<td>2&nbsp;sp</td>
-	<td>1d8&nbsp;bludgeoning</td>
-	<td>10&nbsp;lb.</td>
-	<td>Two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Handaxe</td>
-	<td>5&nbsp;gp</td>
-	<td>1d6&nbsp;slashing</td>
-	<td>2&nbsp;lb.</td>
-	<td>Light, thrown (range 20/60)</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Javelin</td>
-	<td>5&nbsp;sp</td>
-	<td>1d6&nbsp;piercing</td>
-	<td>2&nbsp;lb.</td>
-	<td>Thrown (range 30/120)</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Light hammer</td>
-	<td>2&nbsp;gp</td>
-	<td>1d4&nbsp;bludgeoning</td>
-	<td>2&nbsp;lb.</td>
-	<td>Light, thrown (range 20/60)</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Mace</td>
-	<td>5&nbsp;gp</td>
-	<td>1d6&nbsp;bludgeoning</td>
-	<td>4&nbsp;lb.</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Quarterstaff</td>
-	<td>2&nbsp;sp</td>
-	<td>1d6&nbsp;bludgeoning</td>
-	<td>4&nbsp;lb.</td>
-	<td>Versatile (1d8)</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Sickle</td>
-	<td>1&nbsp;gp</td>
-	<td>1d4&nbsp;slashing</td>
-	<td>2&nbsp;lb.</td>
-	<td>Light</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Spear</td>
-	<td>1&nbsp;gp</td>
-	<td>1d6&nbsp;piercing</td>
-	<td>3&nbsp;lb.</td>
-	<td>Thrown (range 20/60), versatile (1d8)</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="4"><em>Simple Ranged Weapons</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Crossbow, light</td>
-	<td>25&nbsp;gp</td>
-	<td>1d8&nbsp;piercing</td>
-	<td>5&nbsp;lb.</td>
-	<td>Ammunition (range 80/320), loading, two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Dart</td>
-	<td>5&nbsp;cp</td>
-	<td>1d4&nbsp;piercing</td>
-	<td>&frac14;&nbsp;lb.</td>
-	<td>Finesse, thrown (range 20/60)</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Shortbow</td>
-	<td>25&nbsp;gp</td>
-	<td>1d6&nbsp;piercing</td>
-	<td>2&nbsp;lb.</td>
-	<td>Ammunition (range 80/320), two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Sling</td>
-	<td>1&nbsp;sp</td>
-	<td>1d4&nbsp;bludgeoning</td>
-	<td>&#8212;</td>
-	<td>Ammunition (range 30/120)</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="4"><em>Martial Melee Weapons</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Battleaxe</td>
-	<td>10&nbsp;gp</td>
-	<td>1d8&nbsp;slashing</td>
-	<td>2&nbsp;lb.</td>
-	<td>Versatile (1d10)</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Flail</td>
-	<td>10&nbsp;gp</td>
-	<td>1d8&nbsp;bludgeoning</td>
-	<td>2&nbsp;lb.</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Glaive</td>
-	<td>20&nbsp;gp</td>
-	<td>1d10&nbsp;slashing</td>
-	<td>6&nbsp;lb.</td>
-	<td>Heavy, reach, two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Greataxe</td>
-	<td>30&nbsp;gp</td>
-	<td>1d12&nbsp;slashing</td>
-	<td>7&nbsp;lb.</td>
-	<td>Heavy, two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Greatsword</td>
-	<td>50&nbsp;gp</td>
-	<td>2d6&nbsp;slashing</td>
-	<td>6&nbsp;lb.</td>
-	<td>Heavy, two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Halberd</td>
-	<td>20&nbsp;gp</td>
-	<td>1d10&nbsp;slashing</td>
-	<td>6&nbsp;lb.</td>
-	<td>Heavy, reach, two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Lance</td>
-	<td>10&nbsp;gp</td>
-	<td>1d12&nbsp;piercing</td>
-	<td>6&nbsp;lb.</td>
-	<td>Reach, special</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Longsword</td>
-	<td>15&nbsp;gp</td>
-	<td>1d8&nbsp;slashing</td>
-	<td>3&nbsp;lb.</td>
-	<td>Versatile (1d10)</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Maul</td>
-	<td>10&nbsp;gp</td>
-	<td>2d6&nbsp;bludgeoning</td>
-	<td>10&nbsp;lb.</td>
-	<td>Heavy, two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Morningstar</td>
-	<td>15&nbsp;gp</td>
-	<td>1d8&nbsp;piercing</td>
-	<td>4&nbsp;lb.</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Pike</td>
-	<td>5&nbsp;gp</td>
-	<td>1d10&nbsp;piercing</td>
-	<td>18&nbsp;lb.</td>
-	<td>heavy, reach, two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Rapier</td>
-	<td>25&nbsp;gp</td>
-	<td>1d8&nbsp;piercing</td>
-	<td>2&nbsp;lb.</td>
-	<td>Finesse</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Scimitar</td>
-	<td>25&nbsp;gp</td>
-	<td>1d6&nbsp;slashing</td>
-	<td>3&nbsp;lb.</td>
-	<td>Finesse, light</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Shortsword</td>
-	<td>10&nbsp;gp</td>
-	<td>1d6&nbsp;piercing</td>
-	<td>2&nbsp;lb.</td>
-	<td>Finesse, light</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Trident</td>
-	<td>5&nbsp;gp</td>
-	<td>1d6&nbsp;piercing</td>
-	<td>4&nbsp;lb.</td>
-	<td>Thrown (range 20/60), versatile (1d8)</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="4"><em>Martial Ranged Weapons</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Blowgun</td>
-	<td>10&nbsp;gp</td>
-	<td>1&nbsp;piercing</td>
-	<td>1&nbsp;lb.</td>
-	<td>Ammunition (range25/10), loading</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Crossbow, hand</td>
-	<td>75&nbsp;gp</td>
-	<td>1d6&nbsp;piercing</td>
-	<td>3&nbsp;lb.</td>
-	<td>Ammunition (range 30/120), light, loading</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Crossbow, heavy</td>
-	<td>50&nbsp;gp</td>
-	<td>1d10&nbsp;piercing</td>
-	<td>18&nbsp;lb.</td>
-	<td>Ammunition (range 100/400), heavy, loading, two-handed</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Net</td>
-	<td>1&nbsp;gp</td>
-	<td>&#8212;</td>
-	<td>3&nbsp;lb.</td>
-	<td>Special, thrown (range 5/15)</td>
-</tr>
-</tbody>
-</table>
+| Name                   | Cost  | Damage          | Weight | Properties                                             |
+| ---------------------- | ----- | --------------- | ------ | ------------------------------------------------------ |
+| Simple Melee Weapons   |
+| Club                   | 1 sp  | 1d4 bludgeoning | 2  lb. | Light                                                  |
+| Dagger                 | 2 gp  | 1d4 piercing    | 1 lb.  | Finesse, light, thrown (range 20/60)                   |
+| Greatclub              | 2 sp  | 1d8 bludgeoning | 10 lb. | Two-handed                                             |
+| Handaxe                | 5 gp  | 1d6 slashing    | 2 lb.  | Light, thrown (range 20/60)                            |
+| Javelin                | 5 sp  | 1d6 piercing    | 2 lb.  | Thrown (range 30/120)                                  |
+| Light hammer           | 2 gp  | 1d4 bludgeoning | 2 lb.  | Light, thrown (range 20/60)                            |
+| Mace                   | 5 gp  | 1d6 bludgeoning | 4 lb.  | —                                                     |
+| Quarterstaff           | 2 sp  | 1d6 bludgeoning | 4 lb.  | Versatile (1d8)                                        |
+| Sickle                 | 1 gp  | 1d4 slashing    | 2 lb.  | Light                                                  |
+| Spear                  | 1 gp  | 1d6 piercing    | 3 lb.  | Thrown (range 20/60), versatile (1d8)                  |
+| Simple Ranged Weapons  |
+| Crossbow, light        | 25 gp | 1d8 piercing    | 5 lb.  | Ammunition (range 80/320), loading, two-handed         |
+| Dart                   | 5 cp  | 1d4 piercing    | ¼ lb.  | Finesse, thrown (range 20/60)                          |
+| Shortbow               | 25 gp | 1d6 piercing    | 2 lb.  | Ammunition (range 80/320), two-handed                  |
+| Sling                  | 1 sp  | 1d4 bludgeoning | —     | Ammunition (range 30/120)                              |
+| Martial Melee Weapons  |
+| Battleaxe              | 10 gp | 1d8 slashing    | 2 lb.  | Versatile (1d10)                                       |
+| Flail                  | 10 gp | 1d8 bludgeoning | 2 lb.  | —                                                     |
+| Glaive                 | 20 gp | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed                               |
+| Greataxe               | 30 gp | 1d12 slashing   | 7 lb.  | Heavy, two-handed                                      |
+| Greatsword             | 50 gp | 2d6 slashing    | 6 lb.  | Heavy, two-handed                                      |
+| Halberd                | 20 gp | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed                               |
+| Lance                  | 10 gp | 1d12 piercing   | 6 lb.  | Reach, special                                         |
+| Longsword              | 15 gp | 1d8 slashing    | 3 lb.  | Versatile (1d10)                                       |
+| Maul                   | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed                                      |
+| Morningstar            | 15 gp | 1d8 piercing    | 4 lb.  | —                                                     |
+| Pike                   | 5 gp  | 1d10 piercing   | 18 lb. | heavy, reach, two-handed                               |
+| Rapier                 | 25 gp | 1d8 piercing    | 2 lb.  | Finesse                                                |
+| Scimitar               | 25 gp | 1d6 slashing    | 3 lb.  | Finesse, light                                         |
+| Shortsword             | 10 gp | 1d6 piercing    | 2 lb.  | Finesse, light                                         |
+| Trident                | 5 gp  | 1d6 piercing    | 4 lb.  | Thrown (range 20/60), versatile (1d8)                  |
+| Martial Ranged Weapons |
+| Blowgun                | 10 gp | 1 piercing      | 1 lb.  | Ammunition (range25/10), loading                       |
+| Crossbow, hand         | 75 gp | 1d6 piercing    | 3 lb.  | Ammunition (range 30/120), light, loading              |
+| Crossbow, heavy        | 50 gp | 1d10 piercing   | 18 lb. | Ammunition (range 100/400), heavy, loading, two-handed |
+| Net                    | 1 gp  | —              | 3 lb.  | Special, thrown (range 5/15)                           |
 
 ## Adventuring Gear
 
@@ -768,606 +321,132 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 
 **Torch.** A torch burns for 1 hour, providing bright light in a 20 foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
-<table>
-<caption id="adventuring-gear">Adventuring Gear</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Adventuring Gear
 
-<thead>
-<tr>
-	<th>Item</th>
-	<th>Cost</th>
-	<th>Weight</th>
-</tr>
-</thead>
+| Item                         | Cost     | Weight       |
+| ---------------------------- | -------- | ------------ |
+| Abacus                       | 2 gp     | 2 lb.        |
+| Acid (vial)                  | 25 gp    | 1 lb.        |
+| Alchemist’s fire (flask)    | 50 gp    | 1 lb.        |
+| Ammunition                   |
+| Arrows (20)                  | 1 gp     | 1 lb.        |
+| Blowgun needles (50)         | 1 gp     | 1 lb.        |
+| Crossbow bolts (20)          | 1 gp     | 1 ½ lb.      |
+| Sling bullets (20)           | 4 cp     | 1 ½ lb.      |
+| Antitoxin (vial)             | 50 gp    | —           |
+| Arcane Focus                 |
+| Crystal                      | 10 gp    | 1 lb.        |
+| Orb                          | 20 gp    | 3 lb.        |
+| Rod                          | 10 gp    | 2 lb.        |
+| Staff                        | 5 gp     | 4 lb.        |
+| Wand                         | 10 gp    | 1 lb.        |
+| Backpack                     | 2 gp     | 5 lb.        |
+| Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
+| Barrel                       | 2 gp     | 70 lb.       |
+| Basket                       | 4 sp     | 2 lb.        |
+| Bedroll                      | 1 gp     | 7 lb.        |
+| Bell                         | 1 gp     | —           |
+| Blanket                      | 5 sp     | 3 lb.        |
+| Block and tackle             | 1 gp     | 5 lb.        |
+| Book                         | 25 gp    | 5 lb.        |
+| Bottle, glass                | 2 gp     | 2 lb.        |
+| Bucket                       | 5 cp     | 2 lb.        |
+| Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
+| Candle                       | 1 cp     | —           |
+| Case, crossbow bolt          | 1 gp     | 1 lb.        |
+| Case, map or scroll          | 1 gp     | 1 lb.        |
+| Chain (10 feet)              | 5 gp     | 10 lb.       |
+| Chalk (1 piece)              | 1 cp     | —           |
+| Chest                        | 5 gp     | 25 lb.       |
+| Climber’s kit               | 25 gp    | 12 lb.       |
+| Clothes, common              | 5 sp     | 3 lb.        |
+| Clothes, costume             | 5 gp     | 4 lb.        |
+| Clothes, fine                | 15 gp    | 6 lb.        |
+| Clothes, traveler’s         | 2 gp     | 4 lb.        |
+| Component pouch              | 25 gp    | 2 lb.        |
+| Crowbar                      | 2 gp     | 5 lb.        |
+| Druidic Focus                |
+| Sprig of mistletoe           | 1 gp     | —           |
+| Totem                        | 1 gp     | —           |
+| Wooden staff                 | 5 gp     | 4 lb.        |
+| Yew wand                     | 10 gp    | 1 lb.        |
+| Fishing tackle               | 1 gp     | 4 lb.        |
+| Flask or tankard             | 2 cp     | 1 lb.        |
+| Grappling hook               | 2 gp     | 4 lb.        |
+| Hammer                       | 1 gp     | 3 lb.        |
+| Hammer, sledge               | 2 gp     | 10 lb.       |
+| Healer’s kit                | 5 gp     | 3 lb.        |
+| Holy Symbol                  |
+| Amulet                       | 5 gp     | 1 lb.        |
+| Emblem                       | 5 gp     | —           |
+| Reliquary                    | 5 gp     | 2 lb.        |
+| Holy water (flask)           | 25 gp    | 1 lb.        |
+| Hourglass                    | 25 gp    | 1 lb.        |
+| Hunting trap                 | 5 gp     | 25 lb.       |
+| Ink (1 ounce bottle)         | 10 gp    | —           |
+| Ink pen                      | 2 cp     | —           |
+| Jug or pitcher               | 2 cp     | 4 lb.        |
+| Ladder (10-foot)             | 1 sp     | 25 lb.       |
+| Lamp                         | 5 sp     | 1 lb.        |
+| Lantern, bullseye            | 10 gp    | 2 lb.        |
+| Lantern, hooded              | 5 gp     | 1 lb.        |
+| Lock                         | 10 gp    | 1 lb.        |
+| Magnifying glass             | 100 gp   | —           |
+| Manacles                     | 2 gp     | 6 lb.        |
+| Mess kit                     | 2 sp     | 1 lb.        |
+| Mirror, steel                | 5 gp     | ½ lb.        |
+| Oil (flask)                  | 1 sp     | 1 lb.        |
+| Paper (one sheet)            | 2 sp     | —           |
+| Parchment (one sheet)        | 1 sp     | —           |
+| Perfume (vial)               | 5 gp     | —           |
+| Pick, miner’s               | 2 gp     | 10 lb.       |
+| Piton                        | 5 cp     | ¼ lb.        |
+| poison, basic (vial)         | 100 gp   | —           |
+| Pole (10-foot)               | 5 cp     | 7 lb.        |
+| Pot, iron                    | 2 gp     | 10 lb.       |
+| Potion of healing            | 50 gp    | ½ lb.        |
+| Pouch                        | 5 sp     | 1 lb.        |
+| Quiver                       | 1 gp     | 1 lb.        |
+| Ram, portable                | 4 gp     | 35 lb.       |
+| Rations (1 day)              | 5 sp     | 2 lb.        |
+| Robes                        | 1 gp     | 4 lb.        |
+| Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
+| Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
+| Sack                         | 1 cp     | ½ lb.        |
+| Scale, merchant’s           | 5 gp     | 3 lb.        |
+| Sealing wax                  | 5 sp     | —           |
+| Shovel                       | 2 gp     | 5 lb.        |
+| Signal whistle               | 5 cp     | —           |
+| Signet ring                  | 5 gp     | —           |
+| Soap                         | 2 cp     | —           |
+| Spellbook                    | 50 gp    | 3 lb.        |
+| Spikes, iron (10)            | 1 gp     | 5 lb.        |
+| Spyglass                     | 1,000 gp | 1 lb.        |
+| Tent, two-person             | 2 gp     | 20 lb.       |
+| Tinderbox                    | 5 sp     | 1 lb.        |
+| Torch                        | 1 cp     | 1 lb.        |
+| Vial                         | 1 gp     | —           |
+| Waterskin                    | 2 sp     | 5 lb. (full) |
+| Whetstone                    | 1 cp     | 1 lb.        |
 
-<tbody>
-<tr>
-	<td>Abacus</td>
-	<td>2 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Acid (vial)</td>
-	<td>25 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Alchemist&#8217;s fire (flask)</td>
-	<td>50 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="3"><em>Ammunition</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Arrows (20)</td>
-	<td>1 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Blowgun needles (50)</td>
-	<td>1 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Crossbow bolts (20)</td>
-	<td>1 gp</td>
-	<td>1 &frac12; lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Sling bullets (20)</td>
-	<td>4 cp</td>
-	<td>1 &frac12; lb.</td>
-</tr>
-<tr>
-	<td>Antitoxin (vial)</td>
-	<td>50 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="3"><em>Arcane Focus</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Crystal</td>
-	<td>10 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Orb</td>
-	<td>20 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Rod</td>
-	<td>10 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Staff</td>
-	<td>5 gp</td>
-	<td>4 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Wand</td>
-	<td>10 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Backpack</td>
-	<td>2 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>Ball bearings (bag of 1,000)</td>
-	<td>1 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Barrel</td>
-	<td>2 gp</td>
-	<td>70 lb.</td>
-</tr>
-<tr>
-	<td>Basket</td>
-	<td>4 sp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Bedroll</td>
-	<td>1 gp</td>
-	<td>7 lb.</td>
-</tr>
-<tr>
-	<td>Bell</td>
-	<td>1 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Blanket</td>
-	<td>5 sp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>Block and tackle</td>
-	<td>1 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>Book</td>
-	<td>25 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>Bottle, glass</td>
-	<td>2 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Bucket</td>
-	<td>5 cp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Caltrops (bag of 20)</td>
-	<td>1 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Candle</td>
-	<td>1 cp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Case, crossbow bolt</td>
-	<td>1 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Case, map or scroll</td>
-	<td>1 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Chain (10 feet)</td>
-	<td>5 gp</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td>Chalk (1 piece)</td>
-	<td>1 cp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Chest</td>
-	<td>5 gp</td>
-	<td>25 lb.</td>
-</tr>
-<tr>
-	<td>Climber&#8217;s kit</td>
-	<td>25 gp</td>
-	<td>12 lb.</td>
-</tr>
-<tr>
-	<td>Clothes, common</td>
-	<td>5 sp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>Clothes, costume</td>
-	<td>5 gp</td>
-	<td>4 lb.</td>
-</tr>
-<tr>
-	<td>Clothes, fine</td>
-	<td>15 gp</td>
-	<td>6 lb.</td>
-</tr>
-<tr>
-	<td>Clothes, traveler&#8217;s</td>
-	<td>2 gp</td>
-	<td>4 lb.</td>
-</tr>
-<tr>
-	<td>Component pouch</td>
-	<td>25 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Crowbar</td>
-	<td>2 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="3"><em>Druidic Focus</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Sprig of mistletoe</td>
-	<td>1 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Totem</td>
-	<td>1 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Wooden staff</td>
-	<td>5 gp</td>
-	<td>4 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Yew wand</td>
-	<td>10 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Fishing tackle</td>
-	<td>1 gp</td>
-	<td>4 lb.</td>
-</tr>
-<tr>
-	<td>Flask or tankard</td>
-	<td>2 cp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Grappling hook</td>
-	<td>2 gp</td>
-	<td>4 lb.</td>
-</tr>
-<tr>
-	<td>Hammer</td>
-	<td>1 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>Hammer, sledge</td>
-	<td>2 gp</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td>Healer&#8217;s kit</td>
-	<td>5 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="3"><em>Holy Symbol</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Amulet</td>
-	<td>5 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Emblem</td>
-	<td>5 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Reliquary</td>
-	<td>5 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Holy water (flask)</td>
-	<td>25 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Hourglass</td>
-	<td>25 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Hunting trap</td>
-	<td>5 gp</td>
-	<td>25 lb.</td>
-</tr>
-<tr>
-	<td>Ink (1 ounce bottle)</td>
-	<td>10 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Ink pen</td>
-	<td>2 cp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Jug or pitcher</td>
-	<td>2 cp</td>
-	<td>4 lb.</td>
-</tr>
-<tr>
-	<td>Ladder (10-foot)</td>
-	<td>1 sp</td>
-	<td>25 lb.</td>
-</tr>
-<tr>
-	<td>Lamp</td>
-	<td>5 sp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Lantern, bullseye</td>
-	<td>10 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Lantern, hooded</td>
-	<td>5 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Lock</td>
-	<td>10 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Magnifying glass</td>
-	<td>100 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Manacles</td>
-	<td>2 gp</td>
-	<td>6 lb.</td>
-</tr>
-<tr>
-	<td>Mess kit</td>
-	<td>2 sp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Mirror, steel</td>
-	<td>5 gp</td>
-	<td>&frac12; lb.</td>
-</tr>
-<tr>
-	<td>Oil (flask)</td>
-	<td>1 sp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Paper (one sheet)</td>
-	<td>2 sp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Parchment (one sheet)</td>
-	<td>1 sp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Perfume (vial)</td>
-	<td>5 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Pick, miner&#8217;s</td>
-	<td>2 gp</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td>Piton</td>
-	<td>5 cp</td>
-	<td>&frac14; lb.</td>
-</tr>
-<tr>
-	<td>poison, basic (vial)</td>
-	<td>100 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Pole (10-foot)</td>
-	<td>5 cp</td>
-	<td>7 lb.</td>
-</tr>
-<tr>
-	<td>Pot, iron</td>
-	<td>2 gp</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td>Potion of healing</td>
-	<td>50 gp</td>
-	<td>&frac12; lb.</td>
-</tr>
-<tr>
-	<td>Pouch</td>
-	<td>5 sp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Quiver</td>
-	<td>1 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Ram, portable</td>
-	<td>4 gp</td>
-	<td>35 lb.</td>
-</tr>
-<tr>
-	<td>Rations (1 day)</td>
-	<td>5 sp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Robes</td>
-	<td>1 gp</td>
-	<td>4 lb.</td>
-</tr>
-<tr>
-	<td>Rope, hempen (50 feet)</td>
-	<td>1 gp</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td>Rope, silk (50 feet)</td>
-	<td>10 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>Sack</td>
-	<td>1 cp</td>
-	<td>&frac12; lb.</td>
-</tr>
-<tr>
-	<td>Scale, merchant&#8217;s</td>
-	<td>5 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>Sealing wax</td>
-	<td>5 sp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Shovel</td>
-	<td>2 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>Signal whistle</td>
-	<td>5 cp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Signet ring</td>
-	<td>5 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Soap</td>
-	<td>2 cp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Spellbook</td>
-	<td>50 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>Spikes, iron (10)</td>
-	<td>1 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>Spyglass</td>
-	<td>1,000 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Tent, two-person</td>
-	<td>2 gp</td>
-	<td>20 lb.</td>
-</tr>
-<tr>
-	<td>Tinderbox</td>
-	<td>5 sp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Torch</td>
-	<td>1 cp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Vial</td>
-	<td>1 gp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Waterskin</td>
-	<td>2 sp</td>
-	<td>5 lb. (full)</td>
-</tr>
-<tr>
-	<td>Whetstone</td>
-	<td>1 cp</td>
-	<td>1 lb.</td>
-</tr>
-</tbody>
-</table>
+#### Container Capacit
 
-<table>
-<caption id="container-capacity">Container Capacity</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
-
-<thead>
-<tr>
-	<th>Container</th>
-	<th>Capacity</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Backpack*</td>
-	<td>1 cubic foot/30 pounds of gear</td>
-</tr>
-<tr>
-	<td>Barrel</td>
-	<td>40 gallons liquid, 4 cubic feet solid</td>
-</tr>
-<tr>
-	<td>Basket</td>
-	<td>2 cubic feet/40 pounds of gear</td>
-</tr>
-<tr>
-	<td>Bottle</td>
-	<td>1&frac12; pints liquid</td>
-</tr>
-<tr>
-	<td>Bucket</td>
-	<td>3 gallons liquid, &frac12; cubic foot solid</td>
-</tr>
-<tr>
-	<td>Chest</td>
-	<td>12 cubic feet/300 pounds of gear</td>
-</tr>
-<tr>
-	<td>Flask or tankard</td>
-	<td>1 pint liquid</td>
-</tr>
-<tr>
-	<td>Jug or pitcher</td>
-	<td>1 gallon liquid</td>
-</tr>
-<tr>
-	<td>Pot, iron</td>
-	<td>1 gallon liquid</td>
-</tr>
-<tr>
-	<td>Pouch</td>
-	<td>&frac15; cubic foot/6 pounds of gear</td>
-</tr>
-<tr>
-	<td>Sack</td>
-	<td>1 cubic foot/30 pounds of gear</td>
-</tr>
-<tr>
-	<td>Vial</td>
-	<td>4 ounces liquid</td>
-</tr>
-<tr>
-	<td>Waterskin</td>
-	<td>4 pints liquid</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="2">* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</td>
-</tr>
-</tbody>
-</table>
-
+| Container                                                                                      | Capacity                              |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Backpack*                                                                                      | 1 cubic foot/30 pounds of gear        |
+| Barrel                                                                                         | 40 gallons liquid, 4 cubic feet solid |
+| Basket                                                                                         | 2 cubic feet/40 pounds of gear        |
+| Bottle                                                                                         | 1½ pints liquid                       |
+| Bucket                                                                                         | 3 gallons liquid, ½ cubic foot solid  |
+| Chest                                                                                          | 12 cubic feet/300 pounds of gear      |
+| Flask or tankard                                                                               | 1 pint liquid                         |
+| Jug or pitcher                                                                                 | 1 gallon liquid                       |
+| Pot, iron                                                                                      | 1 gallon liquid                       |
+| Pouch                                                                                          | ⅕ cubic foot/6 pounds of gear         |
+| Sack                                                                                           | 1 cubic foot/30 pounds of gear        |
+| Vial                                                                                           | 4 ounces liquid                       |
+| Waterskin                                                                                      | 4 pints liquid                        |
+| * You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack. |
 
 > ### Equipment Packs
 > The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
@@ -1389,217 +468,50 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 ## Tools
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
-<table>
-<caption id="tools">Tools</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Tools
 
-<thead>
-<tr>
-	<th>Item</th>
-	<th>Cost</th>
-	<th>Weight</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;" colspan="3"><em>Artisan&#8217;s tools</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Alchemist&#8217;s supplies</td>
-	<td>50 gp</td>
-	<td>8 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Brewer&#8217;s supplies</td>
-	<td>20 gp</td>
-	<td>9 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Calligrapher&#8217;s supplies</td>
-	<td>10 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Carpenter&#8217;s tools</td>
-	<td>8 gp</td>
-	<td>6 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Cartographer&#8217;s tools</td>
-	<td>15 gp</td>
-	<td>6 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Cobbler&#8217;s tools</td>
-	<td>5 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Cook&#8217;s utensils</td>
-	<td>1 gp</td>
-	<td>8 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Glassblower&#8217;s tools</td>
-	<td>30 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Jeweler&#8217;s tools</td>
-	<td>25 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Leatherworker&#8217;s tools</td>
-	<td>5 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Mason&#8217;s tools</td>
-	<td>10 gp</td>
-	<td>8 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Painter&#8217;s supplies</td>
-	<td>10 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Potter&#8217;s tools</td>
-	<td>10 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Smith&#8217;s tools</td>
-	<td>20 gp</td>
-	<td>8lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Tinker&#8217;s tools</td>
-	<td>50 gp</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Weaver&#8217;s tools</td>
-	<td>1 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Woodcarver&#8217;s tools</td>
-	<td>1 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Disguise kit</td>
-	<td>25 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Forgery kit</td>
-	<td>15 gp</td>
-	<td>5 lb.</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="3"><em>Gaming set</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Dice set</td>
-	<td>1 sp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Playing card set</td>
-	<td>5 sp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Herbalism kit</td>
-	<td>5 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="3"><em>Musical instrument</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Bagpipes</td>
-	<td>30 gp</td>
-	<td>6 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Drum</td>
-	<td>6 gp</td>
-	<td>3 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Dulcimer</td>
-	<td>25 gp</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Flute</td>
-	<td>2 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Lute</td>
-	<td>35 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Lyre</td>
-	<td>30 go</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Horn</td>
-	<td>3 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Pan flute</td>
-	<td>12 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Shawm</td>
-	<td>2 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Viol</td>
-	<td>30 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Navigator&#8217;s tools</td>
-	<td>25 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Poisoner&#8217;s kit</td>
-	<td>50 gp</td>
-	<td>2 lb.</td>
-</tr>
-<tr>
-	<td>Thieves&#8217; tools</td>
-	<td>25 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Vehicles (land or water)</td>
-	<td>*</td>
-	<td>*</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="3">* See the “Mounts and Vehicles” section.</td>
-</tr>
-</tbody>
-</table>
+| Item                                       | Cost  | Weight |
+| ------------------------------------------ | ----- | ------ |
+| Artisan’s tools                           |
+| Alchemist’s supplies                      | 50 gp | 8 lb.  |
+| Brewer’s supplies                         | 20 gp | 9 lb.  |
+| Calligrapher’s supplies                   | 10 gp | 5 lb.  |
+| Carpenter’s tools                         | 8 gp  | 6 lb.  |
+| Cartographer’s tools                      | 15 gp | 6 lb.  |
+| Cobbler’s tools                           | 5 gp  | 5 lb.  |
+| Cook’s utensils                           | 1 gp  | 8 lb.  |
+| Glassblower’s tools                       | 30 gp | 5 lb.  |
+| Jeweler’s tools                           | 25 gp | 2 lb.  |
+| Leatherworker’s tools                     | 5 gp  | 5 lb.  |
+| Mason’s tools                             | 10 gp | 8 lb.  |
+| Painter’s supplies                        | 10 gp | 5 lb.  |
+| Potter’s tools                            | 10 gp | 3 lb.  |
+| Smith’s tools                             | 20 gp | 8lb.   |
+| Tinker’s tools                            | 50 gp | 10 lb. |
+| Weaver’s tools                            | 1 gp  | 5 lb.  |
+| Woodcarver’s tools                        | 1 gp  | 5 lb.  |
+| Disguise kit                               | 25 gp | 3 lb.  |
+| Forgery kit                                | 15 gp | 5 lb.  |
+| Gaming set                                 |
+| Dice set                                   | 1 sp  | —     |
+| Playing card set                           | 5 sp  | —     |
+| Herbalism kit                              | 5 gp  | 3 lb.  |
+| Musical instrument                         |
+| Bagpipes                                   | 30 gp | 6 lb.  |
+| Drum                                       | 6 gp  | 3 lb.  |
+| Dulcimer                                   | 25 gp | 10 lb. |
+| Flute                                      | 2 gp  | 1 lb.  |
+| Lute                                       | 35 gp | 2 lb.  |
+| Lyre                                       | 30 go | 2 lb.  |
+| Horn                                       | 3 gp  | 2 lb.  |
+| Pan flute                                  | 12 gp | 2 lb.  |
+| Shawm                                      | 2 gp  | 1 lb.  |
+| Viol                                       | 30 gp | 1 lb.  |
+| Navigator’s tools                         | 25 gp | 2 lb.  |
+| Poisoner’s kit                            | 50 gp | 2 lb.  |
+| Thieves’ tools                            | 25 gp | 1 lb.  |
+| Vehicles (land or water)                   | *     | *      |
+| * See the “Mounts and Vehicles” section. |
 
 **Artisan's Tools.** These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
 
@@ -1635,220 +547,49 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 **Rowed Vessels.** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-<table>
-<caption id="mounts-and-other-animals">Mounts and Other Animals</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Mounts and Other Animals
 
-<thead>
-<tr>
-	<th>Item</th>
-	<th>Cost</th>
-	<th>Speed</th>
-	<th>Carrying Capacity</th>
-</tr>
-</thead>
+| Item           | Cost   | Speed  | Carrying Capacity |
+| -------------- | ------ | ------ | ----------------- |
+| Camel          | 50 gp  | 50 ft. | 480 lb.           |
+| Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
+| Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
+| Horse, draft   | 50 gp  | 40 ft. | 540 lb.           |
+| Horse, riding  | 75 gp  | 60 ft. | 480 lb.           |
+| Mastiff        | 25 gp  | 40 ft. | 195 lb.           |
+| Pony           | 30 gp  | 40 ft. | 225 lb.           |
+| Warhorse       | 400 gp | 60 ft. | 540 lb.           |
 
-<tbody>
-<tr>
-	<td>Camel</td>
-	<td>50 gp</td>
-	<td>50 ft.</td>
-	<td>480 lb.</td>
-</tr>
-<tr>
-	<td>Donkey or mule</td>
-	<td>8 gp</td>
-	<td>40 ft.</td>
-	<td>420 lb.</td>
-</tr>
-<tr>
-	<td>Elephant</td>
-	<td>200 gp</td>
-	<td>40 ft.</td>
-	<td>1,320 lb.</td>
-</tr>
-<tr>
-	<td>Horse, draft</td>
-	<td>50 gp</td>
-	<td>40 ft.</td>
-	<td>540 lb.</td>
-</tr>
-<tr>
-	<td>Horse, riding</td>
-	<td>75 gp</td>
-	<td>60 ft.</td>
-	<td>480 lb.</td>
-</tr>
-<tr>
-	<td>Mastiff</td>
-	<td>25 gp</td>
-	<td>40 ft.</td>
-	<td>195 lb.</td>
-</tr>
-<tr>
-	<td>Pony</td>
-	<td>30 gp</td>
-	<td>40 ft.</td>
-	<td>225 lb.</td>
-</tr>
-<tr>
-	<td>Warhorse</td>
-	<td>400 gp</td>
-	<td>60 ft.</td>
-	<td>540 lb.</td>
-</tr>
-</tbody>
-</table>
+#### Tack, Harness, and Drawn Vehicles
 
+| Item               | Cost   | Weight  |
+| ------------------ | ------ | ------- |
+| Barding            | x4     | x2      |
+| Bit and bridle     | 2 gp   | 1 lb.   |
+| Carriage           | 100 gp | 600 lb. |
+| Cart               | 15 gp  | 200 lb. |
+| Chariot            | 250 gp | 100 lb. |
+| Feed (per day)     | 5 cp   | 10 lb.  |
+| Saddle             |
+| Exotic             | 60 gp  | 40 lb.  |
+| Military           | 20 gp  | 30 lb.  |
+| Pack               | 5 gp   | 15 lb.  |
+| Riding             | 10 gp  | 25 lb.  |
+| Saddlebags         | 4 gp   | 8 lb.   |
+| Sled               | 20 gp  | 300 lb. |
+| Stabling (per day) | 5 sp   | —      |
+| Wagon              | 35 gp  | 400 lb. |
 
-<table>
-<caption id="tack-harness-and-drawn-vehicles">Tack, Harness, and Drawn Vehicles</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Waterborne Vehicles
 
-<thead>
-<tr>
-	<th>Item</th>
-	<th>Cost</th>
-	<th>Weight</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Barding</td>
-	<td>x4</td>
-	<td>x2</td>
-</tr>
-<tr>
-	<td>Bit and bridle</td>
-	<td>2 gp</td>
-	<td>1 lb.</td>
-</tr>
-<tr>
-	<td>Carriage</td>
-	<td>100 gp</td>
-	<td>600 lb.</td>
-</tr>
-<tr>
-	<td>Cart</td>
-	<td>15 gp</td>
-	<td>200 lb.</td>
-</tr>
-<tr>
-	<td>Chariot</td>
-	<td>250 gp</td>
-	<td>100 lb.</td>
-</tr>
-<tr>
-	<td>Feed (per day)</td>
-	<td>5 cp</td>
-	<td>10 lb.</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="3"><em>Saddle</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Exotic</td>
-	<td>60 gp</td>
-	<td>40 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Military</td>
-	<td>20 gp</td>
-	<td>30 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Pack</td>
-	<td>5 gp</td>
-	<td>15 lb.</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Riding</td>
-	<td>10 gp</td>
-	<td>25 lb.</td>
-</tr>
-<tr>
-	<td>Saddlebags</td>
-	<td>4 gp</td>
-	<td>8 lb.</td>
-</tr>
-<tr>
-	<td>Sled</td>
-	<td>20 gp</td>
-	<td>300 lb.</td>
-</tr>
-<tr>
-	<td>Stabling (per day)</td>
-	<td>5 sp</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Wagon</td>
-	<td>35 gp</td>
-	<td>400 lb.</td>
-</tr>
-</tbody>
-</table>
-
-
-<table>
-<caption id="waterborne-vehicles">Waterborne Vehicles</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-</colgroup>
-
-<thead>
-<tr>
-	<th>Item</th>
-	<th>Cost</th>
-	<th>Speed</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Galley</td>
-	<td>30,000 gp</td>
-	<td>4 mph</td>
-</tr>
-<tr>
-	<td>Keelboat</td>
-	<td>3,000 gp</td>
-	<td>1 mp</td>
-</tr>
-<tr>
-	<td>Longship</td>
-	<td>10,000 gp</td>
-	<td>3 mph</td>
-</tr>
-<tr>
-	<td>Rowboat</td>
-	<td>50 gp</td>
-	<td>1&frac12; mph</td>
-</tr>
-<tr>
-	<td>Sailing ship</td>
-	<td>10,000 gp</td>
-	<td>2 mph</td>
-</tr>
-<tr>
-	<td>Warship</td>
-	<td>25,000 gp</td>
-	<td>2&frac12; mph</td>
-</tr>
-</tbody>
-</table>
+| Item         | Cost      | Speed  |
+| ------------ | --------- | ------ |
+| Galley       | 30,000 gp | 4 mph  |
+| Keelboat     | 3,000 gp  | 1 mp   |
+| Longship     | 10,000 gp | 3 mph  |
+| Rowboat      | 50 gp     | 1½ mph |
+| Sailing ship | 10,000 gp | 2 mph  |
+| Warship      | 25,000 gp | 2½ mph |
 
 ## Trade Goods
 
@@ -1856,146 +597,41 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-<table>
-<caption id="trade-goods">Trade Goods</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Trade Goods
 
-<thead>
-<tr>
-	<th>Cost</th>
-	<th>Goods</th>
-</tr>
-</thead>
+|  Cost      |  Goods                                                                                |
+|  --------- |  ------------------------------------------------------------------------------------- |
+|  1 cp      |  1 lb. of wheat                                                              |
+|  2 cp      |  1 lb. of flour or one chicken                                |
+|  5 cp      |  1 lb. of salt                                                                |
+|  1 sp      |  1lb. of iron or 1sq. yd. ofcanvas                        |
+|  5 sp      |  1 lb. of copper or 1 sq. yd. of cotton cloth  |
+|  1 gp      |  1 lb. of ginger or one goat                                    |
+|  2 gp      |  1 lb. of cinnamon or pepper, or one sheep        |
+|  3 gp      |  1 lb. of cloves or one pig                                      |
+|  5 gp      |  1 lb. of silver or 1 sq. yd. of linen                |
+|  10 gp    |  1sq. yd. of silk or one cow                                    |
+|  15 gp    |  1 lb. of saffron or one ox                                      |
+|  50 gp    |  1 lb. of gold                                                                |
+|  500 gp  |  1 lb. of platinum                                                        |
 
-<tbody>
-<tr>
-	<td>1 cp</td>
-	<td>1 lb. of wheat</td>
-</tr>
-<tr>
-	<td>2 cp</td>
-	<td>1 lb. of flour or one chicken</td>
-</tr>
-<tr>
-	<td>5 cp</td>
-	<td>1 lb. of salt</td>
-</tr>
-<tr>
-	<td>1 sp</td>
-	<td>1lb. of iron or 1sq. yd. ofcanvas</td>
-</tr>
-<tr>
-	<td>5 sp</td>
-	<td>1 lb. of copper or 1 sq. yd. of cotton cloth</td>
-</tr>
-<tr>
-	<td>1 gp</td>
-	<td>1 lb. of ginger or one goat</td>
-</tr>
-<tr>
-	<td>2 gp</td>
-	<td>1 lb. of cinnamon or pepper, or one sheep</td>
-</tr>
-<tr>
-	<td>3 gp</td>
-	<td>1 lb. of cloves or one pig</td>
-</tr>
-<tr>
-	<td>5 gp</td>
-	<td>1 lb. of silver or 1 sq. yd. of linen</td>
-</tr>
-<tr>
-	<td>10 gp</td>
-	<td>1sq. yd. of silk or one cow</td>
-</tr>
-<tr>
-	<td>15 gp</td>
-	<td>1 lb. of saffron or one ox</td>
-</tr>
-<tr>
-	<td>50 gp</td>
-	<td>1 lb. of gold</td>
-</tr>
-<tr>
-	<td>500 gp</td>
-	<td>1 lb. of platinum</td>
-</tr>
-</tbody>
-</table>
+#### Trade Goods
 
-<table>
-<caption id="trade-goods">Trade Goods</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
-
-<thead>
-<tr>
-	<th style="text-align:left;">Cost</th>
-	<th style="text-align:left;">Goods</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>1 cp</td>
-	<td>1 lb. of wheat</td>
-</tr>
-<tr>
-	<td>2 cp</td>
-	<td>1 lb. of flour or one chicken</td>
-</tr>
-<tr>
-	<td>5 cp</td>
-	<td>1 lb. of salt</td>
-</tr>
-<tr>
-	<td>1 sp</td>
-	<td>1lb. of iron or 1sq. yd. ofcanvas</td>
-</tr>
-<tr>
-	<td>5 sp</td>
-	<td>1 lb. of copper or 1 sq. yd. of cotton cloth</td>
-</tr>
-<tr>
-	<td>1 gp</td>
-	<td>1 lb. of ginger or one goat</td>
-</tr>
-<tr>
-	<td>2 gp</td>
-	<td>1 lb. of cinnamon or pepper, or one sheep</td>
-</tr>
-<tr>
-	<td>3 gp</td>
-	<td>1 lb. of cloves or one pig</td>
-</tr>
-<tr>
-	<td>5 gp</td>
-	<td>1 lb. of silver or 1 sq. yd. of linen</td>
-</tr>
-<tr>
-	<td>10 gp</td>
-	<td>1sq. yd. of silk or one cow</td>
-</tr>
-<tr>
-	<td>15 gp</td>
-	<td>1 lb. of saffron or one ox</td>
-</tr>
-<tr>
-	<td>50 gp</td>
-	<td>1 lb. of gold</td>
-</tr>
-<tr>
-	<td>500 gp</td>
-	<td>1 lb. of platinum</td>
-</tr>
-</tbody>
-</table>
-
+|Cost|Goods|
+|--- |--- |
+|1 cp|1 lb. of wheat|
+|2 cp|1 lb. of flour or one chicken|
+|5 cp|1 lb. of salt|
+|1 sp|1lb. of iron or 1sq. yd. ofcanvas|
+|5 sp|1 lb. of copper or 1 sq. yd. of cotton cloth|
+|1 gp|1 lb. of ginger or one goat|
+|2 gp|1 lb. of cinnamon or pepper, or one sheep|
+|3 gp|1 lb. of cloves or one pig|
+|5 gp|1 lb. of silver or 1 sq. yd. of linen|
+|10 gp|1sq. yd. of silk or one cow|
+|15 gp|1 lb. of saffron or one ox|
+|50 gp|1 lb. of gold|
+|500 gp|1 lb. of platinum|
 
 ## Expenses
 
@@ -2009,51 +645,17 @@ At the start of each week or month (your choice), choose a lifestyle from the Ex
 
 Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career. Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
-<table>
-<caption id="lifestyle-expenses">Lifestyle Expenses</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Lifestyle Expenses
 
-<thead>
-<tr>
-	<th>Lifestyle</th>
-	<th>Price/Day</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Wretched</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Squalid</td>
-	<td>1&nbsp;sp</td>
-</tr>
-<tr>
-	<td>Poor</td>
-	<td>2&nbsp;sp</td>
-</tr>
-<tr>
-	<td>Modest</td>
-	<td>1&nbsp;gp</td>
-</tr>
-<tr>
-	<td>Comfortable</td>
-	<td>2&nbsp;gp</td>
-</tr>
-<tr>
-	<td>Wealthy</td>
-	<td>4&nbsp;gp</td>
-</tr>
-<tr>
-	<td>Aristocratic</td>
-	<td>10&nbsp;gp minimum</td>
-</tr>
-</tbody>
-</table>
+| Lifestyle    | Price/Day     |
+| ------------ | ------------- |
+| Wretched     | —            |
+| Squalid      | 1 sp          |
+| Poor         | 2 sp          |
+| Modest       | 1 gp          |
+| Comfortable  | 2 gp          |
+| Wealthy      | 4 gp          |
+| Aristocratic | 10 gp minimum |
 
 **Wretched.** You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
 
@@ -2079,115 +681,34 @@ The expenses and lifestyles described here assume that you are spending your tim
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night’s lodging. These prices are included in your total lifestyle expenses.
 
-<table>
-<caption id="food-drink-and-lodging">Food, Drink, and Lodging</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Food, Drink, and Lodging
 
-<thead>
-<tr>
-	<th>Item</th>
-	<th>Cost</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;" colspan="2"><em>Ale</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Gallon</td>
-	<td>2&nbsp;sp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Mug</td>
-	<td>4&nbsp;cp</td>
-</tr>
-<tr>
-	<td>Banquet (per person)</td>
-	<td>10&nbsp;gp</td>
-</tr>
-<tr>
-	<td>Bread, loaf</td>
-	<td>2&nbsp;cp</td>
-</tr>
-<tr>
-	<td>Cheese, hunk</td>
-	<td>1&nbsp;sp</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="2"><em>Inn stay (per day)</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Squalid</td>
-	<td>7&nbsp;cp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Poor</td>
-	<td>1&nbsp;sp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Modest</td>
-	<td>5&nbsp;sp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Comfortable</td>
-	<td>8&nbsp;sp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Wealthy</td>
-	<td>2&nbsp;gp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Aristocratic</td>
-	<td>4&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="2"><em>Meals (per day)</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Squalid</td>
-	<td>3&nbsp;cp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Poor</td>
-	<td>6&nbsp;cp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Modest</td>
-	<td>3&nbsp;sp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Comfortable</td>
-	<td>5&nbsp;sp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Wealthy</td>
-	<td>8&nbsp;sp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Aristocratic</td>
-	<td>2&nbsp;gp</td>
-</tr>
-<tr>
-	<td>Meat, chunk</td>
-	<td>3&nbsp;sp</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="2"><em>Wine</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Common (pitcher)</td>
-	<td>2&nbsp;sp</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Fine (bottle)</td>
-	<td>10&nbsp;gp</td>
-</tr>
-</tbody>
-</table>
+| Item                 | Cost  |
+| -------------------- | ----- |
+| Ale                  |
+| Gallon               | 2 sp  |
+| Mug                  | 4 cp  |
+| Banquet (per person) | 10 gp |
+| Bread, loaf          | 2 cp  |
+| Cheese, hunk         | 1 sp  |
+| Inn stay (per day)   |
+| Squalid              | 7 cp  |
+| Poor                 | 1 sp  |
+| Modest               | 5 sp  |
+| Comfortable          | 8 sp  |
+| Wealthy              | 2 gp  |
+| Aristocratic         | 4 gp  |
+| Meals (per day)      |
+| Squalid              | 3 cp  |
+| Poor                 | 6 cp  |
+| Modest               | 3 sp  |
+| Comfortable          | 5 sp  |
+| Wealthy              | 8 sp  |
+| Aristocratic         | 2 gp  |
+| Meat, chunk          | 3 sp  |
+| Wine                 |
+| Common (pitcher)     | 2 sp  |
+| Fine (bottle)        | 10 gp |
 
 ### Services
 
@@ -2197,57 +718,19 @@ Some of the most basic types of hirelings appear on the Services table. Other co
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
 
-<table>
-<caption id="services">Services</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Services
 
-<thead>
-<tr>
-	<th>Service</th>
-	<th>Pay</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;" colspan="2"><em>Coach cab</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Between towns</td>
-	<td>3&nbsp;cp per mile</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Within a city</td>
-	<td>1&nbsp;cp</td>
-</tr>
-<tr>
-	<td style="text-align:left;" colspan="2"><em>Hireling</em></td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Skilled</td>
-	<td>2&nbsp;gp per day</td>
-</tr>
-<tr>
-	<td>&nbsp;&nbsp;&nbsp;Untrained</td>
-	<td>2&nbsp;sp per day</td>
-</tr>
-<tr>
-	<td>Messenger</td>
-	<td>2&nbsp;cp per mile</td>
-</tr>
-<tr>
-	<td>Road or gate toll</td>
-	<td>1&nbsp;cp</td>
-</tr>
-<tr>
-	<td>Ship’s passage</td>
-	<td>1&nbsp;sp per mile</td>
-</tr>
-</tbody>
-</table>
+| Service           | Pay           |
+| ----------------- | ------------- |
+| Coach cab         |
+| Between towns     | 3 cp per mile |
+| Within a city     | 1 cp          |
+| Hireling          |
+| Skilled           | 2 gp per day  |
+| Untrained         | 2 sp per day  |
+| Messenger         | 2 cp per mile |
+| Road or gate toll | 1 cp          |
+| Ship’s passage   | 1 sp per mile |
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 

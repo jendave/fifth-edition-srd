@@ -10,26 +10,9 @@
 
 **Speed** 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>8 (−1)</td>
-			<td>16 (+3)</td>
-			<td>5 (−3)</td>
-			<td>7 (−2)</td>
-			<td>7 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 19 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 7 (−2) | 7 (−2) |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -53,26 +36,9 @@
 
 **Speed** 30 ft., fly 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>11 (+0)</td>
-			<td>16 (+3)</td>
-			<td>14 (+2)</td>
-			<td>12 (+1)</td>
-			<td>15 (+2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 19 (+4) | 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5
 
@@ -116,26 +82,9 @@ At will: *darkness*, *invisibility*
 
 **Speed** 20 ft., climb 20 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>5 (−3)</td>
-			<td>16 (+3)</td>
-			<td>1 (−5)</td>
-			<td>6 (−2)</td>
-			<td>1 (−5)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 16 (+3) | 5 (−3) | 16 (+3) | 1 (−5) | 6 (−2) | 1 (−5) |
 
 **Damage Immunities** acid, cold, lightning, slashing
 
@@ -171,26 +120,9 @@ At will: *darkness*, *invisibility*
 
 **Speed** 15 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>14 (+2)</td>
-			<td>3 (−4)</td>
-			<td>20 (+5)</td>
-			<td>1 (−5)</td>
-			<td>6 (−2)</td>
-			<td>1 (−5)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 14 (+2) | 3 (−4) | 20 (+5) | 1 (−5) | 6 (−2) | 1 (−5) |
 
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
@@ -234,26 +166,9 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 **Speed** 10 ft., climb 10 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>12 (+1)</td>
-			<td>6 (−2)</td>
-			<td>16 (+3)</td>
-			<td>1 (−5)</td>
-			<td>6 (−2)</td>
-			<td>2 (−4)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 12 (+1) | 6 (−2) | 16 (+3) | 1 (−5) | 6 (−2) | 2 (−4) |
 
 **Skills** Stealth +2
 
@@ -289,26 +204,9 @@ The ooze can eat through 2-­‐inch-­‐thick, nonmagical metal in 1 round.
 
 **Speed** 10 ft., climb 10 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>15 (+2)</td>
-			<td>6 (−2)</td>
-			<td>14 (+2)</td>
-			<td>2 (−4)</td>
-			<td>6 (−2)</td>
-			<td>1 (−5)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 15 (+2) | 6 (−2) | 14 (+2) | 2 (−4) | 6 (−2) | 1 (−5) |
 
 **Damage Resistances** acid
 
@@ -344,26 +242,9 @@ The ooze can eat through 2-­‐inch-­‐thick, nonmagical metal in 1 round.
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>12 (+1)</td>
-			<td>16 (+3)</td>
-			<td>7 (−2)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 16 (+3) | 12 (+1) | 16 (+3) | 7 (−2) | 11 (+0) | 10 (+0) |
 
 **Skills** Intimidation +2
 
@@ -391,26 +272,9 @@ The ooze can eat through 2-­‐inch-­‐thick, nonmagical metal in 1 round.
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>11 (+0)</td>
-			<td>19 (+4)</td>
-			<td>6 (−2)</td>
-			<td>13 (+1)</td>
-			<td>6 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 11 (+0) | 19 (+4) | 6 (−2) | 13 (+1) | 6 (−2) |
 
 **Saving Throws** Con +7
 
@@ -442,26 +306,9 @@ The ooze can eat through 2-­‐inch-­‐thick, nonmagical metal in 1 round.
 
 **Speed** 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>20 (+5)</td>
-			<td>12 (+1)</td>
-			<td>17 (+3)</td>
-			<td>3 (−4)</td>
-			<td>12 (+1)</td>
-			<td>7 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 12 (+1) | 17 (+3) | 3 (−4) | 12 (+1) | 7 (−2) |
 
 **Skills** Perception +3
 

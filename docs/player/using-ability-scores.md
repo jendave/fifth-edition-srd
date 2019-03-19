@@ -26,81 +26,26 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
 
 Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
-<table>
-  <caption>Ability Scores and Modifiers</caption>
-  <thead>
-    <tr>
-      <th>Score</th>
-      <th>Modifier</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>−5</td>
-    </tr>
-    <tr>
-      <td>2–3</td>
-      <td>−4</td>
-    </tr>
-    <tr>
-      <td>4–5</td>
-      <td>−3</td>
-    </tr>
-    <tr>
-      <td>6–7</td>
-      <td>−2</td>
-    </tr>
-    <tr>
-      <td>8–9</td>
-      <td>−1</td>
-    </tr>
-    <tr>
-      <td>10–11</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td>12–13</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td>14–15</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>16–17</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>18–19</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>20–21</td>
-      <td>+5</td>
-    </tr>
-    <tr>
-      <td>22–23</td>
-      <td>+6</td>
-    </tr>
-    <tr>
-      <td>24–25</td>
-      <td>+7</td>
-    </tr>
-    <tr>
-      <td>26–27</td>
-      <td>+8</td>
-    </tr>
-    <tr>
-      <td>28–29</td>
-      <td>+9</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>+10</td>
-    </tr>
-  </tbody>
-</table>
+#### Ability Scores and Modifiers
+
+| Score | Modifier |
+| ----- | -------- |
+| 1     | −5       |
+| 2–3   | −4       |
+| 4–5   | −3       |
+| 6–7   | −2       |
+| 8–9   | −1       |
+| 10–11 | +0       |
+| 12–13 | +1       |
+| 14–15 | +2       |
+| 16–17 | +3       |
+| 18–19 | +4       |
+| 20–21 | +5       |
+| 22–23 | +6       |
+| 24–25 | +7       |
+| 26–27 | +8       |
+| 28–29 | +9       |
+| 30    | +10      |
 
 To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
 
@@ -136,41 +81,16 @@ An ability check tests a character’s or monster’s innate talent and training
 
 For every ability check, the GM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-<table>
-  <caption>Typical Difficulty Classes</caption>
-  <thead>
-    <tr>
-      <th>Task Difficulty</th>
-      <th>DC</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Very easy</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>Easy</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>Medium</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>Hard</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>Very hard</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>Nearly impossible</td>
-      <td>30</td>
-    </tr>
-  </tbody>
-</table>
+#### Typical Difficulty Classes
+
+| Task Difficulty   | DC  |
+| ----------------- | --- |
+| Very easy         | 5   |
+| Easy              | 10  |
+| Medium            | 15  |
+| Hard              | 20  |
+| Very hard         | 25  |
+| Nearly impossible | 30  |
 
 To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 

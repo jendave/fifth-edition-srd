@@ -12,27 +12,9 @@
 
 **Speed** 0 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>1 (−5)</td>
-			<td>1 (−5)</td>
-			<td>10 (+0)</td>
-			<td>1 (−5)</td>
-			<td>3 (−4)</td>
-			<td>1 (−5)</td>
-		</tr>
-	</tbody>
-</table>
-
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|1 (−5)|1 (−5)|10 (+0)|1 (−5)|3 (−4)|1 (−5)|
 
 **Condition Immunities** blinded, deafened, frightened
 
@@ -58,27 +40,9 @@
 
 **Speed** 5 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>3 (−4)</td>
-			<td>1 (−5)</td>
-			<td>10 (+0)</td>
-			<td>1 (−5)</td>
-			<td>3 (−4)</td>
-			<td>1 (−5)</td>
-		</tr>
-	</tbody>
-</table>
-
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|3 (−4)|1 (−5)|10 (+0)|1 (−5)|3 (−4)|1 (−5)|
 
 **Condition Immunities** blinded, deafened, frightened
 
@@ -95,4 +59,3 @@
 **Multiattack.** The fungus makes 1d4 Rotting Touch attacks.
 
 **Rotting Touch.** *Melee Weapon Attack:* +2 to hit, reach 10 ft., one creature. *Hit:* 4 (1d8) necrotic damage. 
-

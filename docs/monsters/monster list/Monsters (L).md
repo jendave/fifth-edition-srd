@@ -10,27 +10,9 @@
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>13 (+1)</td>
-			<td>15 (+2)</td>
-			<td>14 (+2)</td>
-			<td>15 (+2)</td>
-			<td>16 (+3)</td>
-		</tr>
-	</tbody>
-</table>
-
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 13 (+1) | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
 
 **Skills** Deception +7, Insight +4, Stealth +3
 
@@ -68,27 +50,9 @@ At will: *disguise self* (any humanoid form), *major image*
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>11 (+0)</td>
-			<td>16 (+3)</td>
-			<td>16 (+3)</td>
-			<td>20 (+5)</td>
-			<td>14 (+2)</td>
-			<td>16 (+3)</td>
-		</tr>
-	</tbody>
-</table>
-
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 11 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |
 
 **Saving Throws** Con +10, Int +12, Wis +9
 
@@ -160,26 +124,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft., swim 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>15 (+2)</td>
-			<td>10 (+0)</td>
-			<td>13 (+1)</td>
-			<td>7 (−2)</td>
-			<td>12 (+1)</td>
-			<td>7 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2) | 12 (+1) | 7 (−2) |
 
 **Skills** Perception +3, Stealth +4, Survival +5
 
@@ -215,26 +162,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>10 (+0)</td>
-			<td>17 (+3)</td>
-			<td>11 (+0)</td>
-			<td>12 (+1)</td>
-			<td>12 (+1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 19 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 12 (+1) | 12 (+1) |
 
 **Skills** Perception +7
 
@@ -270,26 +200,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft. (40 ft. in boar form)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>10 (+0)</td>
-			<td>15 (+2)</td>
-			<td>10 (+0)</td>
-			<td>11 (+0)</td>
-			<td>8 (−1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (−1) |
 
 **Skills** Perception +2
 
@@ -325,26 +238,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>10 (+0)</td>
-			<td>15 (+2)</td>
-			<td>12 (+1)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-			<td>8 (−1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (−1) |
 
 **Skills** Perception +2, Stealth +4
 
@@ -380,26 +276,9 @@ _*Multiattack (Humanoid or Hybrid Form Only)** The wererat makes two attacks, on
 
 **Speed** 30 ft. (40 ft. in tiger form)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>15 (+2)</td>
-			<td>16 (+3)</td>
-			<td>10 (+0)</td>
-			<td>13 (+1)</td>
-			<td>11 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +5, Stealth +4
 
@@ -439,26 +318,9 @@ _*Multiattack (Humanoid or Hybrid Form Only).** In humanoid form, the weretiger 
 
 **Speed** 30 ft. (40 ft. in wolf form)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>15 (+2)</td>
-			<td>13 (+1)</td>
-			<td>14 (+2)</td>
-			<td>10 (+0)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +4, Stealth +3
 

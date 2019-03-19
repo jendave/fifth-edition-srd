@@ -38,44 +38,13 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a *carpet of flying*, allow you to travel more swiftly.
 
-<table>
-  <caption>Travel Pace</caption>
-  <thead>
-    <tr>
-      <th rowspan="2">Pace</th>
-      <th colspan="3">Distance Traveled per . . .</th>
-      <th rowspan="2">Effect</th>
-    </tr>
-    <tr>
-      <th>Minute</th>
-      <th>Hour</th>
-      <th>Day</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Fast</td>
-      <td>400 feet</td>
-      <td>4 miles</td>
-      <td>30 miles</td>
-      <td>−5 penalty to passive Wisdom (Perception) scores</td>
-    </tr>
-    <tr>
-      <td>Normal</td>
-      <td>300 feet</td>
-      <td>3 miles</td>
-      <td>24 miles</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>Slow</td>
-      <td>200 feet</td>
-      <td>2 miles</td>
-      <td>18 miles</td>
-      <td>Able to use stealth</td>
-    </tr>
-  </tbody>
-</table>
+#### Travel Pace
+
+| Pace   | Distance Traveled per . . . | Effect  | Minute   | Hour                                             | Day |
+| ------ | --------------------------- | ------- | -------- | ------------------------------------------------ | --- |
+| Fast   | 400 feet                    | 4 miles | 30 miles | −5 penalty to passive Wisdom (Perception) scores |
+| Normal | 300 feet                    | 3 miles | 24 miles | —                                               |
+| Slow   | 200 feet                    | 2 miles | 18 miles | Able to use stealth                              |
 
 #### Difficult Terrain ####
 

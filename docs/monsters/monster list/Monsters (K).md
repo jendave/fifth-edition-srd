@@ -10,27 +10,9 @@
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>7 (−2)</td>
-			<td>15 (+2)</td>
-			<td>9 (−1)</td>
-			<td>8 (-1)</td>
-			<td>7 (-2)</td>
-			<td>8 (−1)</td>
-		</tr>
-	</tbody>
-</table>
-
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|7 (−2)|15 (+2)|9 (−1)|8 (-1)|7 (-2)|8 (−1)|
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -58,26 +40,9 @@
 
 **Speed** 20 ft., swim 60 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>30 (+10)</td>
-			<td>11 (+0)</td>
-			<td>25 (+7)</td>
-			<td>22 (+6)</td>
-			<td>18 (+4)</td>
-			<td>20 (+5)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)|
 
 **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
 

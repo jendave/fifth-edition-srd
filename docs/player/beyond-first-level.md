@@ -10,125 +10,30 @@ When your Constitution modifier increases by 1, your hit point maximum increases
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
 
-<table>
-<caption id="character-advancement">Character Advancement</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### Character Advancement
 
-<thead>
-<tr>
-	<th>Experience Points</th>
-	<th style="text-align:center;">Level</th>
-	<th style="text-align:center;">Proficiency Bonus</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>0</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">+2</td>
-</tr>
-<tr>
-	<td>300</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">+2</td>
-</tr>
-<tr>
-	<td>900</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">+2</td>
-</tr>
-<tr>
-	<td>2,700</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">+2</td>
-</tr>
-<tr>
-	<td>6,500</td>
-	<td style="text-align:center;">5</td>
-	<td style="text-align:center;">+3</td>
-</tr>
-<tr>
-	<td>14,000</td>
-	<td style="text-align:center;">6</td>
-	<td style="text-align:center;">+3</td>
-</tr>
-<tr>
-	<td>23,000</td>
-	<td style="text-align:center;">7</td>
-	<td style="text-align:center;">+3</td>
-</tr>
-<tr>
-	<td>34,000</td>
-	<td style="text-align:center;">8</td>
-	<td style="text-align:center;">+3</td>
-</tr>
-<tr>
-	<td>48,000</td>
-	<td style="text-align:center;">9</td>
-	<td style="text-align:center;">+4</td>
-</tr>
-<tr>
-	<td>64,000</td>
-	<td style="text-align:center;">10</td>
-	<td style="text-align:center;">+4</td>
-</tr>
-<tr>
-	<td>85,000</td>
-	<td style="text-align:center;">11</td>
-	<td style="text-align:center;">+4</td>
-</tr>
-<tr>
-	<td>100,000</td>
-	<td style="text-align:center;">12</td>
-	<td style="text-align:center;">+4</td>
-</tr>
-<tr>
-	<td>120,000</td>
-	<td style="text-align:center;">13</td>
-	<td style="text-align:center;">+5</td>
-</tr>
-<tr>
-	<td>140,000</td>
-	<td style="text-align:center;">14</td>
-	<td style="text-align:center;">+5</td>
-</tr>
-<tr>
-	<td>165,000</td>
-	<td style="text-align:center;">15</td>
-	<td style="text-align:center;">+5</td>
-</tr>
-<tr>
-	<td>195,000</td>
-	<td style="text-align:center;">16</td>
-	<td style="text-align:center;">+5</td>
-</tr>
-<tr>
-	<td>225,000</td>
-	<td style="text-align:center;">17</td>
-	<td style="text-align:center;">+6</td>
-</tr>
-<tr>
-	<td>265,000</td>
-	<td style="text-align:center;">18</td>
-	<td style="text-align:center;">+6</td>
-</tr>
-<tr>
-	<td>305,000</td>
-	<td style="text-align:center;">19</td>
-	<td style="text-align:center;">+6</td>
-</tr>
-<tr>
-	<td>355,000</td>
-	<td style="text-align:center;">20</td>
-	<td style="text-align:center;">+6</td>
-</tr>
-</tbody>
-</table>
+| Experience Points | Level | Proficiency Bonus |
+| ----------------- | ----- | ----------------- |
+| 0                 | 1     | +2                |
+| 300               | 2     | +2                |
+| 900               | 3     | +2                |
+| 2,700             | 4     | +2                |
+| 6,500             | 5     | +3                |
+| 14,000            | 6     | +3                |
+| 23,000            | 7     | +3                |
+| 34,000            | 8     | +3                |
+| 48,000            | 9     | +4                |
+| 64,000            | 10    | +4                |
+| 85,000            | 11    | +4                |
+| 100,000           | 12    | +4                |
+| 120,000           | 13    | +5                |
+| 140,000           | 14    | +5                |
+| 165,000           | 15    | +5                |
+| 195,000           | 16    | +5                |
+| 225,000           | 17    | +6                |
+| 265,000           | 18    | +6                |
+| 305,000           | 19    | +6                |
+| 355,000           | 20    | +6                |
 
 ## Multiclassing
 
@@ -142,71 +47,22 @@ As you advance in levels, you might primarily remain a member of your original c
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher  than average ability scores.
 
-<table>
-<caption id="multiclassing-prerequisites">Multiclassing Prerequisites</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Multiclassing Prerequisites
 
-<thead>
-<tr>
-	<th>Class</th>
-	<th>Ability Score Minimum</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Barbarian</td>
-	<td>Strength 13</td>
-</tr>
-<tr>
-	<td>Bard</td>
-	<td>Charisma 13</td>
-</tr>
-<tr>
-	<td>Cleric</td>
-	<td>Wisdom 13</td>
-</tr>
-<tr>
-	<td>Druid</td>
-	<td>Wisdom 13</td>
-</tr>
-<tr>
-	<td>Fighter</td>
-	<td>Strength 13 or Dexterity 13</td>
-</tr>
-<tr>
-	<td>Monk</td>
-	<td>Dexterity 13 and Wisdom 13</td>
-</tr>
-<tr>
-	<td>Paladin</td>
-	<td>Strength 13 and Charisma 13</td>
-</tr>
-<tr>
-	<td>Ranger</td>
-	<td>Dexterity 13 and Wisdom 13</td>
-</tr>
-<tr>
-	<td>Rogue</td>
-	<td>Dexterity 13</td>
-</tr>
-<tr>
-	<td>Sorcerer</td>
-	<td>Charisma 13</td>
-</tr>
-<tr>
-	<td>Warlock</td>
-	<td>Charisma 13</td>
-</tr>
-<tr>
-	<td>Wizard</td>
-	<td>Intelligence 13</td>
-</tr>
-</tbody>
-</table>
+| Class     | Ability Score Minimum       |
+| --------- | --------------------------- |
+| Barbarian | Strength 13                 |
+| Bard      | Charisma 13                 |
+| Cleric    | Wisdom 13                   |
+| Druid     | Wisdom 13                   |
+| Fighter   | Strength 13 or Dexterity 13 |
+| Monk      | Dexterity 13 and Wisdom 13  |
+| Paladin   | Strength 13 and Charisma 13 |
+| Ranger    | Dexterity 13 and Wisdom 13  |
+| Rogue     | Dexterity 13                |
+| Sorcerer  | Charisma 13                 |
+| Warlock   | Charisma 13                 |
+| Wizard    | Intelligence 13             |
 
 ### Experience Points
 
@@ -225,71 +81,22 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 When you gain your first level in a class other than your initial class, you gain only some of new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-<table>
-<caption id="multiclassing-proficiencies">Multiclassing Proficiencies</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-</colgroup>
+#### Multiclassing Proficiencies
 
-<thead>
-<tr>
-	<th>Class</th>
-	<th>Proficiencies Gained</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>Barbarian</td>
-	<td>Shields, simple weapons, martial weapons</td>
-</tr>
-<tr>
-	<td>Bard</td>
-	<td>Light armor, one skill of your choice, one musical instrument of your choice</td>
-</tr>
-<tr>
-	<td>Cleric</td>
-	<td>Light armor, medium armor, shields</td>
-</tr>
-<tr>
-	<td>Druid</td>
-	<td>Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)</td>
-</tr>
-<tr>
-	<td>Fighter</td>
-	<td>Light armor, medium armor, shields, simple weapons, martial weapons</td>
-</tr>
-<tr>
-	<td>Monk</td>
-	<td>Simple weapons, shortswords</td>
-</tr>
-<tr>
-	<td>Paladin</td>
-	<td>Light armor, medium armor, shields, simple weapons, martial weapons</td>
-</tr>
-<tr>
-	<td>Ranger</td>
-	<td>Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class&#8217;s skill list</td>
-</tr>
-<tr>
-	<td>Rogue</td>
-	<td>Light armor, one skill from the class&#8217;s skill list, thieves&#8217; tools</td>
-</tr>
-<tr>
-	<td>Sorcerer</td>
-	<td>&#8212;</td>
-</tr>
-<tr>
-	<td>Warlock</td>
-	<td>Light armor, simple weapons</td>
-</tr>
-<tr>
-	<td>Wizard</td>
-	<td>&#8212;</td>
-</tr>
-</tbody>
-</table>
+| Class     | Proficiencies Gained                                                                                        |
+| --------- | ----------------------------------------------------------------------------------------------------------- |
+| Barbarian | Shields, simple weapons, martial weapons                                                                    |
+| Bard      | Light armor, one skill of your choice, one musical instrument of your choice                                |
+| Cleric    | Light armor, medium armor, shields                                                                          |
+| Druid     | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)                |
+| Fighter   | Light armor, medium armor, shields, simple weapons, martial weapons                                         |
+| Monk      | Simple weapons, shortswords                                                                                 |
+| Paladin   | Light armor, medium armor, shields, simple weapons, martial weapons                                         |
+| Ranger    | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list |
+| Rogue     | Light armor, one skill from the class’s skill list, thieves’ tools                                        |
+| Sorcerer  | —                                                                                                          |
+| Warlock   | Light armor, simple weapons                                                                                 |
+| Wizard    | —                                                                                                          |
 
 ### Class Features
 
@@ -323,276 +130,27 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 **Pact Magic.** If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
-<table>
-<caption id="multiclass-spellcaster-spell-slots-per-spell-level">Multiclass Spellcaster: Spell Slots per Spell Level</caption>
-<colgroup>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### Multiclass Spellcaster: Spell Slots per Spell Level
 
-<thead>
-<tr>
-	<th style="text-align:center;">Lvl.</th>
-	<th style="text-align:center;">1st</th>
-	<th style="text-align:center;">2nd</th>
-	<th style="text-align:center;">3rd</th>
-	<th style="text-align:center;">4th</th>
-	<th style="text-align:center;">5th</th>
-	<th style="text-align:center;">6th</th>
-	<th style="text-align:center;">7th</th>
-	<th style="text-align:center;">8th</th>
-	<th style="text-align:center;">9th</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:center;">1st</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">2nd</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">3rd</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">4th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">5th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">6th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">7th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">8th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">9th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">10th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">11th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">12th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">13th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">14th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">&#8212;</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">15th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">16th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">&#8212;</td>
-</tr>
-<tr>
-	<td style="text-align:center;">17th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-</tr>
-<tr>
-	<td style="text-align:center;">18th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-</tr>
-<tr>
-	<td style="text-align:center;">19th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-</tr>
-<tr>
-	<td style="text-align:center;">20th</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-</tr>
-</tbody>
-</table>
+| Lvl. | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st  | 2   | —  | —  | —  | —  | —  | —  | —  | —  |
+| 2nd  | 3   | —  | —  | —  | —  | —  | —  | —  | —  |
+| 3rd  | 4   | 2   | —  | —  | —  | —  | —  | —  | —  |
+| 4th  | 4   | 3   | —  | —  | —  | —  | —  | —  | —  |
+| 5th  | 4   | 3   | 2   | —  | —  | —  | —  | —  | —  |
+| 6th  | 4   | 3   | 3   | —  | —  | —  | —  | —  | —  |
+| 7th  | 4   | 3   | 3   | 1   | —  | —  | —  | —  | —  |
+| 8th  | 4   | 3   | 3   | 2   | —  | —  | —  | —  | —  |
+| 9th  | 4   | 3   | 3   | 3   | 1   | —  | —  | —  | —  |
+| 10th | 4   | 3   | 3   | 3   | 2   | —  | —  | —  | —  |
+| 11th | 4   | 3   | 3   | 3   | 2   | 1   | —  | —  | —  |
+| 12th | 4   | 3   | 3   | 3   | 2   | 1   | —  | —  | —  |
+| 13th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —  | —  |
+| 14th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —  | —  |
+| 15th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —  |
+| 16th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —  |
+| 17th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |

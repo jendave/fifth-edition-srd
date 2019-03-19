@@ -143,42 +143,16 @@ Flying creatures enjoy many benefits of mobility, but they must also deal with t
 
 Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-<table>
-  <caption>Size Categories</caption>
-  <thead>
-    <tr>
-      <th>Size</th>
-      <th>Space</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tiny</td>
-      <td>2½ by 2½ ft.</td>
-    </tr>
-    <tr>
-      <td>Small</td>
-      <td>5 by 5 ft.</td>
-    </tr>
-    <tr>
-      <td>Medium</td>
-      <td>5 by 5 ft.</td>
-    </tr>
-    <tr>
-      <td>Large</td>
-      <td>10 by 10 ft.</td>
-    </tr>
-    <tr>
-      <td>Huge</td>
-      <td>15 by 15 ft.</td>
-    </tr>
-    <tr>
-      <td>Gargantuan</td>
-      <td>20 by 20 ft. or larger</td>
-    </tr>
-    <tr>
-  </tbody>
-</table>
+#### Size Categories
+
+| Size       | Space                  |
+| ---------- | ---------------------- |
+| Tiny       | 2½ by 2½ ft.           |
+| Small      | 5 by 5 ft.             |
+| Medium     | 5 by 5 ft.             |
+| Large      | 10 by 10 ft.           |
+| Huge       | 15 by 15 ft.           |
+| Gargantuan | 20 by 20 ft. or larger |
 
 #### Space ####
 

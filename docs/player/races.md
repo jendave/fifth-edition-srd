@@ -178,48 +178,20 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 **Speed.** Your base walking speed is 30 feet.
 
-<table>
- <caption>Draconic Ancestry</caption>
- <thead>
-  <tr>
-   <th>Dragon</th>
-   <th>Damage Type</th>
-   <th>Breath Weapon</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Black</td> <td>Acid</td> <td>5 by 30 ft. line (Dex. save)</td>
-  </tr>
-  <tr>
-   <td>Blue</td> <td>Lightning</td> <td>5 by 30 ft. line (Dex. save)</td>
-  </tr>
-  <tr>
-   <td>Brass</td> <td>Fire</td> <td>5 by 30 ft. line (Dex. save)</td>
-  </tr>
-  <tr>
-   <td>Bronze</td> <td>Lightning</td> <td>5 by 30 ft. line (Dex. save)</td>
-  </tr>
-  <tr>
-   <td>Copper</td> <td>Acid</td> <td>5 by 30 ft. line (Dex. save)</td>
-  </tr>
-  <tr>
-   <td>Gold</td> <td>Fire</td> <td>15 ft. cone (Dex. save)</td>
-  </tr>
-  <tr>
-   <td>Green</td> <td>Poison</td> <td>15 ft. cone (Con. save)</td>
-  </tr>
-  <tr>
-   <td>Red</td> <td>Fire</td> <td>15 ft. cone (Dex. save)</td>
-  </tr>
-  <tr>
-   <td>Silver</td> <td>Cold</td> <td>15 ft. cone (Con. save)</td>
-  </tr>
-  <tr>
-   <td>White</td> <td>Cold</td> <td>15 ft. cone (Con. save)</td>
-  </tr>
- </tbody>
-</table>
+#### Draconic Ancestry
+
+| Dragon | Damage Type | Breath Weapon                |
+| ------ | ----------- | ---------------------------- |
+| Black  | Acid        | 5 by 30 ft. line (Dex. save) |
+| Blue   | Lightning   | 5 by 30 ft. line (Dex. save) |
+| Brass  | Fire        | 5 by 30 ft. line (Dex. save) |
+| Bronze | Lightning   | 5 by 30 ft. line (Dex. save) |
+| Copper | Acid        | 5 by 30 ft. line (Dex. save) |
+| Gold   | Fire        | 15 ft. cone (Dex. save)      |
+| Green  | Poison      | 15 ft. cone (Con. save)      |
+| Red    | Fire        | 15 ft. cone (Dex. save)      |
+| Silver | Cold        | 15 ft. cone (Con. save)      |
+| White  | Cold        | 15 ft. cone (Con. save)      |
 
 **Draconic Ancestry.** You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
 

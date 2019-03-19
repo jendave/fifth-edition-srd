@@ -12,26 +12,9 @@
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>18 (+4)</td>
-			<td>18 (+4)</td>
-			<td>17 (+3)</td>
-			<td>15 (+2)</td>
-			<td>18 (+4)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 
 **Saving Throws** Dex +9, Wis +7, Cha +9
 
@@ -105,26 +88,9 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>16 (+3)</td>
-			<td>16 (+3)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-			<td>12 (+1)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
 
 **Saving Throws** Dex +6, Wis +3
 

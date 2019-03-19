@@ -10,26 +10,9 @@
 
 **Speed** 10 ft., swim 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>21 (+5)</td>
-			<td>9 (−1)</td>
-			<td>15 (+2)</td>
-			<td>18 (+4)</td>
-			<td>15 (+2)</td>
-			<td>18 (+4)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+| ------- | ------ | ------- | ------- | ------- | ------- |
+| 21 (+5) | 9 (−1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
 
 **Saving Throws** Con +6, Int +8, Wis +6
 
@@ -81,26 +64,9 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 **Speed** 30 ft., fly 90 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>18 (+4)</td>
-			<td>18 (+4)</td>
-			<td>17 (+3)</td>
-			<td>20 (+5)</td>
-			<td>20 (+5)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5) |
 
 **Saving Throws** Wis +9, Cha +9
 
@@ -148,26 +114,9 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 
 **Speed** 40 ft., fly 120 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>24 (+7)</td>
-			<td>20 (+5)</td>
-			<td>24 (+7)</td>
-			<td>19 (+4)</td>
-			<td>22 (+6)</td>
-			<td>25 (+7)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 24 (+7) | 20 (+5) | 24 (+7) | 19 (+4) | 22 (+6) | 25 (+7) |
 
 **Saving Throws** Con +12, Wis +11, Cha +12
 
@@ -215,26 +164,9 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 **Speed** 50 ft., fly 150 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>26 (+8)</td>
-			<td>22 (+6) </td>
-			<td>26 (+8)</td>
-			<td>25 (+7)</td>
-			<td>25 (+7)</td>
-			<td>30 (+10)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA      |
+| ------- | ------- | ------- | ------- | ------- | -------- |
+| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
 
 **Saving Throws** Int +14, Wis +14, Cha +17
 
@@ -300,26 +232,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Speed** 25 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>14 (+2)</td>
-			<td>11 (+0)</td>
-			<td>13 (+1)</td>
-			<td>1 (−5)</td>
-			<td>3 (−4)</td>
-			<td>1 (−5)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 14 (+2) | 11 (+0) | 13 (+1) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Damage Immunities** poison, psychic
 
@@ -351,26 +266,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>12 (+1)</td>
-			<td>15 (+2)</td>
-			<td>11 (+0)</td>
-			<td>1 (−5)</td>
-			<td>5 (−3)</td>
-			<td>1 (−5)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 12 (+1) | 15 (+2) | 11 (+0) | 1 (−5) | 5 (−3) | 1 (−5) |
 
 **Saving Throws** Dex +4
 
@@ -402,26 +300,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Speed** 10 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>14 (+2)</td>
-			<td>10 (+0)</td>
-			<td>1 (−5)</td>
-			<td>3 (−4)</td>
-			<td>1 (−5)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 17 (+3) | 14 (+2) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Damage Immunities** poison, psychic
 
@@ -453,26 +334,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Speed** 30 ft., burrow 10 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>11 (+0)</td>
-			<td>13 (+1)</td>
-			<td>1 (−5)</td>
-			<td>13 (+1)</td>
-			<td>6 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 11 (+0) | 13 (+1) | 1 (−5) | 13 (+1) | 6 (−2) |
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
 
@@ -496,26 +360,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>12 (+1)</td>
-			<td>15 (+2)</td>
-			<td>12 (+1)</td>
-			<td>13 (+1)</td>
-			<td>10 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
 
 **Saving Throws** Con +4
 

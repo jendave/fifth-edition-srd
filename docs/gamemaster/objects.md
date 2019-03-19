@@ -10,94 +10,28 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 **Armor Class.** An object’s Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-<table>
-<caption id="object-armor-class">Object Armor Class</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-</colgroup>
+#### Object Armor Class
 
-<thead>
-<tr>
-	<th style="text-align:left;">Substance</th>
-	<th style="text-align:center;">AC</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;">Cloth, paper, rope</td>
-	<td style="text-align:center;">11</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Crystal, glass, ice</td>
-	<td style="text-align:center;">13</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Wood, bone</td>
-	<td style="text-align:center;">15</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Stone</td>
-	<td style="text-align:center;">17</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Iron, steel</td>
-	<td style="text-align:center;">19</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Mithral</td>
-	<td style="text-align:center;">21</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Adamantine</td>
-	<td style="text-align:center;">23</td>
-</tr>
-</tbody>
-</table>
-
+| Substance           | AC  |
+| ------------------- | --- |
+| Cloth, paper, rope  | 11  |
+| Crystal, glass, ice | 13  |
+| Wood, bone          | 15  |
+| Stone               | 17  |
+| Iron, steel         | 19  |
+| Mithral             | 21  |
+| Adamantine          | 23  |
 
 **Hit Points.** An object’s hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-<table>
-<caption id="object-hit-points">Object Hit Points</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-<col style="text-align:right;"/>
-</colgroup>
+#### Object Hit Points
 
-<thead>
-<tr>
-	<th style="text-align:left;">Size</th>
-	<th style="text-align:right;">Fragile</th>
-	<th style="text-align:right;">Resilient</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;">Tiny (bottle, lock)</td>
-	<td style="text-align:right;">2&nbsp;(1d4)</td>
-	<td style="text-align:right;">5&nbsp;(2d4)</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Small (chest, lute)</td>
-	<td style="text-align:right;">3&nbsp;(1d6)</td>
-	<td style="text-align:right;">10&nbsp;(3d6)</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Medium (barrel, chandelier)</td>
-	<td style="text-align:right;">4&nbsp;(1d8)</td>
-	<td style="text-align:right;">18&nbsp;(4d8)</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Large (cart, 10-ft.-by&#8211;10-ft. window)</td>
-	<td style="text-align:right;">5&nbsp;(1d10)</td>
-	<td style="text-align:right;">27&nbsp;(5d10)</td>
-</tr>
-</tbody>
-</table>
+| Size                                  | Fragile  | Resilient |
+| ------------------------------------- | -------- | --------- |
+| Tiny (bottle, lock)                   | 2 (1d4)  | 5 (2d4)   |
+| Small (chest, lute)                   | 3 (1d6)  | 10 (3d6)  |
+| Medium (barrel, chandelier)           | 4 (1d8)  | 18 (4d8)  |
+| Large (cart, 10-ft.-by–10-ft. window) | 5 (1d10) | 27 (5d10) |
 
 **Huge and Gargantuan Objects.** Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an *earthquake* spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object’s hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section’s hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
 

@@ -12,27 +12,9 @@
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>12 (+1)</td>
-			<td>16 (+3)</td>
-			<td>13 (+1)</td>
-			<td>14 (+2)</td>
-			<td>14 (+2)</td>
-		</tr>
-	</tbody>
-</table>
-
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
 
 **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
 
@@ -70,27 +52,9 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>15 (+2)</td>
-			<td>16 (+3)</td>
-			<td>16 (+3)</td>
-			<td>14 (+2)</td>
-			<td>16 (+3)</td>
-		</tr>
-	</tbody>
-</table>
-
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +7, Insight +6, Perception +6, Stealth +6
 
@@ -132,26 +96,9 @@ At will: *detect magic*, *magic missile*
 
 **Speed** 30 ft., swim 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>13 (+1)</td>
-			<td>16 (+3)</td>
-			<td>12 (+1)</td>
-			<td>12 (+1)</td>
-			<td>13 (+1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -185,57 +132,20 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Resistances.** The half-dragon gains resistance to a type of damage based on its color.
 
-<table>
-	<thead>
-		<th>**Color**</th>
-		<th>**Damage Resistance**</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>Black or copper</td>
-			<td>Blue or bronze</td>
-			<td>Brass, gold, or red</td>
-			<td>Green</td>
-			<td>Silver or white </td>
-		</tr>
-		<tr>
-			<td>Acid</td>
-			<td>Lightning</td>
-			<td>Fire</td>
-			<td>Poison</td>
-			<td>Cold</td>
-		</tr>
-	</tbody>
-</table>
+| **Color**       | **Damage Resistance** |
+| --------------- | --------------------- |
+| Black or copper | Blue or bronze        | Brass, gold, or red | Green  | Silver or white |
+| Acid            | Lightning             | Fire                | Poison | Cold            |
 
 **Languages**._ The half-dragon speaks Draconic in addition to any other languages it knows.
 
 **New Action: Breath Weapon.** The half-dragon has the breath weapon of its dragon half. The half- dragon’s size determines how this action functions.
 
-<table>
-	<thead>
-		<th>**Color**</th>
-		<th>**Damage Resistance**</th>
-		<th>Optional Prerequisite</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>Large or smaller</td>
-			<td>Huge</td>
-			<td>Gargantuan</td>
-		</tr>
-		<tr>
-			<td>As a wyrmling</td>
-			<td>As a young dragon</td>
-			<td>As an adult dragon</td>
-		</tr>
-		<tr>
-			<td>**Challenge** 2 or higher</td>
-			<td>**Challenge** 7 or higher</td>
-			<td>**Challenge** 8 or higher </td>
-		</tr>
-	</tbody>
-</table>
+| **Color**                 | **Damage Resistance**     | Optional Prerequisite     |
+| ------------------------- | ------------------------- | ------------------------- |
+| Large or smaller          | Huge                      | Gargantuan                |
+| As a wyrmling             | As a young dragon         | As an adult dragon        |
+| **Challenge** 2 or higher | **Challenge** 7 or higher | **Challenge** 8 or higher |
 
 ### Half-­‐Red Dragon Veteran
 
@@ -247,27 +157,9 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>13 (+1)</td>
-			<td>14 (+2)</td>
-			<td>10 (+0)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-		</tr>
-	</tbody>
-</table>
-
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2
 
@@ -302,26 +194,9 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Speed** 20 ft., fly 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>12 (+1)</td>
-			<td>13 (+1)</td>
-			<td>12 (+1)</td>
-			<td>7 (−2)</td>
-			<td>10 (+0)</td>
-			<td>13 (+1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 12 (+1) | 13 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 13 (+1) |
 
 **Senses** passive Perception 10
 
@@ -353,26 +228,9 @@ A target that successfully saves is immune to this harpy’s song for the next 2
 
 **Speed** 50 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>12 (+1)</td>
-			<td>14 (+2)</td>
-			<td>6 (−2)</td>
-			<td>13 (+1)</td>
-			<td>6 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 12 (+1) | 14 (+2) | 6 (−2) | 13 (+1) | 6 (−2) |
 
 **Skills** Perception +5
 
@@ -404,26 +262,9 @@ A target that successfully saves is immune to this harpy’s song for the next 2
 
 **Speed** 40 ft., fly 60 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>13 (+1)</td>
-			<td>13 (+1)</td>
-			<td>2 (−4)</td>
-			<td>12 (+1)</td>
-			<td>8 (−1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 13 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 8 (−1) |
 
 **Skills** Perception +5
 
@@ -453,26 +294,9 @@ A target that successfully saves is immune to this harpy’s song for the next 2
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>13 (+1)</td>
-			<td>12 (+1)</td>
-			<td>12 (+1)</td>
-			<td>10 (+0)</td>
-			<td>10 (+0)</td>
-			<td>9 (−1)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (−1) |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -498,27 +322,9 @@ A target that successfully saves is immune to this harpy’s song for the next 2
 
 **Speed** 20 ft., fly 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>4 (−3)</td>
-			<td>15 (+2)</td>
-			<td>11 (+0)</td>
-			<td>10 (+0)</td>
-			<td>10 (+0)</td>
-			<td>7 (−2)</td>
-		</tr>
-	</tbody>
-</table>
-
+| STR    | DEX     | CON     | INT     | WIS     | CHA    |
+| ------ | ------- | ------- | ------- | ------- | ------ |
+| 4 (−3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2) |
 
 **Damage Immunities** poison
 
@@ -546,26 +352,9 @@ A target that successfully saves is immune to this harpy’s song for the next 2
 
 **Speed** 30 ft., swim 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>20 (+5)</td>
-			<td>12 (+1)</td>
-			<td>20 (+5)</td>
-			<td>2 (−4)</td>
-			<td>10 (+0)</td>
-			<td>7 (−2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 12 (+1) | 20 (+5) | 2 (−4) | 10 (+0) | 7 (−2) |
 
 **Skills** Perception +6
 

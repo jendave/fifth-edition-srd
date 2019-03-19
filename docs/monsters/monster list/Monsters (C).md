@@ -10,26 +10,9 @@
 
 **Speed** 50 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>14 (+2)</td>
-			<td>14 (+2)</td>
-			<td>9 (−1)</td>
-			<td>13 (+1)</td>
-			<td>11 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 18 (+4) | 14 (+2) | 14 (+2) | 9 (−1) | 13 (+1) | 11 (+0) |
 
 **Skills** Athletics +6, Perception +3, Survival +3
 
@@ -61,26 +44,9 @@
 
 **Speed** 30 ft., fly 60 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>11 (+0)</td>
-			<td>19 (+4)</td>
-			<td>3 (−4)</td>
-			<td>14 (+2)</td>
-			<td>10 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 19 (+4) | 11 (+0) | 19 (+4) | 3 (−4) | 14 (+2) | 10 (+0) |
 
 **Skills** Perception +8
 
@@ -112,26 +78,9 @@
 
 **Speed** 30 ft., swim 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>19 (+4)</td>
-			<td>10 (+0)</td>
-			<td>16 (+3)</td>
-			<td>5 (−3)</td>
-			<td>11 (+0)</td>
-			<td>5 (−3)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3) | 11 (+0) | 5 (−3) |
 
 **Skills** Perception +4
 
@@ -167,26 +116,9 @@
 
 **Speed** 10 ft., fly 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>17 (+3)</td>
-			<td>15 (+2)</td>
-			<td>12 (+1)</td>
-			<td>13 (+1)</td>
-			<td>12 (+1)</td>
-			<td>14 (+2)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 12 (+1) | 14 (+2) |
 
 **Skills** Stealth +5
 
@@ -228,26 +160,9 @@ A duplicate has the cloaker’s AC and uses its saving throws. If an attack hits
 
 **Speed** 20 ft., fly 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>6 (−2)</td>
-			<td>12 (+1)</td>
-			<td>12 (+1)</td>
-			<td>2 (−4)</td>
-			<td>13 (+1)</td>
-			<td>5 (−3)</td>
-		</tr>
-	</tbody>
-</table>
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (−2) | 12 (+1) | 12 (+1) | 2 (−4) | 13 (+1) | 5 (−3) |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -269,26 +184,9 @@ A duplicate has the cloaker’s AC and uses its saving throws. If an attack hits
 
 **Speed** 30 ft., fly 90 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>16 (+3)</td>
-			<td>20 (+5)</td>
-			<td>17 (+3)</td>
-			<td>18 (+4)</td>
-			<td>20 (+5)</td>
-			<td>18 (+4)</td>
-		</tr>
-	</tbody>
-</table>
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 20 (+5) | 17 (+3) | 18 (+4) | 20 (+5) | 18 (+4) |
 
 **Saving Throws** Con +5, Wis +7, Cha +6
 

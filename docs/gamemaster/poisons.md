@@ -12,99 +12,27 @@ Poisons come in the following four types.
 
 **Injury.** Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
+#### Poisons
 
-<table>
-<caption id="poisons">Poisons</caption>
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-<col style="text-align:right;"/>
-</colgroup>
-
-<thead>
-<tr>
-	<th style="text-align:left;">Item</th>
-	<th style="text-align:left;">Type</th>
-	<th style="text-align:right;">Price per Dose</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;">Assassin&#8217;s blood</td>
-	<td style="text-align:left;">Ingested</td>
-	<td style="text-align:right;">150&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Burnt othur fumes</td>
-	<td style="text-align:left;">Inhaled</td>
-	<td style="text-align:right;">500&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Crawler mucus</td>
-	<td style="text-align:left;">Contact</td>
-	<td style="text-align:right;">200&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Drow poison</td>
-	<td style="text-align:left;">Injury</td>
-	<td style="text-align:right;">200&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Essence of ether</td>
-	<td style="text-align:left;">Inhaled</td>
-	<td style="text-align:right;">300&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Malice</td>
-	<td style="text-align:left;">Inhaled</td>
-	<td style="text-align:right;">250&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Midnight tears</td>
-	<td style="text-align:left;">Ingested</td>
-	<td style="text-align:right;">1,500&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Oil of taggit</td>
-	<td style="text-align:left;">Contact</td>
-	<td style="text-align:right;">400&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Pale tincture</td>
-	<td style="text-align:left;">Ingested</td>
-	<td style="text-align:right;">250&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Purple worm poison</td>
-	<td style="text-align:left;">Injury</td>
-	<td style="text-align:right;">2,000&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Serpent venom</td>
-	<td style="text-align:left;">Injury</td>
-	<td style="text-align:right;">200&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Torpor</td>
-	<td style="text-align:left;">Ingested</td>
-	<td style="text-align:right;">600&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Truth serum</td>
-	<td style="text-align:left;">Ingested</td>
-	<td style="text-align:right;">150&nbsp;gp</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Wyvern poison</td>
-	<td style="text-align:left;">Injury</td>
-	<td style="text-align:right;">1,200&nbsp;gp</td>
-</tr>
-</tbody>
-</table>
-
+| Item               | Type     | Price per Dose |
+| ------------------ | -------- | -------------- |
+| Assassin’s blood   | Ingested | 150 gp         |
+| Burnt othur fumes  | Inhaled  | 500 gp         |
+| Crawler mucus      | Contact  | 200 gp         |
+| Drow poison        | Injury   | 200 gp         |
+| Essence of ether   | Inhaled  | 300 gp         |
+| Malice             | Inhaled  | 250 gp         |
+| Midnight tears     | Ingested | 1,500 gp       |
+| Oil of taggit      | Contact  | 400 gp         |
+| Pale tincture      | Ingested | 250 gp         |
+| Purple worm poison | Injury   | 2,000 gp       |
+| Serpent venom      | Injury   | 200 gp         |
+| Torpor             | Ingested | 600 gp         |
+| Truth serum        | Ingested | 150 gp         |
+| Wyvern poison      | Injury   | 1,200 gp       |
 
 ## Sample Poisons
+
 Each type of poison has its own debilitating effects.
 
 **Assassin’s Blood (Ingested).** A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t poisoned.

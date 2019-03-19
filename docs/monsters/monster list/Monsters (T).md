@@ -10,26 +10,9 @@
 
 **Speed** 40 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>30 (+10)</td>
-			<td>11 (+0)</td>
-			<td>30 (+10)</td>
-			<td>3 (−4)</td>
-			<td>11 (+0)</td>
-			<td>11 (+0)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|30 (+10)|11 (+0)|30 (+10)|3 (−4)|11 (+0)|11 (+0)|
 
 **Saving Throws** Int +5, Wis +9, Cha +9
 
@@ -89,26 +72,9 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>23 (+6)</td>
-			<td>8 (−1)</td>
-			<td>21 (+5)</td>
-			<td>12 (+1)</td>
-			<td>16 (+3)</td>
-			<td>12 (+1)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|23 (+6)|8 (−1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 
 **Damage Resistances** bludgeoning, piercing
 
@@ -145,26 +111,9 @@ animated tree acts as an ally of the treant. The tree remains animate for 1 day 
 
 **Speed** 30 ft.
 
-<table>
-	<thead>
-		<th>STR</th>
-		<th>DEX</th>
-		<th>CON</th>
-		<th>INT</th>
-		<th>WIS</th>
-		<th>CHA</th>
-	</thead>
-	</tbody>
-		<tr>
-			<td>18 (+4)</td>
-			<td>13 (+1)</td>
-			<td>20 (+5)</td>
-			<td>7 (−2)</td>
-			<td>9 (-1)</td>
-			<td>7 (-2)</td>
-		</tr>
-	</tbody>
-</table>
+|STR|DEX|CON|INT|WIS|CHA|
+|--- |--- |--- |--- |--- |--- |
+|18 (+4)|13 (+1)|20 (+5)|7 (−2)|9 (-1)|7 (-2)|
 
 **Skills** Perception +2
 

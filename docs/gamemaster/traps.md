@@ -36,72 +36,22 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
 
-<table>
-  <caption>Trap Save DCs and Attack Bonuses</caption>
-  <thead>
-    <tr>
-      <th>Trap Danger</th>
-      <th>Save DC</th>
-      <th>Attack Bonus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <td>Setback</td>
-    <td>10–11</td>
-    <td>+3 to +5</td>
-  </tr>
-  <tr>
-    <td>Dangerous</td>
-    <td>12–15</td>
-    <td>+6 to +8</td>
-  </tr>
-  <tr>
-    <td>Deadly</td>
-    <td>16–20</td>
-    <td>+9 to +12</td>
-  </tr>
-  </tbody>
-</table>
+#### Trap Save DCs and Attack Bonuses
 
+| Trap Danger | Save DC | Attack Bonus |
+| ----------- | ------- | ------------ |
+| Setback     | 10–11   | +3 to +5     |
+| Dangerous   | 12–15   | +6 to +8     |
+| Deadly      | 16–20   | +9 to +12    |
 
-<table>
-  <caption>Damage Severity by Level</caption>
-  <thead>
-    <tr>
-    <th>Character Level</th>
-    <th>Setback</th>
-    <th>Dangerous</th>
-    <th>Deadly</th>
-  </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <td>1st–4th</td>
-    <td>1d10</td>
-    <td>2d10</td>
-    <td>4d10</td>
-  </tr>
-  <tr>
-    <td>5th–10th</td>
-    <td>2d10</td>
-    <td>4d10</td>
-    <td>10d10</td>
-  </tr>
-  <tr>
-    <td>11th–16th</td>
-    <td>4d10</td>
-    <td>10d10</td>
-    <td>18d10</td>
-  </tr>
-  <tr>
-    <td>17th–20th</td>
-    <td>10d10</td>
-    <td>18d10</td>
-    <td>24d10</td>
-  </tr>
-  </tbody>
-</table>
+#### Damage Severity by Level
+
+| Character Level | Setback | Dangerous | Deadly |
+| --------------- | ------- | --------- | ------ |
+| 1st–4th         | 1d10    | 2d10      | 4d10   |
+| 5th–10th        | 2d10    | 4d10      | 10d10  |
+| 11th–16th       | 4d10    | 10d10     | 18d10  |
+| 17th–20th       | 10d10   | 18d10     | 24d10  |
 
 ### Complex Traps
 

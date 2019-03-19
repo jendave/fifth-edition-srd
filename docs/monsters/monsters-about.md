@@ -6,48 +6,16 @@ A monster’s statistics, sometimes referred to as its **stat block**, provide t
 
 A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the *Player’s Handbook* for more information on creature size and space.
 
-<table>
-  <caption>Size Categories</caption>
-  <thead>
-    <tr>
-      <th>Size</th>
-      <th>Space</th>
-      <th>Examples</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tiny</td>
-      <td>2&frac12; by 2&frac12; ft.</td>
-      <td>Imp, sprite</td>
-    </tr>
-    <tr>
-      <td>Small</td>
-      <td>5 by 5 ft.</td>
-      <td>Giant rat, goblin</td>
-    </tr>
-    <tr>
-      <td>Medium</td>
-      <td>5 by 5 ft.</td>
-      <td>Orc, werewolf</td>
-    </tr>
-    <tr>
-      <td>Large</td>
-      <td>10 by 10 ft.</td>
-      <td>Hippogriff, ogre</td>
-    </tr>
-    <tr>
-      <td>Huge</td>
-      <td>15 by 15 ft.</td>
-      <td>Fire giant, treant </td>
-    </tr>
-    <tr>
-      <td>Gargantuan </td>
-      <td>20 by 20 ft. or larger </td>
-      <td>Kraken, purple worm</td>
-    </tr>
-  </tbody>
-</table>
+#### Size Categories
+
+|Size|Space|Examples|
+|--- |--- |--- |
+|Tiny|2½ by 2½ ft.|Imp, sprite|
+|Small|5 by 5 ft.|Giant rat, goblin|
+|Medium|5 by 5 ft.|Orc, werewolf|
+|Large|10 by 10 ft.|Hippogriff, ogre|
+|Huge|15 by 15 ft.|Fire giant, treant|
+|Gargantuan|20 by 20 ft. or larger|Kraken, purple worm|
 
 > ## Modifying Creatures
 
@@ -113,48 +81,16 @@ A monster’s hit points are presented both as a die expression and as an averag
 
 A monster’s size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-<table>
-  <caption>Hit Dice by Size</caption>
-  <thead>
-    <tr>
-      <th>Monster Size</th>
-      <th>Hit Die</th>
-      <th>Average HP per Die</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tiny</td>
-      <td>d4</td>
-      <td>2&frac12;</td>
-    </tr>
-    <tr>
-      <td>Small</td>
-      <td>d6</td>
-      <td>3&frac12;</td>
-    </tr>
-    <tr>
-      <td>Medium</td>
-      <td>d8</td>
-      <td>4&frac12;</td>
-    </tr>
-    <tr>
-      <td>Large</td>
-      <td>d10</td>
-      <td>5&frac12;</td>
-    </tr>
-    <tr>
-      <td>Huge</td>
-      <td>d12</td>
-      <td>6&frac12;</td>
-    </tr>
-    <tr>
-      <td>Gargantuan</td>
-      <td>d20</td>
-      <td>10&frac12;</td>
-    </tr>
-  </tbody>
-</table>
+#### Hit Dice by Size
+
+|Monster Size|Hit Die|Average HP per Die|
+|--- |--- |--- |
+|Tiny|d4|2½|
+|Small|d6|3½|
+|Medium|d8|4½|
+|Large|d10|5½|
+|Huge|d12|6½|
+|Gargantuan|d20|10½|
 
 A monster’s Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 hit points (average 11).
 
@@ -192,153 +128,44 @@ The Saving Throws entry is reserved for creatures that are adept at resisting ce
 
 A saving throw bonus is the sum of a monster’s relevant ability modifier and its proficiency bonus, which is determined by the monster’s challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-<table>
-  <caption>Proficiency Bonus by Challenge Rating</caption>
-  <thead>
-    <tr>
-      <th>Challenge</th>
-      <th>Proficiency Bonus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>&frac18;</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>&frac14;</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>&frac12;</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>+5</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>+5</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>+5</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>+5</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>+6</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>+6</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>+6</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>+6</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>+7</td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>+7</td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>+7</td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>+7</td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>+8</td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>+8</td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>+8</td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>+8</td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>+9</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>+9</td>
-    </tr>
-  </tbody>
-</table>
+#### Proficiency Bonus by Challenge Rating
+
+|Challenge|Proficiency Bonus|
+|--- |--- |
+|0|+2|
+|⅛|+2|
+|¼|+2|
+|½|+2|
+|1|+2|
+|2|+2|
+|3|+2|
+|4|+2|
+|5|+3|
+|6|+3|
+|7|+3|
+|8|+3|
+|9|+4|
+|10|+4|
+|11|+4|
+|12|+4|
+|13|+5|
+|14|+5|
+|15|+5|
+|16|+5|
+|17|+6|
+|18|+6|
+|19|+6|
+|20|+6|
+|21|+7|
+|22|+7|
+|23|+7|
+|24|+7|
+|25|+8|
+|26|+8|
+|27|+8|
+|28|+8|
+|29|+9|
+|30|+9|
 
 ## Skills
 
@@ -410,153 +237,43 @@ The number of experience points (XP) a monster is worth is based on its challeng
 
 Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
 
-<table>
-  <caption>Experience Points by Challenge Rating</caption>
-  <thead>
-    <tr>
-      <th>Challenge</th>
-      <th>XP</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0</td>
-      <td>0 or 10</td>
-    </tr>
-    <tr>
-      <td>&frac18;</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&frac14;</td>
-      <td>50</td>
-    </tr>
-    <tr>
-      <td>&frac12;</td>
-      <td>100</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>200</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>450</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>700</td>
-    </tr>
-    <tr>
-      <td>4</td>
-    <td>1,100</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>1,800</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>2,300</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>2,900</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>3,900</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>5,000</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>5,900</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>7,200</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>8,400</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>10,000</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>11,500</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>13,000</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>15,000</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>18,000</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>20,000</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>22,000</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>25,000</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>33,000</td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>41,000</td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>50,000</td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>62,000</td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>75,000</td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>90,000</td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>105,000</td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>120,000</td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>135,000</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>155,000</td>
-    </tr>
-  </tbody>
-</table>
+#### Experience Points by Challenge Rating
+|Challenge|XP|
+|--- |--- |
+|0|0 or 10|
+|⅛|25|
+|¼|50|
+|½|100|
+|1|200|
+|2|450|
+|3|700|
+|4|1,100|
+|5|1,800|
+|6|2,300|
+|7|2,900|
+|8|3,900|
+|9|5,000|
+|10|5,900|
+|11|7,200|
+|12|8,400|
+|13|10,000|
+|14|11,500|
+|15|13,000|
+|16|15,000|
+|17|18,000|
+|18|20,000|
+|19|22,000|
+|20|25,000|
+|21|33,000|
+|22|41,000|
+|23|50,000|
+|24|62,000|
+|25|75,000|
+|26|90,000|
+|27|105,000|
+|28|120,000|
+|29|135,000|
+|30|155,000|
 
 ## Special Traits
 
