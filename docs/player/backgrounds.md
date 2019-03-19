@@ -38,7 +38,7 @@ You have spent your life in the service of a temple to a specific god or pantheo
 
 Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.0 60
 
-Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in &quot;Fantasy-Historical Pantheons&quot; or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
+Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
 
 **Skill Proficiencies:** Insight, Religion
 
