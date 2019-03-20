@@ -1,0 +1,13 @@
+== How to Report Errors in this Document
+
+[[if-the-error-is-content-related]]
+=== If the error is content related...
+
+...then you'll want to get in touch with the Powers That Be at
+askdnd@wizards.com.
+
+[[if-the-error-is-anything-else-]]
+=== If the error is anything else ...
+
+...such as formatting, how to download, etc., then report an issue here
+on Github.
