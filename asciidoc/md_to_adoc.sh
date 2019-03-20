@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# https://gist.github.com/hugorodgerbrown/5317616
+
 FILES=*.md
 for f in $FILES
 do

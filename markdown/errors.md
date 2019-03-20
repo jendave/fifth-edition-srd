@@ -2,7 +2,7 @@
 
 ## If the error is content related...
 
-...then you'll want to get in touch with the Powers That Be at askdnd@wizards.com. 
+...then you'll want to get in touch with the Powers That Be at askdnd@wizards.com.
 
 ## If the error is anything else ...
 
