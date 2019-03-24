@@ -39,3 +39,10 @@ The HTML exported above has a lot of extra information that we'd like to remove.
 2. Execute in the `source/` directory. `pdftohtml -noframes -s -i -c -enc UTF-8 SRD-OGL_V1.1.pdf && pandoc --parse-raw -f html -t markdown_github SRD-OGL_V1.1.html -o SRD-OGL_V1.1.md`
 3. Execute in the `source/` directory. `pdftohtml -noframes -s -i -c -enc UTF-8 SRD-OGL_V5.1.pdf && pandoc --parse-raw -f html -t markdown_github SRD-OGL_V5.1.html -o SRD-OGL_V5.1.md`
 4. Split-diff using Vim and compare. `vim -d SRD-OGL_V1.1.md SRD-OGL_V5.1.md` or use the GUI.
+
+### Install Asciidoc utilities on OSX
+1. brew install asciidoctor
+2. gem install asciidoctor-pdf --pre
+
+### Convert asciidoc to PDF
+asciidoctor-pdf fighter.adoc
