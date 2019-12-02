@@ -1,0 +1,832 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monsters-m}{%
+\section{Monsters (M)}\label{monsters-m}}
+
+\hypertarget{magmin}{%
+\subsubsection{Magmin}\label{magmin}}
+
+\emph{Small elemental, chaotic neutral}
+
+\textbf{Armor Class} 14 (natural armor)
+
+\textbf{Hit Points} 9 (2d6 + 2)
+
+\textbf{Speed} 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+7 (−2) & 15 (+2) & 12 (+1) & 8 (−1) & 11 (+0) & 10 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Damage Resistances} bludgeoning, piercing, and slashing from
+nonmagical attacks
+
+\textbf{Damage Immunities} fire
+
+\textbf{Senses} darkvision 60 ft., passive Perception 10
+
+\textbf{Languages} Ignan
+
+\textbf{Challenge} ½ (100 XP)
+
+\textbf{Death Burst.} When the magmin dies, it explodes in a burst of
+fire and magma. Each creature within 10 feet of it must make a DC 11
+Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or
+half as much damage on a successful one. Flammable objects that aren't
+being worn or carried in that area are ignited.
+
+\textbf{Ignited Illumination.} As a bonus action, the magmin can set
+itself ablaze or extinguish its flames. While ablaze, the magmin sheds
+bright light in a 10-­‐foot radius and dim light for an additional 10
+feet.
+
+\hypertarget{actions}{%
+\paragraph{Actions}\label{actions}}
+
+\textbf{Touch.} \emph{Melee Weapon Attack:} +4 to hit, reach 5 ft., one
+target. \emph{Hit:} 7 (2d6) fire damage. If the target is a creature or
+a flammable object, it ignites. Until a creature takes an action to
+douse the fire, the target takes 3 (1d6) fire damage at the end of each
+of its turns.
+
+\hypertarget{manticore}{%
+\subsubsection{Manticore}\label{manticore}}
+
+\emph{Large monstrosity, lawful evil}
+
+\textbf{Armor Class} 14 (natural armor)
+
+\textbf{Hit Points} 68 (8d10 + 24)
+
+\textbf{Speed} 30 ft., fly 50 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+17 (+3) & 16 (+3) & 17 (+3) & 7 (−2) & 12 (+1) & 8 (−1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Senses} darkvision 60 ft., passive Perception 11
+
+\textbf{Languages} Common
+
+\textbf{Challenge} 3 (700 XP)
+
+\textbf{Tail Spike Regrowth.} The manticore has twenty-­‐four tail
+spikes. Used spikes regrow when the manticore finishes a long rest.
+
+\hypertarget{actions-1}{%
+\paragraph{Actions}\label{actions-1}}
+
+\textbf{Multiattack.} The manticore makes three attacks: one with its
+bite and two with its claws or three with its tail spikes.
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +5 to hit, reach 5 ft., one
+target. \emph{Hit:} 7 (1d8 + 3) piercing damage.
+
+\textbf{Claw.} \emph{Melee Weapon Attack:} +5 to hit, reach 5 ft., one
+target. \emph{Hit:} 6 (1d6 + 3) slashing damage.
+
+\textbf{Tail Spike.} \emph{Ranged Weapon Attack:} +5 to hit, range
+100/200 ft., one target. \emph{Hit:} 7 (1d8 + 3) piercing damage.
+
+\hypertarget{medusa}{%
+\subsubsection{Medusa}\label{medusa}}
+
+\emph{Medium monstrosity, lawful evil}
+
+\textbf{Armor Class} 15 (natural armor)
+
+\textbf{Hit Points} 127 (17d8 + 51)
+
+\textbf{Speed} 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+10 (+0) & 15 (+2) & 16 (+3) & 12 (+1) & 13 (+1) & 15 (+2)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Deception +5, Insight +4, Perception +4, Stealth +5
+
+\textbf{Senses} darkvision 60 ft., passive Perception 14
+
+\textbf{Languages} Common
+
+\textbf{Challenge} 6 (2,300 XP)
+
+\textbf{Petrifying Gaze.} When a creature that can see the medusa's eyes
+starts its turn within 30 feet of the medusa, the medusa can force it to
+make a DC 14 Constitution saving throw if the medusa isn't incapacitated
+and can see the creature. If the saving throw fails by 5 or more, the
+creature is instantly petrified. Otherwise, a creature that fails the
+save begins to turn to stone and is restrained. The restrained creature
+must repeat the saving throw at the end of its next turn, becoming
+petrified on a failure or ending the effect on a success. The
+petrification lasts until the creature is freed by the \emph{greater
+restoration} spell or other magic.
+
+Unless surprised, a creature can avert its eyes to avoid the saving
+throw at the start of its turn. If the creature does so, it can't see
+the medusa until the start of its next turn, when it can avert its eyes
+again. If the creature looks at the medusa in the meantime, it must
+immediately make the save.
+
+If the medusa sees itself reflected on a polished surface within 30 feet
+of it and in an area of bright light, the medusa is, due to its curse,
+affected by its own gaze.
+
+\hypertarget{actions-2}{%
+\paragraph{Actions}\label{actions-2}}
+
+\textbf{Multiattack.} The medusa makes either three melee attacks---one
+with its snake hair and two with its shortsword---or two ranged attacks
+with its longbow.
+
+\textbf{Snake Hair.} \emph{Melee Weapon Attack:} +5 to hit, reach 5 ft.,
+one creature. \emph{Hit:} 4 (1d4 + 2) piercing damage plus 14 (4d6)
+poison damage.
+
+\textbf{Shortsword.} \emph{Melee Weapon Attack:} +5 to hit, reach 5 ft.,
+one target. \emph{Hit:} 5 (1d6 + 2) piercing damage.
+
+\textbf{Longbow.} \emph{Ranged Weapon Attack:} +5 to hit, range 150/600
+ft., one target. \emph{Hit:} 6 (1d8 + 2) piercing damage plus 7 (2d6)
+poison damage.
+
+\hypertarget{mephits}{%
+\subsection{Mephits}\label{mephits}}
+
+\hypertarget{dust-mephit}{%
+\subsubsection{Dust Mephit}\label{dust-mephit}}
+
+\emph{Small elemental, neutral evil}
+
+\textbf{Armor Class} 12
+
+\textbf{Hit Points} 17 (5d6)
+
+\textbf{Speed} 30 ft., fly 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+5 (−3) & 14 (+2) & 10 (+0) & 9 (−1) & 11 (+0) & 10 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +2, Stealth +4
+
+\textbf{Damage Vulnerabilities} fire
+
+\textbf{Damage Immunities} poison
+
+\textbf{Condition Immunities} poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 12
+
+\textbf{Languages} Auran, Terran
+
+\textbf{Challenge} ½ (100 XP)
+
+\textbf{Death Burst.} When the mephit dies, it explodes in a burst of
+dust. Each creature within 5 feet of it must then succeed on a DC 10
+Constitution saving throw or be blinded for 1 minute. A blinded creature
+can repeat the saving throw on each of its turns, ending the effect on
+itself on a success.
+
+\textbf{Innate Spellcasting (1/Day).} The mephit can innately cast
+\emph{sleep}, requiring no material components. Its innate spellcasting
+ability is Charisma.
+
+\hypertarget{actions-3}{%
+\paragraph{Actions}\label{actions-3}}
+
+\textbf{Claws.} \emph{Melee Weapon Attack:} +4 to hit, reach 5 ft., one
+creature. \emph{Hit:} 4 (1d4 + 2) slashing damage.
+
+\textbf{Blinding Breath (Recharge 6).} The mephit exhales a 15-­‐ foot
+cone of blinding dust. Each creature in that area must succeed on a DC
+10 Dexterity saving throw or be blinded for 1 minute. A creature can
+repeat the saving throw at the end of each of its turns, ending the
+effect on itself on a success.
+
+\hypertarget{ice-mephit}{%
+\subsubsection{Ice Mephit}\label{ice-mephit}}
+
+\emph{Small elemental, neutral evil}
+
+\textbf{Armor Class} 11
+
+\textbf{Hit Points} 21 (6d6)
+
+\textbf{Speed} 30 ft., fly 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+7 (−2) & 13 (+1) & 10 (+0) & 9 (−1) & 11 (+0) & 12 (+1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +2, Stealth +3
+
+\textbf{Damage Vulnerabilities} bludgeoning, fire
+
+\textbf{Damage Immunities} cold, poison
+
+\textbf{Condition Immunities} poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 12
+
+\textbf{Languages} Aquan, Auran
+
+\textbf{Challenge} ½ (100 XP)
+
+\textbf{Death Burst.} When the mephit dies, it explodes in a burst of
+jagged ice. Each creature within 5 feet of it must make a DC 10
+Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save,
+or half as much damage on a successful one.
+
+\textbf{False Appearance.} While the mephit remains motionless, it is
+indistinguishable from an ordinary shard of ice.
+
+\textbf{Innate Spellcasting (1/Day).} The mephit can innately cast
+\emph{fog cloud}, requiring no material components. Its innate
+spellcasting ability is Charisma.
+
+\hypertarget{actions-4}{%
+\paragraph{Actions}\label{actions-4}}
+
+\textbf{Claws.} \emph{Melee Weapon Attack:} +3 to hit, reach 5 ft., one
+creature. \emph{Hit:} 3 (1d4 + 1) slashing damage plus 2 (1d4) cold
+damage.
+
+\textbf{Frost Breath (Recharge 6).} The mephit exhales a 15-­‐ foot cone
+of cold air. Each creature in that area must succeed on a DC 10
+Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or
+half as much damage on a successful one.
+
+\hypertarget{magma-mephit}{%
+\subsubsection{Magma Mephit}\label{magma-mephit}}
+
+\emph{Small elemental, neutral evil}
+
+\textbf{Armor Class} 11
+
+\textbf{Hit Points} 22 (5d6 + 5)
+
+\textbf{Speed} 30 ft., fly 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+8 (−1) & 12 (+1) & 12 (+1) & 7 (−2) & 10 (+0) & 10 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Stealth +3
+
+\textbf{Damage Vulnerabilities} cold
+
+\textbf{Damage Immunities} fire, poison
+
+\textbf{Condition Immunities} poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 10
+
+\textbf{Languages} Ignan, Terran
+
+\textbf{Challenge} ½ (100 XP)
+
+\textbf{Death Burst.} When the mephit dies, it explodes in a burst of
+lava. Each creature within 5 feet of it must make a DC 11 Dexterity
+saving throw, taking 7 (2d6) fire damage on a failed save, or half as
+much damage on a successful one.
+
+\textbf{False Appearance.} While the mephit remains motionless, it is
+indistinguishable from an ordinary mound of magma.
+
+\textbf{Innate Spellcasting (1/Day).} The mephit can innately cast
+\emph{heat metal} (spell save DC 10), requiring no material components.
+Its innate spellcasting ability is Charisma.
+
+\hypertarget{actions-5}{%
+\paragraph{Actions}\label{actions-5}}
+
+\textbf{Claws.} \emph{Melee Weapon Attack:} +3 to hit, reach 5 ft., one
+creature. \emph{Hit:} 3 (1d4 + 1) slashing damage plus 2 (1d4) fire
+damage.
+
+\textbf{Fire Breath (Recharge 6).} The mephit exhales a 15-­‐foot cone
+of fire. Each creature in that area must make a DC 11 Dexterity saving
+throw, taking 7 (2d6) fire damage on a failed save, or half as much
+damage on a successful one.
+
+\hypertarget{steam-mephit}{%
+\subsubsection{Steam Mephit}\label{steam-mephit}}
+
+\emph{Small elemental, neutral evil}
+
+\textbf{Armor Class} 10
+
+\textbf{Hit Points} 21 (6d6)
+
+\textbf{Speed} 30 ft., fly 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+5 (−3) & 11 (+0) & 10 (+0) & 11 (+0) & 10 (+0) & 12 (+1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Damage Immunities} fire, poison
+
+\textbf{Condition Immunities} poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 10
+
+\textbf{Languages} Aquan, Ignan
+
+\textbf{Challenge} ¼ (50 XP)
+
+\textbf{Death Burst.} When the mephit dies, it explodes in a cloud of
+steam. Each creature within 5 feet of the mephit must succeed on a DC 10
+Dexterity saving throw or take 4 (1d8) fire damage.
+
+\textbf{Innate Spellcasting (1/Day).} The mephit can innately cast
+\emph{blur}, requiring no material components. Its innate spellcasting
+ability is Charisma.
+
+\hypertarget{actions-6}{%
+\paragraph{Actions}\label{actions-6}}
+
+\textbf{Claws.} \emph{Melee Weapon Attack:} +2 to hit, reach 5 ft., one
+creature. \emph{Hit:} 2 (1d4) slashing damage plus 2 (1d4) fire damage.
+
+\textbf{Steam Breath (Recharge 6).} The mephit exhales a 15-­‐ foot cone
+of scalding steam. Each creature in that area must succeed on a DC 10
+Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or
+half as much damage on a successful one.
+
+\hypertarget{merfolk}{%
+\subsubsection{Merfolk}\label{merfolk}}
+
+\emph{Medium humanoid (merfolk), neutral}
+
+\textbf{Armor Class} 11
+
+\textbf{Hit Points} 11 (2d8 + 2)
+
+\textbf{Speed} 10 ft., swim 40 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+10 (+0) & 13 (+1) & 12 (+1) & 11 (+0) & 11 (+0) & 12 (+1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +2
+
+\textbf{Senses} passive Perception 12
+
+\textbf{Languages} Aquan, Common
+
+\textbf{Challenge} ⅛ (25 XP)
+
+\textbf{Amphibious.} The merfolk can breathe air and water.
+
+\hypertarget{actions-7}{%
+\paragraph{Actions}\label{actions-7}}
+
+\textbf{Spear.} \emph{Melee or Ranged Weapon Attack:} +2 to hit, reach 5
+ft. or range 20/60 ft., one target. \emph{Hit:} 3 (1d6) piercing damage,
+or 4 (1d8) piercing damage if used with two hands to make a melee
+attack.
+
+\hypertarget{merrow}{%
+\subsubsection{Merrow}\label{merrow}}
+
+\emph{Large monstrosity, chaotic evil}
+
+\textbf{Armor Class} 13 (natural armor)
+
+\textbf{Hit Points} 45 (6d10 + 12)
+
+\textbf{Speed} 10 ft., swim 40 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+18 (+4) & 10 (+0) & 15 (+2) & 8 (−1) & 10 (+0) & 9 (−1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Senses} darkvision 60 ft., passive Perception 10
+
+\textbf{Languages} Abyssal, Aquan
+
+\textbf{Challenge} 2 (450 XP)
+
+\textbf{Amphibious.} The merrow can breathe air and water.
+
+\hypertarget{actions-8}{%
+\paragraph{Actions}\label{actions-8}}
+
+\textbf{Multiattack.} The merrow makes two attacks: one with its bite
+and one with its claws or harpoon.
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft., one
+target. \emph{Hit:} 8 (1d8 + 4) piercing damage.
+
+\textbf{Claws.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft., one
+target. \emph{Hit:} 9 (2d4 + 4) slashing damage.
+
+\textbf{Harpoon.} \emph{Melee or Ranged Weapon Attack:} +6 to hit, reach
+5 ft. or range 20/60 ft., one target. \emph{Hit:} 11 (2d6 + piercing
+damage. If the target is a Huge or smaller creature, it must succeed on
+a Strength contest against the merrow or be pulled up to 20 feet toward
+the merrow.
+
+\hypertarget{mimic}{%
+\subsubsection{Mimic}\label{mimic}}
+
+\emph{Medium monstrosity (shapechanger), neutral}
+
+\textbf{Armor Class} 12 (natural armor)
+
+\textbf{Hit Points} 58 (9d8 + 18)
+
+\textbf{Speed} 15 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+17 (+3) & 12 (+1) & 15 (+2) & 5 (−3) & 13 (+1) & 8 (−1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Stealth +5
+
+\textbf{Damage Immunities} acid
+
+\textbf{Condition Immunities} prone
+
+\textbf{Senses} darkvision 60 ft., passive Perception 11
+
+\textbf{Languages} ---
+
+\textbf{Challenge} 2 (450 XP)
+
+\textbf{Shapechanger.} The mimic can use its action to polymorph into an
+object or back into its true, amorphous form. Its statistics are the
+same in each form. Any equipment it is wearing or carrying isn't
+transformed. It reverts to its true form if it dies.
+
+\textbf{Adhesive (Object Form Only).} The mimic adheres to anything that
+touches it. A Huge or smaller creature adhered to the mimic is also
+grappled by it (escape DC 13). Ability checks made to escape this
+grapple have disadvantage.
+
+\textbf{False Appearance (Object Form Only).} While the mimic remains
+motionless, it is indistinguishable from an ordinary object.
+
+\textbf{Grappler.} The mimic has advantage on attack rolls against any
+creature grappled by it.
+
+\hypertarget{actions-9}{%
+\paragraph{Actions}\label{actions-9}}
+
+\textbf{Pseudopod.} \emph{Melee Weapon Attack:} +5 to hit, reach 5 ft.,
+one target. \emph{Hit:} 7 (1d8 + 3) bludgeoning damage. If the mimic is
+in object form, the target is subjected to its Adhesive trait.
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +5 to hit, reach 5 ft., one
+target. \emph{Hit:} 7 (1d8 + 3) piercing damage plus 4 (1d8) acid
+damage.
+
+\hypertarget{minotaur}{%
+\subsubsection{Minotaur}\label{minotaur}}
+
+\emph{Large monstrosity, chaotic evil}
+
+\textbf{Armor Class} 14 (natural armor)
+
+\textbf{Hit Points} 76 (9d10 + 27)
+
+\textbf{Speed} 40 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+18 (+4) & 11 (+0) & 16 (+3) & 6 (−2) & 16 (+3) & 9 (−1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +7
+
+\textbf{Senses} darkvision 60 ft., passive Perception 17
+
+\textbf{Languages} Abyssal
+
+\textbf{Challenge} 3 (700 XP)
+
+\textbf{Charge} If the minotaur moves at least 10 feet straight toward a
+target and then hits it with a gore attack on the same turn, the target
+takes an extra 9 (2d8) piercing damage. If the target is a creature, it
+must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet
+away and knocked prone.
+
+\textbf{Labyrinthine Recall.} The minotaur can perfectly recall any path
+it has traveled.
+
+\textbf{Reckless.} At the start of its turn, the minotaur can gain
+advantage on all melee weapon attack rolls it makes during that turn,
+but attack rolls against it have advantage until the start of its next
+turn.
+
+\hypertarget{actions-10}{%
+\paragraph{Actions}\label{actions-10}}
+
+\textbf{Greataxe.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft.,
+one target. \emph{Hit:} 17 (2d12 + 4) slashing damage.
+
+\textbf{Gore.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft., one
+target. \emph{Hit:} 13 (2d8 + 4) piercing damage.
+
+\hypertarget{mummies}{%
+\subsection{Mummies}\label{mummies}}
+
+\hypertarget{mummy}{%
+\subsubsection{Mummy}\label{mummy}}
+
+\emph{Medium undead, lawful evil}
+
+\textbf{Armor Class} 11 (natural armor)
+
+\textbf{Hit Points} 58 (9d8 + 18)
+
+\textbf{Speed} 20 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+16 (+3) & 8 (−1) & 15 (+2) & 6 (−2) & 10 (+0) & 12 (+1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Saving Throws} Wis +2
+
+\textbf{Damage Vulnerabilities} fire
+
+\textbf{Damage Resistances} bludgeoning, piercing, and slashing from
+nonmagical attacks
+
+\textbf{Damage Immunities} necrotic, poison
+
+\textbf{Condition Immunities} charmed, exhaustion, frightened,
+paralyzed, poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 10
+
+\textbf{Languages} the languages it knew in life
+
+\textbf{Challenge} 3 (700 XP)
+
+\hypertarget{actions-11}{%
+\paragraph{Actions}\label{actions-11}}
+
+\textbf{Multiattack.} The mummy can use its Dreadful Glare and makes one
+attack with its rotting fist.
+
+\textbf{Rotting Fist.} \emph{Melee Weapon Attack:} +5 to hit, reach 5
+ft., one target. \emph{Hit:} 10 (2d6 + 3) bludgeoning damage plus 10
+(3d6) necrotic damage. If the target is a creature, it must succeed on a
+DC 12 Constitution saving throw or be cursed with mummy rot. The cursed
+target can't regain hit points, and its hit point maximum decreases by
+10 (3d6) for every 24 hours that elapse. If the curse reduces the
+target's hit point maximum to 0, the target dies, and its body turns to
+dust. The curse lasts until removed by the remove curse spell or other
+magic.
+
+\textbf{Dreadful Glare.} The mummy targets one creature it can see
+within 60 feet of it. If the target can see the mummy, it must succeed
+on a DC 11 Wisdom saving throw against this magic or become frightened
+until the end of the mummy's next turn. If the target fails the saving
+throw by 5 or more, it is also paralyzed for the same duration. A target
+that succeeds on the saving throw is immune to the Dreadful Glare of all
+mummies (but not mummy lords) for the next 24 hours.
+
+\hypertarget{mummy-lord}{%
+\subsubsection{Mummy Lord}\label{mummy-lord}}
+
+\emph{Medium undead, lawful evil}
+
+\textbf{Armor Class} 17 (natural armor)
+
+\textbf{Hit Points} 97 (13d8 + 39)
+
+\textbf{Speed} 20 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+18 (+4) & 10 (+0) & 17 (+3) & 11 (+0) & 18 (+4) & 16 (+3)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Saving Throws} Con +8, Int +5, Wis +9, Cha +8
+
+\textbf{Skills} History +5, Religion +5
+
+\textbf{Damage Vulnerabilities} fire
+
+\textbf{Damage Immunities} necrotic, poison; bludgeoning, piercing, and
+slashing from nonmagical attacks
+
+\textbf{Condition Immunities} charmed, exhaustion, frightened,
+paralyzed, poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 14
+
+\textbf{Languages} the languages it knew in life
+
+\textbf{Challenge} 15 (13,000 XP)
+
+\textbf{Magic Resistance.} The mummy lord has advantage on saving throws
+against spells and other magical effects.
+
+\textbf{Rejuvenation.} A destroyed mummy lord gains a new body in 24
+hours if its heart is intact, regaining all its hit points and becoming
+active again. The new body appears within 5 feet of the mummy lord's
+heart.
+
+\textbf{Spellcasting.} The mummy lord is a 10th-­‐level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell
+attacks). The mummy lord has the following cleric spells prepared:
+
+Cantrips (at will): \emph{sacred flame}, \emph{thaumaturgy}
+
+1st level (4 slots): \emph{command}, \emph{guiding bolt}, \emph{shield
+of faith}
+
+2nd level (3 slots): \emph{hold person}, \emph{silence}, \emph{spiritual
+weapon}
+
+3rd level (3 slots): \emph{animate dead}, \emph{dispel magic}
+
+4th level (3 slots): \emph{divination}, \emph{guardian of faith}
+
+5th level (2 slots): \emph{contagion}, \emph{insect plague}
+
+6th level (1 slot): \emph{harm}
+
+\hypertarget{actions-12}{%
+\paragraph{Actions}\label{actions-12}}
+
+\textbf{Multiattack.} The mummy can use its Dreadful Glare and makes one
+attack with its rotting fist.
+
+\textbf{Rotting Fist.} \emph{Melee Weapon Attack:} +9 to hit, reach 5
+ft., one target. \emph{Hit:} 14 (3d6 + 4) bludgeoning damage plus 21
+(6d6) necrotic damage. If the target is a creature, it must succeed on a
+DC 16 Constitution saving throw or be cursed with mummy rot. The cursed
+target can't regain hit points, and its hit point maximum decreases by
+10 (3d6) for every 24 hours that elapse. If the curse reduces the
+target's hit point maximum to 0, the target dies, and its body turns to
+dust. The curse lasts until removed by the remove curse spell or other
+magic.
+
+\textbf{Dreadful Glare.} The mummy lord targets one creature it can see
+within 60 feet of it. If the target can see the mummy lord, it must
+succeed on a DC 16 Wisdom saving throw against this magic or become
+frightened until the end of the mummy's next turn. If the target fails
+the saving throw by 5 or more, it is also paralyzed for the same
+duration. A target that succeeds on the saving throw is immune to the
+Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+
+\hypertarget{legendary-actions}{%
+\paragraph{Legendary Actions}\label{legendary-actions}}
+
+The mummy lord can take 3 legendary actions, choosing from the options
+below. Only one legendary action option can be used at a time and only
+at the end of another creature's turn. The mummy lord regains spent
+legendary actions at the start of its turn.
+
+\textbf{Attack.} The mummy lord makes one attack with its rotting fist
+or uses its \textbf{Dreadful Glare.}
+
+\textbf{Blinding Dust.} Blinding dust and sand swirls magically around
+the mummy lord. Each creature within 5 feet of the mummy lord must
+succeed on a DC 16 Constitution saving throw or be blinded until the end
+of the creature's next turn.
+
+\textbf{Blasphemous Word (Costs 2 Actions).} The mummy lord utters a
+blasphemous word. Each non-­‐undead creature within 10 feet of the mummy
+lord that can hear the magical utterance must succeed on a DC 16
+Constitution saving throw or be stunned until the end of the mummy
+lord's next turn.
+
+\textbf{Channel Negative Energy (Costs 2 Actions).} The mummy lord
+magically unleashes negative energy. Creatures within 60 feet of the
+mummy lord, including ones behind barriers and around corners, can't
+regain hit points until the end of the mummy lord's next turn.
+
+\textbf{Whirlwind of Sand (Costs 2 Actions).} The mummy lord magically
+transforms into a whirlwind of sand, moves up to 60 feet, and reverts to
+its normal form. While in whirlwind form, the mummy lord is immune to
+all damage, and it can't be grappled, petrified, knocked prone,
+restrained, or stunned. Equipment worn or carried by the mummy lord
+remain in its possession.
+
+\end{document}

@@ -1,0 +1,323 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{rogue}{%
+\section{Rogue}\label{rogue}}
+
+\hypertarget{class-features}{%
+\subsection{Class Features}\label{class-features}}
+
+As a rogue, you have the following class features.
+
+\hypertarget{hit-points}{%
+\paragraph{Hit Points}\label{hit-points}}
+
+\textbf{Hit Dice:} 1d8 per rogue level
+
+\textbf{Hit Points at 1st Level:} 8 + your Constitution modifier
+
+\textbf{Hit Points at Higher Levels:} 1d8 (or 5) + your Constitution
+modifier per rogue level after 1st
+
+\hypertarget{proficiencies}{%
+\paragraph{Proficiencies}\label{proficiencies}}
+
+\textbf{Armor:} Light armor
+
+\textbf{Weapons:} Simple weapons, hand crossbows, longswords, rapiers,
+shortswords
+
+\textbf{Tools:} Thieves' tools
+
+\textbf{Saving Throws:} Dexterity, Intelligence
+
+\textbf{Skills:} Choose four from Acrobatics, Athletics, Deception,
+Insight, Intimidation, Investigation, Perception, Performance,
+Persuasion, Sleight of Hand, and Stealth
+
+\hypertarget{equipment}{%
+\paragraph{Equipment}\label{equipment}}
+
+You start with the following equipment, in addition to the equipment
+granted by your background:
+
+\begin{itemize}
+\tightlist
+\item
+  (\emph{a}) a rapier or (\emph{b}) a shortsword
+\item
+  (\emph{a}) a shortbow and quiver of 20 arrows or (\emph{b}) a
+  shortsword
+\item
+  (\emph{a}) a burglar's pack, (\emph{b}) a dungeoneer's pack, or
+  (\emph{c}) an explorer's pack
+\item
+  (\emph{a}) Leather armor, two daggers, and thieves' tools
+\end{itemize}
+
+\hypertarget{the-rogue}{%
+\paragraph{The Rogue}\label{the-rogue}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Level & Proficiency Bonus & Sneak Attack & Features\tabularnewline
+\midrule
+\endhead
+1st & +2 & 1d6 & Expertise, Sneak Attack, Thieves' Cant\tabularnewline
+2nd & +2 & 1d6 & Cunning Action\tabularnewline
+3rd & +2 & 2d6 & Roguish Archetype\tabularnewline
+4th & +2 & 2d6 & Ability Score Improvement\tabularnewline
+5th & +3 & 3d6 & Uncanny Dodge\tabularnewline
+6th & +3 & 3d6 & Expertise\tabularnewline
+7th & +3 & 4d6 & Evasion\tabularnewline
+8th & +3 & 4d6 & Ability Score Improvement\tabularnewline
+9th & +4 & 5d6 & Roguish Archetype feature\tabularnewline
+10th & +4 & 5d6 & Ability Score Improvement\tabularnewline
+11th & +4 & 6d6 & Reliable Talent\tabularnewline
+12th & +4 & 6d6 & Ability Score Improvement\tabularnewline
+13th & +5 & 7d6 & Roguish Archetype feature\tabularnewline
+14th & +5 & 7d6 & Blindsense\tabularnewline
+15th & +5 & 8d6 & Slippery Mind\tabularnewline
+16th & +5 & 8d6 & Ability Score Improvement\tabularnewline
+17th & +6 & 9d6 & Roguish Archetype feature\tabularnewline
+18th & +6 & 9d6 & Elusive\tabularnewline
+19th & +6 & 10d6 & Ability Score Improvement\tabularnewline
+20th & +6 & 10d6 & Stroke of Luck\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{expertise}{%
+\subsubsection{Expertise}\label{expertise}}
+
+At 1st level, choose two of your skill proficiencies, or one of your
+skill proficiencies and your proficiency with thieves' tools. Your
+proficiency bonus is doubled for any ability check you make that uses
+either of the chosen proficiencies.
+
+At 6th level, you can choose two more of your proficiencies (in skills
+or with thieves' tools) to gain this benefit.
+
+\hypertarget{sneak-attack}{%
+\subsubsection{Sneak Attack}\label{sneak-attack}}
+
+Beginning at 1st level, you know how to strike subtly and exploit a
+foe's distraction. Once per turn, you can deal an extra 1d6 damage to
+one creature you hit with an attack if you have advantage on the attack
+roll. The attack must use a finesse or a ranged weapon.
+
+You don't need advantage on the attack roll if another enemy of the
+target is within 5 feet of it, that enemy isn't incapacitated, and you
+don't have disadvantage on the attack roll.
+
+The amount of the extra damage increases as you gain levels in this
+class, as shown in the Sneak Attack column of the Rogue table.
+
+\hypertarget{thieves-cant}{%
+\subsubsection{Thieves' Cant}\label{thieves-cant}}
+
+During your rogue training you learned thieves' cant, a secret mix of
+dialect, jargon, and code that allows you to hide messages in seemingly
+normal conversation. Only another creature that knows thieves' cant
+understands such messages. It takes four times longer to convey such a
+message than it does to speak the same idea plainly.
+
+In addition, you understand a set of secret signs and symbols used to
+convey short, simple messages, such as whether an area is dangerous or
+the territory of a thieves' guild, whether loot is nearby, or whether
+the people in an area are easy marks or will provide a safe house for
+thieves on the run.
+
+\hypertarget{cunning-action}{%
+\subsubsection{Cunning Action}\label{cunning-action}}
+
+Starting at 2nd level, your quick thinking and agility allow you to move
+and act quickly. You can take a bonus action on each of your turns in
+combat. This action can be used only to take the Dash, Disengage, or
+Hide action.
+
+\hypertarget{roguish-archetype}{%
+\subsubsection{Roguish Archetype}\label{roguish-archetype}}
+
+At 3rd level, you choose an archetype that you emulate in the exercise
+of your rogue abilities, such as Thief. Your archetype choice grants you
+features at 3rd level and then again at 9th, 13th, and 17th level.
+
+\hypertarget{ability-score-improvement}{%
+\subsubsection{Ability Score
+Improvement}\label{ability-score-improvement}}
+
+When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th
+level, you can increase one ability score of your choice by 2, or you
+can increase two ability scores of your choice by 1. As normal, you
+can't increase an ability score above 20 using this feature.
+
+\hypertarget{uncanny-dodge}{%
+\subsubsection{Uncanny Dodge}\label{uncanny-dodge}}
+
+Starting at 5th level, when an attacker that you can see hits you with
+an attack, you can use your reaction to halve the attack's damage
+against you.
+
+\hypertarget{evasion}{%
+\subsubsection{Evasion}\label{evasion}}
+
+Beginning at 7th level, you can nimbly dodge out of the way of certain
+area effects, such as a red dragon's fiery breath or an ice storm spell.
+When you are subjected to an effect that allows you to make a Dexterity
+saving throw to take only half damage, you instead take no damage if you
+succeed on the saving throw, and only half damage if you fail.
+
+\hypertarget{reliable-talent}{%
+\subsubsection{Reliable Talent}\label{reliable-talent}}
+
+By 11th level, you have refined your chosen skills until they approach
+perfection. Whenever you make an ability check that lets you add your
+proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+
+\hypertarget{blindsense}{%
+\subsubsection{Blindsense}\label{blindsense}}
+
+Starting at 14th level, if you are able to hear, you are aware of the
+location of any hidden or invisible creature within 10 feet of you.
+
+\hypertarget{slippery-mind}{%
+\subsubsection{Slippery Mind}\label{slippery-mind}}
+
+By 15th level, you have acquired greater mental strength. You gain
+proficiency in Wisdom saving throws.
+
+\hypertarget{elusive}{%
+\subsubsection{Elusive}\label{elusive}}
+
+Beginning at 18th level, you are so evasive that attackers rarely gain
+the upper hand against you. No attack roll has advantage against you
+while you aren't incapacitated.
+
+\hypertarget{stroke-of-luck}{%
+\subsubsection{Stroke of Luck}\label{stroke-of-luck}}
+
+At 20th level, you have an uncanny knack for succeeding when you need
+to. If your attack misses a target within range, you can turn the miss
+into a hit. Alternatively, if you fail an ability check, you can treat
+the d20 roll as a 20. Once you use this feature, you can't use it again
+until you finish a short or long rest.
+
+\hypertarget{roguish-archetypes}{%
+\subsection{Roguish Archetypes}\label{roguish-archetypes}}
+
+Rogues have many features in common, including their emphasis on
+perfecting their skills, their precise and deadly approach to combat,
+and their increasingly quick reflexes. But different rogues steer those
+talents in varying directions, embodied by the rogue archetypes. Your
+choice of archetype is a reflection of your focus---not necessarily an
+indication of your chosen profession, but a description of your
+preferred techniques.
+
+\hypertarget{thief}{%
+\subsubsection{Thief}\label{thief}}
+
+You hone your skills in the larcenous arts. Burglars, bandits,
+cutpurses, and other criminals typically follow this archetype, but so
+do rogues who prefer to think of themselves as professional treasure
+seekers, explorers, delvers, and investigators. In addition to improving
+your agility and stealth, you learn skills useful for delving into
+ancient ruins, reading unfamiliar languages, and using magic items you
+normally couldn't employ.
+
+\hypertarget{fast-hands}{%
+\paragraph{Fast Hands}\label{fast-hands}}
+
+Starting at 3rd level, you can use the bonus action granted by your
+Cunning Action to make a Dexterity (Sleight of Hand) check, use your
+thieves' tools to disarm a trap or open a lock, or take the Use an
+Object action.
+
+\hypertarget{second-story-work}{%
+\paragraph{Second-Story Work}\label{second-story-work}}
+
+When you choose this archetype at 3rd level, you gain the ability to
+climb faster than normal; climbing no longer costs you extra movement.
+
+In addition, when you make a running jump, the distance you cover
+increases by a number of feet equal to your Dexterity modifier.
+
+\hypertarget{supreme-sneak}{%
+\paragraph{Supreme Sneak}\label{supreme-sneak}}
+
+Starting at 9th level, you have advantage on a Dexterity (Stealth) check
+if you move no more than half your speed on the same turn.
+
+\hypertarget{use-magic-device}{%
+\paragraph{Use Magic Device}\label{use-magic-device}}
+
+By 13th level, you have learned enough about the workings of magic that
+you can improvise the use of items even when they are not intended for
+you. You ignore all class, race, and level requirements on the use of
+magic items.
+
+\hypertarget{thiefs-reflexes}{%
+\paragraph{Thief's Reflexes}\label{thiefs-reflexes}}
+
+When you reach 17th level, you have become adept at laying ambushes and
+quickly escaping danger. You can take two turns during the first round
+of any combat. You take your first turn at your normal initiative and
+your second turn at your initiative minus 10. You can't use this feature
+when you are surprised.
+
+\end{document}

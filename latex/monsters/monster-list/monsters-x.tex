@@ -1,0 +1,118 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monsters-x}{%
+\section{Monsters (X)}\label{monsters-x}}
+
+\hypertarget{xorn}{%
+\subsubsection{Xorn}\label{xorn}}
+
+\emph{Medium elemental, neutral}
+
+\textbf{Armor Class} 19 (natural armor)
+
+\textbf{Hit Points} 73 (7d8 + 42)
+
+\textbf{Speed} 20 ft., burrow 20 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+17 (+3) & 10 (+0) & 22 (+6) & 11 (+0) & 10 (+0) & 11 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +6, Stealth +3
+
+\textbf{Damage Resistances} piercing and slashing from nonmagical
+attacks that aren't adamantine
+
+\textbf{Senses} darkvision 60 ft., tremorsense 60 ft., passive
+Perception 16
+
+\textbf{Languages} Terran
+
+\textbf{Challenge} 5 (1,800 XP)
+
+\textbf{Earth Glide.} The xorn can burrow through nonmagical, unworked
+earth and stone. While doing so, the xorn doesn't disturb the material
+it moves through.
+
+\textbf{Stone Camouflage.} The xorn has advantage on Dexterity (Stealth)
+checks made to hide in rocky terrain.
+
+\textbf{Treasure Sense.} The xorn can pinpoint, by scent, the location
+of precious metals and stones, such as coins and gems, within 60 feet of
+it.
+
+\hypertarget{actions}{%
+\paragraph{Actions}\label{actions}}
+
+\textbf{Multiattack.} The xorn makes three claw attacks and one bite
+attack.
+
+\textbf{Claw.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft., one
+target. \emph{Hit:} 6 (1d6 + 3) slashing damage.
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft., one
+target. \emph{Hit:} 13 (3d6 + 3) piercing damage.
+
+\end{document}

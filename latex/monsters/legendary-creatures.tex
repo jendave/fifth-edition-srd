@@ -1,0 +1,98 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{legendary-creatures}{%
+\section{Legendary Creatures}\label{legendary-creatures}}
+
+A legendary creature can do things that ordinary creatures can't. It can
+take special actions outside its turn, and it might exert magical
+influence for miles around.
+
+If a creature assumes the form of a legendary creature, such as through
+a spell, it doesn't gain that form's legendary actions, lair actions, or
+regional effects.
+
+\hypertarget{legendary-actions}{%
+\subsection{Legendary Actions}\label{legendary-actions}}
+
+A legendary creature can take a certain number of special
+actions---called legendary actions---outside its turn. Only one
+legendary action option can be used at a time and only at the end of
+another creature's turn. A creature regains its spent legendary actions
+at the start of its turn. It can forgo using them, and it can't use them
+while incapacitated or otherwise unable to take actions. If surprised,
+it can't use them until after its first turn in the combat.
+
+\hypertarget{a-legendary-creatures-lair}{%
+\subsection{A Legendary Creature's
+Lair}\label{a-legendary-creatures-lair}}
+
+A legendary creature might have a section describing its lair and the
+special effects it can create while there, either by act of will or
+simply by being present. Such a section applies only to a legendary
+creature that spends a great deal of time in its lair.
+
+\hypertarget{lair-actions}{%
+\subsubsection{Lair Actions}\label{lair-actions}}
+
+If a legendary creature has lair actions, it can use them to harness the
+ambient magic in its lair. On initiative count 20 (losing all initiative
+ties), it can use one of its lair action options. It can't do so while
+incapacitated or otherwise unable to take actions. If surprised, it
+can't use one until after its first turn in the combat.
+
+\hypertarget{regional-effects}{%
+\subsubsection{Regional Effects}\label{regional-effects}}
+
+The mere presence of a legendary creature can have strange and wondrous
+effects on its environment, as noted in this section. Regional effects
+end abruptly or dissipate over time when the legendary creature dies.
+
+\end{document}

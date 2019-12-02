@@ -1,0 +1,414 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monsters-c}{%
+\section{Monsters (C)}\label{monsters-c}}
+
+\hypertarget{centaur}{%
+\subsubsection{Centaur}\label{centaur}}
+
+\emph{Large monstrosity, neutral good}
+
+\textbf{Armor Class} 12
+
+\textbf{Hit Points} 45 (6d10 + 12)
+
+\textbf{Speed} 50 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+18 (+4) & 14 (+2) & 14 (+2) & 9 (−1) & 13 (+1) & 11 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Athletics +6, Perception +3, Survival +3
+
+\textbf{Senses} passive Perception 13
+
+\textbf{Languages} Elvish, Sylvan
+
+\textbf{Challenge} 2 (450 XP)
+
+\textbf{Charge} If the centaur moves at least 30 feet straight toward a
+target and then hits it with a pike attack on the same turn, the target
+takes an extra 10 (3d6) piercing damage.
+
+\hypertarget{actions}{%
+\paragraph{Actions}\label{actions}}
+
+\textbf{Multiattack.} The centaur makes two attacks: one with its pike
+and one with its hooves or two with its longbow.
+
+\textbf{Pike.} \emph{Melee Weapon Attack:} +6 to hit, reach 10 ft., one
+target. \emph{Hit:} 9 (1d10 + 4) piercing damage.
+
+\textbf{Hooves.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft., one
+target. \emph{Hit:} 11 (2d6 + 4) bludgeoning damage.
+
+\textbf{Longbow.} \emph{Ranged Weapon Attack:} +4 to hit, range 150/600
+ft., one target. \emph{Hit:} 6 (1d8 + 2) piercing damage.
+
+\hypertarget{chimera}{%
+\subsubsection{Chimera}\label{chimera}}
+
+\emph{Large monstrosity, chaotic evil}
+
+\textbf{Armor Class} 14 (natural armor)
+
+\textbf{Hit Points} 114 (12d10 + 48)
+
+\textbf{Speed} 30 ft., fly 60 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+19 (+4) & 11 (+0) & 19 (+4) & 3 (−4) & 14 (+2) & 10 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +8
+
+\textbf{Senses} darkvision 60 ft., passive Perception 18
+
+\textbf{Languages} understands Draconic but can't speak
+
+\textbf{Challenge} 6 (2,300 XP)
+
+\hypertarget{actions-1}{%
+\paragraph{Actions}\label{actions-1}}
+
+\textbf{Multiattack.} The chimera makes three attacks: one with its
+bite, one with its horns, and one with its claws. When its fire breath
+is available, it can use the breath in place of its bite or horns.
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +7 to hit, reach 5 ft., one
+target. \emph{Hit:} 11 (2d6 + 4) piercing damage.
+
+\textbf{Horns.} \emph{Melee Weapon Attack:} +7 to hit, reach 5 ft., one
+target. \emph{Hit:} 10 (1d12 + 4) bludgeoning damage.
+
+\textbf{Claws.} \emph{Melee Weapon Attack:} +7 to hit, reach 5 ft., one
+target. \emph{Hit:} 11 (2d6 + 4) slashing damage.
+
+\textbf{Fire Breath (Recharge 5--6).} The dragon head exhales fire in a
+15-­‐foot cone. Each creature in that area must make a DC 15 Dexterity
+saving throw, taking 31 (7d8) fire damage on a failed save, or half as
+much damage on a successful one.
+
+\hypertarget{chuul}{%
+\subsubsection{Chuul}\label{chuul}}
+
+\emph{Large aberration, chaotic evil}
+
+\textbf{Armor Class} 16 (natural armor)
+
+\textbf{Hit Points} 93 (11d10 + 33)
+
+\textbf{Speed} 30 ft., swim 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+19 (+4) & 10 (+0) & 16 (+3) & 5 (−3) & 11 (+0) & 5 (−3)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +4
+
+\textbf{Damage Immunities} poison
+
+\textbf{Condition Immunities} poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 14
+
+\textbf{Languages} understands Deep Speech but can't speak
+
+\textbf{Challenge} 4 (1,100 XP)
+
+\textbf{Amphibious.} The chuul can breathe air and water.
+
+\textbf{Sense Magic.} The chuul sense magic within 120 feet of it at
+will. This trait otherwise works like the \emph{detect magic} spell but
+isn't itself magical.
+
+\hypertarget{actions-2}{%
+\paragraph{Actions}\label{actions-2}}
+
+\textbf{Multiattack.} The chuul makes two pincer attacks. If the chuul
+is grappling a creature, the chuul can also use its tentacles once.
+
+\textbf{Pincer.} \emph{Melee Weapon Attack:} +6 to hit, reach 10 ft.,
+one target. \emph{Hit:} 11 (2d6 + 4) bludgeoning damage. The target is
+grappled (escape DC 14) if it is a Large or smaller creature and the
+chuul doesn't have two other creatures grappled.
+
+\textbf{Tentacles.} One creature grappled by the chuul must succeed on a
+DC 13 Constitution saving throw or be poisoned for 1 minute. Until this
+poison ends, the target is paralyzed. The target can repeat the saving
+throw at the end of each of its turns, ending the effect on itself on a
+success.
+
+\hypertarget{cloaker}{%
+\subsubsection{Cloaker}\label{cloaker}}
+
+\emph{Large aberration, chaotic neutral}
+
+\textbf{Armor Class} 14 (natural armor)
+
+\textbf{Hit Points} 78 (12d10 + 12)
+
+\textbf{Speed} 10 ft., fly 40 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+17 (+3) & 15 (+2) & 12 (+1) & 13 (+1) & 12 (+1) & 14 (+2)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Stealth +5
+
+\textbf{Senses} darkvision 60 ft., passive Perception 11
+
+\textbf{Languages} Deep Speech, Undercommon
+
+\textbf{Challenge} 8 (3,900 XP)
+
+\textbf{Damage Transfer.} While attached to a creature, the cloaker
+takes only half the damage dealt to it (rounded down), and that creature
+takes the other half.
+
+\textbf{False Appearance.} While the cloaker remains motionless without
+its underside exposed, it is indistinguishable from a dark leather
+cloak.
+
+\textbf{Light Sensitivity.} While in bright light, the cloaker has
+disadvantage on attack rolls and Wisdom (Perception) checks that rely on
+sight.
+
+\hypertarget{actions-3}{%
+\paragraph{Actions}\label{actions-3}}
+
+\textbf{Multiattack.} The cloaker makes two attacks: one with its bite
+and one with its tail.
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft., one
+creature. \emph{Hit:} 10 (2d6 + 3) piercing damage, and if the target is
+Large or smaller, the cloaker attaches to it. If the cloaker has
+advantage against the target, the cloaker attaches to the target's head,
+and the target is blinded and unable to breathe while the cloaker is
+attached. While attached, the cloaker can make this attack only against
+the target and has advantage on the attack roll. The cloaker can detach
+itself by spending 5 feet of its movement. A creature, including the
+target, can take its action to detach the cloaker by succeeding on a DC
+16 Strength check.
+
+\textbf{Tail.} \emph{Melee Weapon Attack:} +6 to hit, reach 10 ft., one
+creature. \emph{Hit:} 7 (1d8 + 3) slashing damage.
+
+\textbf{Moan.} Each creature within 60 feet of the cloaker that can hear
+its moan and that isn't an aberration must succeed on a DC 13 Wisdom
+saving throw or become frightened until the end of the cloaker's next
+turn. If a creature's saving throw is successful, the creature is immune
+to the cloaker's moan for the next 24 hours
+
+\textbf{Phantasms (Recharges after a Short or Long Rest).} The cloaker
+magically creates three illusory duplicates of itself if it isn't in
+bright light. The duplicates move with it and mimic its actions,
+shifting position so as to make it impossible to track which cloaker is
+the real one. If the cloaker is ever in an area of bright light, the
+duplicates disappear.
+
+Whenever any creature targets the cloaker with an attack or a harmful
+spell while a duplicate remains, that creature rolls randomly to
+determine whether it targets the cloaker or one of the duplicates. A
+creature is unaffected by this magical effect if it can't see or if it
+relies on senses other than sight.
+
+A duplicate has the cloaker's AC and uses its saving throws. If an
+attack hits a duplicate, or if a duplicate fails a saving throw against
+an effect that deals damage, the duplicate disappears.
+
+\hypertarget{cockatrice}{%
+\subsubsection{Cockatrice}\label{cockatrice}}
+
+\emph{Small monstrosity, unaligned}
+
+\textbf{Armor Class} 11
+
+\textbf{Hit Points} 27 (6d6 + 6)
+
+\textbf{Speed} 20 ft., fly 40 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+6 (−2) & 12 (+1) & 12 (+1) & 2 (−4) & 13 (+1) & 5 (−3)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Senses} darkvision 60 ft., passive Perception 11
+
+\textbf{Languages} ---
+
+\textbf{Challenge} ½ (100 XP)
+
+\hypertarget{actions-4}{%
+\paragraph{Actions}\label{actions-4}}
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +3 to hit, reach 5 ft., one
+creature. \emph{Hit:} 3 (1d4 + 1) piercing damage, and the target must
+succeed on a DC 11 Constitution saving throw against being magically
+petrified. On a failed save, the creature begins to turn to stone and is
+restrained. It must repeat the saving throw at the end of its next turn.
+On a success, the effect ends. On a failure, the creature is petrified
+for 24 hours.
+
+\hypertarget{couatl}{%
+\subsubsection{Couatl}\label{couatl}}
+
+\emph{Medium celestial, lawful good}
+
+\textbf{Armor Class} 19 (natural armor)
+
+\textbf{Hit Points} 97 (13d8 + 39)
+
+\textbf{Speed} 30 ft., fly 90 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+16 (+3) & 20 (+5) & 17 (+3) & 18 (+4) & 20 (+5) & 18 (+4)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Saving Throws} Con +5, Wis +7, Cha +6
+
+\textbf{Damage Resistances} radiant
+
+\textbf{Damage Immunities} psychic; bludgeoning, piercing, and slashing
+from nonmagical attacks
+
+\textbf{Senses} truesight 120 ft., passive Perception 15
+
+\textbf{Languages} all, telepathy 120 ft.
+
+\textbf{Challenge} 4 (1,100 XP)
+
+\textbf{Innate Spellcasting} The couatl's spellcasting ability is
+Charisma (spell save DC 14). It can innately cast the following spells,
+requiring only verbal components:
+
+At will: \emph{detect evil and good}, \emph{detect magic}, \emph{detect
+thoughts}
+
+3/day each: \emph{bless}, \emph{create food and water}, \emph{cure
+wounds}, \emph{lesser restoration}, \emph{protection from posion},
+\emph{sanctuary}, \emph{shield}
+
+1/day each: \emph{dream}, \emph{greater restoration}, \emph{scrying}
+
+\textbf{Magic Weapons.} The couatl's weapon attacks are magical.
+
+\textbf{Shielded Mind.} The couatl is immune to scrying and to any
+effect that would sense its emotions, read its thoughts, or detect its
+location.
+
+\hypertarget{actions-5}{%
+\paragraph{Actions}\label{actions-5}}
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +8 to hit, reach 5 ft., one
+creature. \emph{Hit:} 8 (1d6 + 5) piercing damage, and the target must
+succeed on a DC 13 Constitution saving throw or be poisoned for 24
+hours. Until this poison ends, the target is unconscious. Another
+creature can use an action to shake the target awake.
+
+\textbf{Constrict.} \emph{Melee Weapon Attack:} +6 to hit, reach 10 ft.,
+one Medium or smaller creature. \emph{Hit:} 10 (2d6 + 3) bludgeoning
+damage, and the target is grappled (escape DC 15). Until this grapple
+ends, the target is restrained, and the couatl can't constrict another
+target.
+
+\textbf{Change Shape.} The couatl magically polymorphs into a humanoid
+or beast that has a challenge rating equal to or less than its own, or
+back into its true form. It reverts to its true form if it dies. Any
+equipment it is wearing or carrying is absorbed or borne by the new form
+(the couatl's choice).
+
+In a new form, the couatl retains its game statistics and ability to
+speak, but its AC, movement modes, Strength, Dexterity, and other
+\#\#\#\# Actions are replaced by those of the new form, and it gains any
+statistics and capabilities (except class features, legendary actions,
+and lair actions) that the new form has but that it lacks. If the new
+form has a bite attack, the couatl can use its bite in that form.
+
+\end{document}

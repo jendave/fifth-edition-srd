@@ -1,0 +1,423 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{cleric}{%
+\section{Cleric}\label{cleric}}
+
+\hypertarget{class-features}{%
+\subsection{Class Features}\label{class-features}}
+
+As a cleric, you gain the following class features.
+
+\hypertarget{hit-points}{%
+\paragraph{Hit Points}\label{hit-points}}
+
+\textbf{Hit Dice:} 1d8 per cleric level
+
+\textbf{Hit Points at 1st Level:} 8 + your Constitution modifier
+
+\textbf{Hit Points at Higher Levels:} 1d8 (or 5) + your Constitution
+modifier per cleric level after 1st
+
+\hypertarget{proficiencies}{%
+\paragraph{Proficiencies}\label{proficiencies}}
+
+\textbf{Armor:} Light armor, medium armor, shields
+
+\textbf{Weapons:} Simple weapons
+
+\textbf{Tools:} None
+
+\textbf{Saving Throws:} Wisdom, Charisma
+
+\textbf{Skills:} Choose two from History, Insight, Medicine, Persuasion,
+and Religion
+
+\hypertarget{equipment}{%
+\paragraph{Equipment}\label{equipment}}
+
+You start with the following equipment, in addition to the equipment
+granted by your background:
+
+\begin{itemize}
+\tightlist
+\item
+  (\emph{a}) a mace or (\emph{b}) a warhammer (if proficient)
+\item
+  (\emph{a}) scale mail, (\emph{b}) leather armor, or (\emph{c}) chain
+  mail (if proficient)
+\item
+  (\emph{a}) a light crossbow and 20 bolts or (\emph{b}) any simple
+  weapon
+\item
+  (\emph{a}) a priest's pack or (\emph{b}) an explorer's pack
+\item
+  A shield and a holy symbol
+\end{itemize}
+
+\hypertarget{the-cleric}{%
+\paragraph{The Cleric}\label{the-cleric}}
+
+\begin{longtable}[]{@{}lllllllllllll@{}}
+\toprule
+Level & Proficiency Bonus & Features & Cantrips Known & 1st & 2nd & 3rd
+& 4th & 5th & 6th & 7th & 8th & 9th\tabularnewline
+\midrule
+\endhead
+1st & +2 & Spellcasting, Divine Domain & 3 & 2 & --- & --- & --- & --- &
+--- & --- & --- & ---\tabularnewline
+2nd & +2 & Channel Divinity (1/rest), Divine Domain feature & 3 & 3 &
+--- & --- & --- & --- & --- & --- & --- & ---\tabularnewline
+3rd & +2 & --- & 3 & 4 & 2 & --- & --- & --- & --- & --- & --- &
+---\tabularnewline
+4th & +2 & Ability Score Improvement & 4 & 4 & 3 & --- & --- & --- & ---
+& --- & --- & ---\tabularnewline
+5th & +3 & Destroy Undead (CR 1/2) & 4 & 4 & 3 & 2 & --- & --- & --- &
+--- & --- & ---\tabularnewline
+6th & +3 & Channel Divinity (2/rest), Divine Domain feature & 4 & 4 & 3
+& 3 & --- & --- & --- & --- & --- & ---\tabularnewline
+7th & +3 & --- & 4 & 4 & 3 & 3 & 1 & --- & --- & --- & --- &
+---\tabularnewline
+8th & +3 & Ability Score Improvement, Destroy Undead (CR 1), Divine
+Domain feature & 4 & 4 & 3 & 3 & 2 & --- & --- & --- & --- &
+---\tabularnewline
+9th & +4 & --- & 4 & 4 & 3 & 3 & 3 & 1 & --- & --- & --- &
+---\tabularnewline
+10th & +1 & Divine Intervention & 5 & 4 & 3 & 3 & 3 & 2 & --- & --- &
+--- & ---\tabularnewline
+11th & +4 & Destroy Undead (CR 2) & 5 & 4 & 3 & 3 & 3 & 2 & 1 & --- &
+--- & ---\tabularnewline
+12th & +4 & Ability Score Improvement & 5 & 4 & 3 & 3 & 3 & 2 & 1 & ---
+& --- & ---\tabularnewline
+13th & +5 & --- & 5 & 4 & 3 & 3 & 3 & 2 & 1 & 1 & --- &
+---\tabularnewline
+14th & +5 & Destroy Undead (CR 3) & 5 & 4 & 3 & 3 & 3 & 2 & 1 & 1 & ---
+& ---\tabularnewline
+15th & +5 & --- & 5 & 4 & 3 & 3 & 3 & 2 & 1 & 1 & 1 & ---\tabularnewline
+16th & +5 & Ability Score Improvement & 5 & 4 & 3 & 3 & 3 & 2 & 1 & 1 &
+1 & ---\tabularnewline
+17th & +6 & Destroy Undead (CR 4), Divine Domain feature & 5 & 4 & 3 & 3
+& 3 & 2 & 1 & 1 & 1 & 1\tabularnewline
+18th & +6 & Channel Divinity (3/rest) & 5 & 4 & 3 & 3 & 3 & 3 & 1 & 1 &
+1 & 1\tabularnewline
+19th & +6 & Ability Score Improvement & 5 & 4 & 3 & 3 & 3 & 3 & 2 & 1 &
+1 & 1\tabularnewline
+20th & +6 & Divine Intervention improvement & 5 & 4 & 3 & 3 & 3 & 3 & 2
+& 2 & 1 & 1\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{spellcasting}{%
+\subsubsection{Spellcasting}\label{spellcasting}}
+
+As a conduit for divine power, you can cast cleric spells.
+
+\hypertarget{cantrips}{%
+\paragraph{Cantrips}\label{cantrips}}
+
+At 1st level, you know three cantrips of your choice from the cleric
+spell list. You learn additional cleric cantrips of your choice at
+higher levels, as shown in the Cantrips Known column of the Cleric
+table.
+
+\hypertarget{preparing-and-casting-spells}{%
+\paragraph{Preparing and Casting
+Spells}\label{preparing-and-casting-spells}}
+
+The Cleric table shows how many spell slots you have to cast your spells
+of 1st level and higher. To cast one of these spells, you must expend a
+slot of the spell's level or higher. You regain all expended spell slots
+when you finish a long rest.
+
+You prepare the list of cleric spells that are available for you to
+cast, choosing from the cleric spell list. When you do so, choose a
+number of cleric spells equal to your Wisdom modifier + your cleric
+level (minimum of one spell). The spells must be of a level for which
+you have spell slots.
+
+For example, if you are a 3rd level cleric, you have four 1st level and
+two 2nd level spell slots. With a Wisdom of 16, your list of prepared
+spells can include six spells of 1st or 2nd level, in any combination.
+If you prepare the 1st level spell \emph{cure wounds}, you can cast it
+using a 1st level or 2nd level slot. Casting the spell doesn't remove it
+from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest.
+Preparing a new list of cleric spells requires time spent in prayer and
+meditation: at least 1 minute per spell level for each spell on your
+list.
+
+\hypertarget{spellcasting-ability}{%
+\paragraph{Spellcasting Ability}\label{spellcasting-ability}}
+
+Wisdom is your spellcasting ability for your cleric spells. The power of
+your spells comes from your devotion to your deity. You use your Wisdom
+whenever a cleric spell refers to your spellcasting ability. In
+addition, you use your Wisdom modifier when setting the saving throw DC
+for a cleric spell you cast and when making an attack roll with one.
+
+\textbf{Spell save DC} = 8 + your proficiency bonus + your Wisdom
+modifier \textbf{Spell attack modifier} = your proficiency bonus + your
+Wisdom modifier
+
+\hypertarget{ritual-casting}{%
+\paragraph{Ritual Casting}\label{ritual-casting}}
+
+You can cast a cleric spell as a ritual if that spell has the ritual tag
+and you have the spell prepared.
+
+\hypertarget{spellcasting-focus}{%
+\paragraph{Spellcasting Focus}\label{spellcasting-focus}}
+
+You can use a holy symbol (see ``Equipment'') as a spellcasting focus
+for your cleric spells.
+
+\hypertarget{divine-domain}{%
+\subsubsection{Divine Domain}\label{divine-domain}}
+
+Choose one domain related to your deity, such as Life. Each domain is
+detailed at the end of the class description, and each one provides
+examples of gods associated with it. Your choice grants you domain
+spells and other features when you choose it at 1st level. It also
+grants you additional ways to use Channel Divinity when you gain that
+feature at 2nd level, and additional benefits at 6th, 8th, and 17th
+levels.
+
+\hypertarget{domain-spells}{%
+\paragraph{Domain Spells}\label{domain-spells}}
+
+Each domain has a list of spells---its domain spells---that you gain at
+the cleric levels noted in the domain description. Once you gain a
+domain spell, you always have it prepared, and it doesn't count against
+the number of spells you can prepare each day.
+
+If you have a domain spell that doesn't appear on the cleric spell list,
+the spell is nonetheless a cleric spell for you.
+
+\hypertarget{channel-divinity}{%
+\subsubsection{Channel Divinity}\label{channel-divinity}}
+
+At 2nd level, you gain the ability to channel divine energy directly
+from your deity, using that energy to fuel magical effects. You start
+with two such effects: Turn Undead and an effect determined by your
+domain. Some domains grant you additional effects as you advance in
+levels, as noted in the domain description.
+
+When you use your Channel Divinity, you choose which effect to create.
+You must then finish a short or long rest to use your Channel Divinity
+again.
+
+Some Channel Divinity effects require saving throws. When you use such
+an effect from this class, the DC equals your cleric spell save DC.
+
+Beginning at 6th level, you can use your Channel Divinity twice between
+rests, and beginning at 18th level, you can use it three times between
+rests. When you finish a short or long rest, you regain your expended
+uses.
+
+\hypertarget{channel-divinity-turn-undead}{%
+\paragraph{Channel Divinity: Turn
+Undead}\label{channel-divinity-turn-undead}}
+
+As an action, you present your holy symbol and speak a prayer censuring
+the undead. Each undead that can see or hear you within 30 feet of you
+must make a Wisdom saving throw. If the creature fails its saving throw,
+it is turned for 1 minute or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from
+you as it can, and it can't willingly move to a space within 30 feet of
+you. It also can't take reactions. For its action, it can use only the
+Dash action or try to escape from an effect that prevents it from
+moving. If there's nowhere to move, the creature can use the Dodge
+action.
+
+\hypertarget{ability-score-improvement}{%
+\subsubsection{Ability Score
+Improvement}\label{ability-score-improvement}}
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level,
+you can increase one ability score of your choice by 2, or you can
+increase two ability scores of your choice by 1. As normal, you can't
+increase an ability score above 20 using this feature.
+
+\hypertarget{destroy-undead}{%
+\subsubsection{Destroy Undead}\label{destroy-undead}}
+
+Starting at 5th level, when an undead fails its saving throw against
+your Turn Undead feature, the creature is instantly destroyed if its
+challenge rating is at or below a certain threshold, as shown in the
+Destroy Undead table.
+
+\hypertarget{destroy-undead-1}{%
+\paragraph{Destroy Undead}\label{destroy-undead-1}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Cleric Level & Destroys Undead of CR \ldots{}\tabularnewline
+\midrule
+\endhead
+5th & ½ or lower\tabularnewline
+8th & 1 or lower\tabularnewline
+11th & 2 or lower\tabularnewline
+14th & 3 or lower\tabularnewline
+17th & 4 or lower\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{divine-intervention}{%
+\subsubsection{Divine Intervention}\label{divine-intervention}}
+
+Beginning at 10th level, you can call on your deity to intervene on your
+behalf when your need is great.
+
+Imploring your deity's aid requires you to use your action. Describe the
+assistance you seek, and roll percentile dice. If you roll a number
+equal to or lower than your cleric level, your deity intervenes. The GM
+chooses the nature of the intervention; the effect of any cleric spell
+or cleric domain spell would be appropriate.
+
+If your deity intervenes, you can't use this feature again for 7 days.
+Otherwise, you can use it again after you finish a long rest.
+
+At 20th level, your call for intervention succeeds automatically, no
+roll required.
+
+\hypertarget{life-domain}{%
+\subsubsection{Life Domain}\label{life-domain}}
+
+The Life domain focuses on the vibrant positive energy---one of the
+fundamental forces of the universe---that sustains all life. The gods of
+life promote vitality and health through healing the sick and wounded,
+caring for those in need, and driving away the forces of death and
+undeath. Almost any non evil deity can claim influence over this domain,
+particularly agricultural deities (such as Chauntea, Arawai, and
+Demeter), sun gods (such as Lathander, Pelor, and Re Horakhty), gods of
+healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht),
+and gods of home and community (such as Hestia, Hathor, and Boldrei).
+
+\hypertarget{life-domain-spells}{%
+\paragraph{Life Domain Spells}\label{life-domain-spells}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Cleric Level & Spells\tabularnewline
+\midrule
+\endhead
+1st & \emph{bless, cure wounds}\tabularnewline
+3rd & \emph{lesser restoration, spiritual weapon}\tabularnewline
+5th & \emph{beacon of hope, revivify}\tabularnewline
+7th & \emph{death ward, guardian of faith}\tabularnewline
+9th & \emph{mass cure wounds, raise dead}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{bonus-proficiency}{%
+\paragraph{Bonus Proficiency}\label{bonus-proficiency}}
+
+When you choose this domain at 1st level, you gain proficiency with
+heavy armor.
+
+\hypertarget{disciple-of-life}{%
+\paragraph{Disciple of Life}\label{disciple-of-life}}
+
+Also starting at 1st level, your healing spells are more effective.
+Whenever you use a spell of 1st level or higher to restore hit points to
+a creature, the creature regains additional hit points equal to 2 + the
+spell's level.
+
+\hypertarget{channel-divinity-preserve-life}{%
+\paragraph{Channel Divinity: Preserve
+Life}\label{channel-divinity-preserve-life}}
+
+Starting at 2nd level, you can use your Channel Divinity to heal the
+badly injured.
+
+As an action, you present your holy symbol and evoke healing energy that
+can restore a number of hit points equal to five times your cleric
+level. Choose any creatures within 30 feet of you, and divide those hit
+points among them. This feature can restore a creature to no more than
+half of its hit point maximum. You can't use this feature on an undead
+or a construct.
+
+\hypertarget{blessed-healer}{%
+\paragraph{Blessed Healer}\label{blessed-healer}}
+
+Beginning at 6th level, the healing spells you cast on others heal you
+as well. When you cast a spell of 1st level or higher that restores hit
+points to a creature other than you, you regain hit points equal to 2 +
+the spell's level.
+
+\hypertarget{divine-strike}{%
+\paragraph{Divine Strike}\label{divine-strike}}
+
+At 8th level, you gain the ability to infuse your weapon strikes with
+divine energy. Once on each of your turns when you hit a creature with a
+weapon attack, you can cause the attack to deal an extra 1d8 radiant
+damage to the target. When you reach 14th level, the extra damage
+increases to 2d8.
+
+\hypertarget{supreme-healing}{%
+\paragraph{Supreme Healing}\label{supreme-healing}}
+
+Starting at 17th level, when you would normally roll one or more dice to
+restore hit points with a spell, you instead use the highest number
+possible for each die. For example, instead of restoring 2d6 hit points
+to a creature, you restore 12.
+
+\end{document}

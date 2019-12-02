@@ -1,0 +1,427 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monk}{%
+\section{Monk}\label{monk}}
+
+\hypertarget{class-features}{%
+\subsection{Class Features}\label{class-features}}
+
+As a monk, you gain the following class features.
+
+\hypertarget{hit-points}{%
+\paragraph{Hit Points}\label{hit-points}}
+
+\textbf{Hit Dice:} 1d8 per monk level
+
+\textbf{Hit Points at 1st Level:} 8 + your Constitution modifier
+
+\textbf{Hit Points at Higher Levels:} 1d8 (or 5) + your Constitution
+modifier per monk level after 1st
+
+\hypertarget{proficiencies}{%
+\paragraph{Proficiencies}\label{proficiencies}}
+
+\textbf{Armor:} None
+
+\textbf{Weapons:} Simple weapons, shortswords
+
+\textbf{Tools:} Choose one type of artisan's tools or one musical
+instrument
+
+\textbf{Saving Throws:} Strength, Dexterity
+
+\textbf{Skills:} Choose two from Acrobatics, Athletics, History,
+Insight, Religion, and Stealth
+
+\hypertarget{equipment}{%
+\paragraph{Equipment}\label{equipment}}
+
+You start with the following equipment, in addition to the equipment
+granted by your background:
+
+\begin{itemize}
+\tightlist
+\item
+  (\emph{a}) a shortsword or (\emph{b}) any simple weapon
+\item
+  (\emph{a}) a dungeoneer's pack or (\emph{b}) an explorer's pack
+\item
+  10 darts
+\end{itemize}
+
+\hypertarget{the-monk}{%
+\paragraph{The Monk}\label{the-monk}}
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+Level & Proficiency Bonus & Martial Arts & Ki Points & Unarmored
+Movement & Features\tabularnewline
+\midrule
+\endhead
+1st & +2 & 1d4 & --- & --- & Unarmored Defense, Martial
+Arts\tabularnewline
+2nd & +2 & 1d4 & 2 & +10 ft. & Ki, Unarmored Movement\tabularnewline
+3rd & +2 & 1d4 & 3 & +10 ft. & Monastic Tradition, Deflect
+Missiles\tabularnewline
+4th & +2 & 1d4 & 4 & +10 ft. & Ability Score Improvement, Slow
+Fall\tabularnewline
+5th & +3 & 1d6 & 5 & +10 ft. & Extra Attack, Stunning
+Strike\tabularnewline
+6th & +3 & 1d6 & 6 & +15 ft. & Ki-Empowered Strikes, Monastic Tradition
+feature\tabularnewline
+7th & +3 & 1d6 & 7 & +15 ft. & Evasion, Stillness of Mind\tabularnewline
+8th & +3 & 1d6 & 8 & +15 ft. & Ability Score Improvement\tabularnewline
+9th & +4 & 1d6 & 9 & +15 ft. & Unarmored Movement
+improvement\tabularnewline
+10th & +4 & 1d6 & 10 & +20 ft. & Purity of Body\tabularnewline
+11th & +4 & 1d8 & 11 & +20 ft. & Monastic Tradition
+feature\tabularnewline
+12th & +4 & 1d8 & 12 & +20 ft. & Ability Score
+Improvement\tabularnewline
+13th & +5 & 1d8 & 13 & +20 ft. & Tongue of the Sun and
+Moon\tabularnewline
+14th & +5 & 1d8 & 14 & +25 ft. & Diamond Soul\tabularnewline
+15th & +5 & 1d8 & 15 & +25 ft. & Timeless Body\tabularnewline
+16th & +5 & 1d8 & 16 & +25 ft. & Ability Score
+Improvement\tabularnewline
+17th & +6 & 1d10 & 17 & +25 ft. & Monastic Tradition
+feature\tabularnewline
+18th & +6 & 1d10 & 18 & +30 ft. & Empty Body\tabularnewline
+19th & +6 & 1d10 & 19 & +30 ft. & Ability Score
+Improvement\tabularnewline
+20th & +6 & 1d10 & 20 & +30 ft. & Perfect Self\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{unarmored-defense}{%
+\subsubsection{Unarmored Defense}\label{unarmored-defense}}
+
+Beginning at 1st level, while you are wearing no armor and not wielding
+a shield, your AC equals 10 + your Dexterity modifier + your Wisdom
+modifier.
+
+\hypertarget{martial-arts}{%
+\subsubsection{Martial Arts}\label{martial-arts}}
+
+At 1st level, your practice of martial arts gives you mastery of combat
+styles that use unarmed strikes and monk weapons, which are shortswords
+and any simple melee weapons that don't have the twohanded or heavy
+property.
+
+You gain the following benefits while you are unarmed or wielding only
+monk weapons and you aren't wearing armor or wielding a shield:
+
+\begin{itemize}
+\tightlist
+\item
+  You can use Dexterity instead of Strength for the attack and damage
+  rolls of your unarmed strikes and monk weapons.
+\item
+  You can roll a d4 in place of the normal damage of your unarmed strike
+  or monk weapon. This die changes as you gain monk levels, as shown in
+  the Martial Arts column of the Monk table.
+\item
+  When you use the Attack action with an unarmed strike or a monk weapon
+  on your turn, you can make one unarmed strike as a bonus action. For
+  example, if you take the Attack action and attack with a quarterstaff,
+  you can also make an unarmed strike as a bonus action, assuming you
+  haven't already taken a bonus action this turn.
+\end{itemize}
+
+\hypertarget{ki}{%
+\subsubsection{Ki}\label{ki}}
+
+Starting at 2nd level, your training allows you to harness the mystic
+energy of ki. Your access to this energy is represented by a number of
+ki points. Your monk level determines the number of points you have, as
+shown in the Ki Points column of the Monk table. You can spend these
+points to fuel various ki features. You start knowing three such
+features: Flurry of Blows, Patient Defense, and Step of the Wind. You
+learn more ki features as you gain levels in this class.
+
+When you spend a ki point, it is unavailable until you finish a short or
+long rest, at the end of which you draw all of your expended ki back
+into yourself. You must spend at least 30 minutes of the rest meditating
+to regain your ki points.
+
+Some of your ki features require your target to make a saving throw to
+resist the feature's effects. The saving throw DC is calculated as
+follows:
+
+\textbf{Ki save DC} = 8 + your proficiency bonus + your Wisdom modifier
+
+\hypertarget{flurry-of-blows}{%
+\paragraph{Flurry of Blows}\label{flurry-of-blows}}
+
+Immediately after you take the Attack action on your turn, you can spend
+1 ki point to make two unarmed strikes as a bonus action.
+
+\hypertarget{patient-defense}{%
+\paragraph{Patient Defense}\label{patient-defense}}
+
+You can spend 1 ki point to take the Dodge action as a bonus action on
+your turn.
+
+\hypertarget{step-of-the-wind}{%
+\paragraph{Step of the Wind}\label{step-of-the-wind}}
+
+You can spend 1 ki point to take the Disengage or Dash action as a bonus
+action on your turn, and your jump distance is doubled for the turn.
+
+\hypertarget{unarmored-movement}{%
+\subsubsection{Unarmored Movement}\label{unarmored-movement}}
+
+Starting at 2nd level, your speed increases by 10 feet while you are not
+wearing armor or wielding a shield. This bonus increases when you reach
+certain monk levels, as shown in the Monk table.
+
+At 9th level, you gain the ability to move along vertical surfaces and
+across liquids on your turn without falling during the move.
+
+\hypertarget{monastic-tradition}{%
+\subsubsection{Monastic Tradition}\label{monastic-tradition}}
+
+When you reach 3rd level, you commit yourself to a monastic tradition,
+such as the Way of the Open Hand. Your tradition grants you features at
+3rd level and again at 6th, 11th, and 17th level.
+
+\hypertarget{deflect-missiles}{%
+\subsubsection{Deflect Missiles}\label{deflect-missiles}}
+
+Starting at 3rd level, you can use your reaction to deflect or catch the
+missile when you are hit by a ranged weapon attack. When you do so, the
+damage you take from the attack is reduced by 1d10 + your Dexterity
+modifier + your monk level.
+
+If you reduce the damage to 0, you can catch the missile if it is small
+enough for you to hold in one hand and you have at least one hand free.
+If you catch a missile in this way, you can spend 1 ki point to make a
+ranged attack with the weapon or piece of ammunition you just caught, as
+part of the same reaction. You make this attack with proficiency,
+regardless of your weapon proficiencies, and the missile counts as a
+monk weapon for the attack, which has a normal range of 20 feet and a
+long range of 60 feet.
+
+\hypertarget{ability-score-improvement}{%
+\subsubsection{Ability Score
+Improvement}\label{ability-score-improvement}}
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level,
+you can increase one ability score of your choice by 2, or you can
+increase two ability scores of your choice by 1. As normal, you can't
+increase an ability score above 20 using this feature.
+
+\hypertarget{slow-fall}{%
+\subsubsection{Slow Fall}\label{slow-fall}}
+
+Beginning at 4th level, you can use your reaction when you fall to
+reduce any falling damage you take by an amount equal to five times your
+monk level.
+
+\#\#\#Extra Attack
+
+Beginning at 5th level, you can attack twice, instead of once, whenever
+you take the Attack action on your turn.
+
+\hypertarget{stunning-strike}{%
+\subsubsection{Stunning Strike}\label{stunning-strike}}
+
+Starting at 5th level, you can interfere with the flow of ki in an
+opponent's body. When you hit another creature with a melee weapon
+attack, you can spend 1 ki point to attempt a stunning strike. The
+target must succeed on a Constitution saving throw or be stunned until
+the end of your next turn.
+
+\hypertarget{ki-empowered-strikes}{%
+\subsubsection{Ki-Empowered Strikes}\label{ki-empowered-strikes}}
+
+Starting at 6th level, your unarmed strikes count as magical for the
+purpose of overcoming resistance and immunity to nonmagical attacks and
+damage.
+
+\hypertarget{evasion}{%
+\subsubsection{Evasion}\label{evasion}}
+
+At 7th level, your instinctive agility lets you dodge out of the way of
+certain area effects, such as a blue dragon's lightning breath or a
+\emph{fireball} spell. When you are subjected to an effect that allows
+you to make a Dexterity saving throw to take only half damage, you
+instead take no damage if you succeed on the saving throw, and only half
+damage if you fail.
+
+\hypertarget{stillness-of-mind}{%
+\subsubsection{Stillness of Mind}\label{stillness-of-mind}}
+
+Starting at 7th level, you can use your action to end one effect on
+yourself that is causing you to be charmed or frightened.
+
+\hypertarget{purity-of-body}{%
+\subsubsection{Purity of Body}\label{purity-of-body}}
+
+At 10th level, your mastery of the ki flowing through you makes you
+immune to disease and poison.
+
+\hypertarget{tongue-of-the-sun-and-moon}{%
+\subsubsection{Tongue of the Sun and
+Moon}\label{tongue-of-the-sun-and-moon}}
+
+Starting at 13th level, you learn to touch the ki of other minds so that
+you understand all spoken languages. Moreover, any creature that can
+understand a language can understand what you say.
+
+\hypertarget{diamond-soul}{%
+\subsubsection{Diamond Soul}\label{diamond-soul}}
+
+Beginning at 14th level, your mastery of ki grants you proficiency in
+all saving throws. Additionally, whenever you make a saving throw and
+fail, you can spend 1 ki point to reroll it and take the second result.
+
+\hypertarget{timeless-body}{%
+\subsubsection{Timeless Body}\label{timeless-body}}
+
+At 15th level, your ki sustains you so that you suffer none of the
+frailty of old age, and you can't be aged magically. You can still die
+of old age, however. In addition, you no longer need food or water.
+
+\hypertarget{empty-body}{%
+\subsubsection{Empty Body}\label{empty-body}}
+
+Beginning at 18th level, you can use your action to spend 4 ki points to
+become invisible for 1 minute. During that time, you also have
+resistance to all damage but force damage. Additionally, you can spend 8
+ki points to cast the \emph{astral projection} spell, without needing
+material components. When you do so, you can't take any other creatures
+with you.
+
+\hypertarget{perfect-self}{%
+\subsubsection{Perfect Self}\label{perfect-self}}
+
+At 20th level, when you roll for initiative and have no ki points
+remaining, you regain 4 ki points.
+
+\hypertarget{monastic-traditions}{%
+\subsection{Monastic Traditions}\label{monastic-traditions}}
+
+Three traditions of monastic pursuit are common in the monasteries
+scattered across the multiverse. Most monasteries practice one tradition
+exclusively, but a few honor the three traditions and instruct each monk
+according to his or her aptitude and interest. All three traditions rely
+on the same basic techniques, diverging as the student grows more adept.
+Thus, a monk need choose a tradition only upon reaching 3rd level.
+
+\#\#\#Way of the Open Hand
+
+Monks of the Way of the Open Hand are the ultimate masters of martial
+arts combat, whether armed or unarmed. They learn techniques to push and
+trip their opponents, manipulate ki to heal damage to their bodies, and
+practice advanced meditation that can protect them from harm.
+
+\hypertarget{open-hand-technique}{%
+\paragraph{Open Hand Technique}\label{open-hand-technique}}
+
+Starting when you choose this tradition at 3rd level, you can manipulate
+your enemy's ki when you harness your own. Whenever you hit a creature
+with one of the attacks granted by your Flurry of Blows, you can impose
+one of the following effects on that target:
+
+\begin{itemize}
+\tightlist
+\item
+  It must succeed on a Dexterity saving throw or be knocked prone.
+\item
+  It must make a Strength saving throw. If it fails, you can push it up
+  to 15 feet away from you.
+\item
+  It can't take reactions until the end of your next turn.
+\end{itemize}
+
+\hypertarget{wholeness-of-body}{%
+\paragraph{Wholeness of Body}\label{wholeness-of-body}}
+
+At 6th level, you gain the ability to heal yourself. As an action, you
+can regain hit points equal to three times your monk level. You must
+finish a long rest before you can use this feature again.
+
+\hypertarget{tranquility}{%
+\paragraph{Tranquility}\label{tranquility}}
+
+Beginning at 11th level, you can enter a special meditation that
+surrounds you with an aura of peace. At the end of a long rest, you gain
+the effect of a sanctuary spell that lasts until the start of your next
+long rest (the spell can end early as normal). The saving throw DC for
+the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+
+\hypertarget{quivering-palm}{%
+\paragraph{Quivering Palm}\label{quivering-palm}}
+
+At 17th level, you gain the ability to set up lethal vibrations in
+someone's body. When you hit a creature with an unarmed strike, you can
+spend 3 ki points to start these imperceptible vibrations, which last
+for a number of days equal to your monk level. The vibrations are
+harmless unless you use your action to end them. To do so, you and the
+target must be on the same plane of existence. When you use this action,
+the creature must make a Constitution saving throw. If it fails, it is
+reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
+
+You can have only one creature under the effect of this feature at a
+time. You can choose to end the vibrations harmlessly without using an
+action.
+
+\end{document}

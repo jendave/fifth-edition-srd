@@ -1,0 +1,296 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{fighter}{%
+\section{Fighter}\label{fighter}}
+
+\hypertarget{class-features}{%
+\subsection{Class Features}\label{class-features}}
+
+As a fighter, you gain the following class features.
+
+\hypertarget{hit-points}{%
+\paragraph{Hit Points}\label{hit-points}}
+
+\textbf{Hit Dice:} 1d10 per fighter level
+
+\textbf{Hit Points at 1st Level:} 10 + your Constitution modifier
+
+\textbf{Hit Points at Higher Levels:} 1d10 (or 6) + your Constitution
+modifier per fighter level after 1st
+
+\hypertarget{proficiencies}{%
+\paragraph{Proficiencies}\label{proficiencies}}
+
+\textbf{Armor:} All armor, shields
+
+\textbf{Weapons:} Simple weapons, martial weapons
+
+\textbf{Tools:} None
+
+\textbf{Saving Throws:} Strength, Constitution
+
+\textbf{Skills:} Choose two skills from Acrobatics, Animal Handling,
+Athletics, History, Insight, Intimidation, Perception, and Survival
+
+\hypertarget{equipment}{%
+\paragraph{Equipment}\label{equipment}}
+
+You start with the following equipment, in addition to the equipment
+granted by your background:
+
+\begin{itemize}
+\tightlist
+\item
+  (\emph{a}) chain mail or (\emph{b}) leather armor, longbow, and 20
+  arrows
+\item
+  (\emph{a}) a martial weapon and a shield or (\emph{b}) two martial
+  weapons
+\item
+  (\emph{a}) a light crossbow and 20 bolts or (\emph{b}) two handaxes
+\item
+  (\emph{a}) a dungeoneer's pack or (\emph{b}) an explorer's pack
+\end{itemize}
+
+\hypertarget{the-fighter}{%
+\paragraph{The Fighter}\label{the-fighter}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Level & Proficiency Bonus & Features\tabularnewline
+\midrule
+\endhead
+1st & +2 & Fighting Style, Second Wind\tabularnewline
+2nd & +2 & Action Surge (one use)\tabularnewline
+3rd & +2 & Martial Archetype\tabularnewline
+4th & +2 & Ability Score Improvement\tabularnewline
+5th & +3 & Extra Attack\tabularnewline
+6th & +3 & Ability Score Improvement\tabularnewline
+7th & +3 & Martial Archetype feature\tabularnewline
+8th & +3 & Ability Score Improvement\tabularnewline
+9th & +4 & Indomitable (one use)\tabularnewline
+10th & +4 & Martial Archetype feature\tabularnewline
+11th & +4 & Extra Attack (2)\tabularnewline
+12th & +4 & Ability Score Improvement\tabularnewline
+13th & +5 & Indomitable (two uses)\tabularnewline
+14th & +5 & Ability Score Improvement\tabularnewline
+15th & +5 & Martial Archetype feature\tabularnewline
+16th & +5 & Ability Score Improvement\tabularnewline
+17th & +6 & Action Surge (two uses), Indomitable (three
+uses)\tabularnewline
+18th & +6 & Martial Archetype feature\tabularnewline
+19th & +6 & Ability Score Improvement\tabularnewline
+20th & +3 & Extra Attack (3)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{fighting-style}{%
+\subsubsection{Fighting Style}\label{fighting-style}}
+
+You adopt a particular style of fighting as your specialty. Choose one
+of the following options. You can't take a Fighting Style option more
+than once, even if you later get to choose again.
+
+\hypertarget{archery}{%
+\paragraph{Archery}\label{archery}}
+
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+\hypertarget{defense}{%
+\paragraph{Defense}\label{defense}}
+
+While you are wearing armor, you gain a +1 bonus to AC.
+
+\hypertarget{dueling}{%
+\paragraph{Dueling}\label{dueling}}
+
+When you are wielding a melee weapon in one hand and no other weapons,
+you gain a +2 bonus to damage rolls with that weapon.
+
+\hypertarget{great-weapon-fighting}{%
+\paragraph{Great Weapon Fighting}\label{great-weapon-fighting}}
+
+When you roll a 1 or 2 on a damage die for an attack you make with a
+melee weapon that you are wielding with two hands, you can reroll the
+die and must use the new roll, even if the new roll is a 1 or a 2. The
+weapon must have the two handed or versatile property for you to gain
+this benefit.
+
+\hypertarget{protection}{%
+\paragraph{Protection}\label{protection}}
+
+When a creature you can see attacks a target other than you that is
+within 5 feet of you, you can use your reaction to impose disadvantage
+on the attack roll. You must be wielding a shield.
+
+\hypertarget{two-weapon-fighting}{%
+\paragraph{Two-Weapon Fighting}\label{two-weapon-fighting}}
+
+When you engage in two weapon fighting, you can add your ability
+modifier to the damage of the second attack.
+
+\hypertarget{second-wind}{%
+\subsubsection{Second Wind}\label{second-wind}}
+
+You have a limited well of stamina that you can draw on to protect
+yourself from harm. On your turn, you can use a bonus action to regain
+hit points equal to 1d10 + your fighter level. Once you use this
+feature, you must finish a short or long rest before you can use it
+again.
+
+\hypertarget{action-surge}{%
+\subsubsection{Action Surge}\label{action-surge}}
+
+Starting at 2nd level, you can push yourself beyond your normal limits
+for a moment. On your turn, you can take one additional action on top of
+your regular action and a possible bonus action.
+
+Once you use this feature, you must finish a short or long rest before
+you can use it again. Starting at 17th level, you can use it twice
+before a rest, but only once on the same turn.
+
+\hypertarget{martial-archetype}{%
+\subsubsection{Martial Archetype}\label{martial-archetype}}
+
+At 3rd level, you choose an archetype that you strive to emulate in your
+combat styles and techniques, such as Champion. The archetype you choose
+grants you features at 3rd level and again at 7th, 10th, 15th, and 18th
+level.
+
+\hypertarget{ability-score-improvement}{%
+\subsubsection{Ability Score
+Improvement}\label{ability-score-improvement}}
+
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and
+19th level, you can increase one ability score of your choice by 2, or
+you can increase two ability scores of your choice by 1. As normal, you
+can't increase an ability score above 20 using this feature.
+
+\hypertarget{extra-attack}{%
+\subsubsection{Extra Attack}\label{extra-attack}}
+
+Beginning at 5th level, you can attack twice, instead of once, whenever
+you take the Attack action on your turn.
+
+The number of attacks increases to three when you reach 11th level in
+this class and to four when you reach 20th level in this class.
+
+\hypertarget{indomitable}{%
+\subsubsection{Indomitable}\label{indomitable}}
+
+Beginning at 9th level, you can reroll a saving throw that you fail. If
+you do so, you must use the new roll, and you can't use this feature
+again until you finish a long rest.
+
+You can use this feature twice between long rests starting at 13th level
+and three times between long rests starting at 17th level.
+
+\hypertarget{martial-archetypes}{%
+\subsection{Martial Archetypes}\label{martial-archetypes}}
+
+Different fighters choose different approaches to perfecting their
+fighting prowess. The martial archetype you choose to emulate reflects
+your approach.
+
+\hypertarget{champion}{%
+\subsubsection{Champion}\label{champion}}
+
+The archetypal Champion focuses on the development of raw physical power
+honed to deadly perfection. Those who model themselves on this archetype
+combine rigorous training with physical excellence to deal devastating
+blows.
+
+\hypertarget{improved-critical}{%
+\paragraph{Improved Critical}\label{improved-critical}}
+
+Beginning when you choose this archetype at 3rd level, your weapon
+attacks score a critical hit on a roll of 19 or 20.
+
+\hypertarget{remarkable-athlete}{%
+\paragraph{Remarkable Athlete}\label{remarkable-athlete}}
+
+Starting at 7th level, you can add half your proficiency bonus (round
+up) to any Strength, Dexterity, or Constitution check you make that
+doesn't already use your proficiency bonus.
+
+In addition, when you make a running long jump, the distance you can
+cover increases by a number of feet equal to your Strength modifier.
+
+\hypertarget{additional-fighting-style}{%
+\paragraph{Additional Fighting Style}\label{additional-fighting-style}}
+
+At 10th level, you can choose a second option from the Fighting Style
+class feature.
+
+\hypertarget{superior-critical}{%
+\paragraph{Superior Critical}\label{superior-critical}}
+
+Starting at 15th level, your weapon attacks score a critical hit on a
+roll of 18--20.
+
+\hypertarget{survivor}{%
+\paragraph{Survivor}\label{survivor}}
+
+At 18th level, you attain the pinnacle of resilience in battle. At the
+start of each of your turns, you regain hit points equal to 5 + your
+Constitution modifier if you have no more than half of your hit points
+left. You don't gain this benefit if you have 0 hit points
+
+\end{document}

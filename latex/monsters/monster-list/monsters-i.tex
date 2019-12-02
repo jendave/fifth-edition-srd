@@ -1,0 +1,114 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monsters-i}{%
+\section{Monsters (I)}\label{monsters-i}}
+
+\hypertarget{invisible-stalker}{%
+\subsubsection{Invisible Stalker}\label{invisible-stalker}}
+
+\emph{Medium elemental, neutral}
+
+\textbf{Armor Class} 14
+
+\textbf{Hit Points} 104 (16d8 + 32)
+
+\textbf{Speed} 50 ft., fly 50 ft. (hover)
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+16 (+3) & 19 (+4) & 14 (+2) & 10 (+0) & 15 (+2) & 11 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +8, Stealth +10
+
+\textbf{Damage Resistances} bludgeoning, piercing, and slashing from
+nonmagical attacks
+
+\textbf{Damage Immunities} poison
+
+\textbf{Condition Immunities} exhaustion, grappled, paralyzed,
+petrified, poisoned, prone, restrained, unconscious
+
+\textbf{Senses} darkvision 60 ft., passive Perception 18
+
+\textbf{Languages} Auran, understands Common but doesn't speak it
+
+\textbf{Challenge} 6 (2,300 XP)
+
+\textbf{Invisibility.} The stalker is invisible.
+
+\textbf{Faultless Tracker.} The stalker is given a quarry by its
+summoner. The stalker knows the direction and distance to its quarry as
+long as the two of them are on the same plane of existence. The stalker
+also knows the location of its summoner.
+
+\hypertarget{actions}{%
+\paragraph{Actions}\label{actions}}
+
+\textbf{Multiattack.} The stalker makes two slam attacks.
+
+\textbf{Slam.} \emph{Melee Weapon Attack:} +6 to hit, reach 5 ft., one
+target. \emph{Hit:} 10 (2d6 + 3) bludgeoning damage.
+
+\end{document}

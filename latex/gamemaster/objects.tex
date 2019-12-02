@@ -1,0 +1,157 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{objects}{%
+\section{Objects}\label{objects}}
+
+When characters need to saw through ropes, shatter a window, or smash a
+vampire's coffin, the only hard and fast rule is this: given enough time
+and the right tools, characters can destroy any destructible object. Use
+common sense when determining a character's success at damaging an
+object. Can a fighter cut through a section of a stone wall with a
+sword? No, the sword is likely to break before the wall does.
+
+For the purpose of these rules, an object is a discrete, inanimate item
+like a window, door, sword, book, table, chair, or stone, not a building
+or a vehicle that is composed of many other objects.
+
+\hypertarget{statistics-for-objects}{%
+\subsection{Statistics for Objects}\label{statistics-for-objects}}
+
+When time is a factor, you can assign an Armor Class and hit points to a
+destructible object. You can also give it immunities, resistances, and
+vulnerabilities to specific types of damage.
+
+\textbf{Armor Class.} An object's Armor Class is a measure of how
+difficult it is to deal damage to the object when striking it (because
+the object has no chance of dodging out of the way). The Object Armor
+Class table provides suggested AC values for various substances.
+
+\hypertarget{object-armor-class}{%
+\paragraph{Object Armor Class}\label{object-armor-class}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Substance & AC\tabularnewline
+\midrule
+\endhead
+Cloth, paper, rope & 11\tabularnewline
+Crystal, glass, ice & 13\tabularnewline
+Wood, bone & 15\tabularnewline
+Stone & 17\tabularnewline
+Iron, steel & 19\tabularnewline
+Mithral & 21\tabularnewline
+Adamantine & 23\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Hit Points.} An object's hit points measure how much damage it
+can take before losing its structural integrity. Resilient objects have
+more hit points than fragile ones. Large objects also tend to have more
+hit points than small ones, unless breaking a small part of the object
+is just as effective as breaking the whole thing. The Object Hit Points
+table provides suggested hit points for fragile and resilient objects
+that are Large or smaller.
+
+\hypertarget{object-hit-points}{%
+\paragraph{Object Hit Points}\label{object-hit-points}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Size & Fragile & Resilient\tabularnewline
+\midrule
+\endhead
+Tiny (bottle, lock) & 2~(1d4) & 5~(2d4)\tabularnewline
+Small (chest, lute) & 3~(1d6) & 10~(3d6)\tabularnewline
+Medium (barrel, chandelier) & 4~(1d8) & 18~(4d8)\tabularnewline
+Large (cart, 10-ft.-by--10-ft. window) & 5~(1d10) &
+27~(5d10)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Huge and Gargantuan Objects.} Normal weapons are of little use
+against many Huge and Gargantuan objects, such as a colossal statue,
+towering column of stone, or massive boulder. That said, one torch can
+burn a Huge tapestry, and an \emph{earthquake} spell can reduce a
+colossus to rubble. You can track a Huge or Gargantuan object's hit
+points if you like, or you can simply decide how long the object can
+withstand whatever weapon or force is acting against it. If you track
+hit points for the object, divide it into Large or smaller sections, and
+track each section's hit points separately. Destroying one of those
+sections could ruin the entire object. For example, a Gargantuan statue
+of a human might topple over when one of its Large legs is reduced to 0
+hit points.
+
+\textbf{Objects and Damage Types.} Objects are immune to poison and
+psychic damage. You might decide that some damage types are more
+effective against a particular object or substance than others. For
+example, bludgeoning damage works well for smashing things but not for
+cutting through rope or leather. Paper or cloth objects might be
+vulnerable to fire and lightning damage. A pick can chip away stone but
+can't effectively cut down a tree. As always, use your best judgment.
+
+\textbf{Damage Threshold.} Big objects such as castle walls often have
+extra resilience represented by a damage threshold. An object with a
+damage threshold has immunity to all damage unless it takes an amount of
+damage from a single attack or effect equal to or greater than its
+damage threshold, in which case it takes damage as normal. Any damage
+that fails to meet or exceed the object's damage threshold is considered
+superficial and doesn't reduce the object's hit points.
+
+\end{document}

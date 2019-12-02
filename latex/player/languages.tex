@@ -1,0 +1,118 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{languages}{%
+\section{Languages}\label{languages}}
+
+Your race indicates the languages your character can speak by default,
+and your background might give you access to one or more additional
+languages of your choice. Note these languages on your character sheet.
+
+Choose your languages from the Standard Languages table, or choose one
+that is common in your campaign. With your GM's permission, you can
+instead choose a language from the Exotic
+
+Languages table or a secret language, such as thieves' cant or the
+tongue of druids.
+
+Some of these languages are actually families of languages with many
+dialects. For example, the Primordial language includes the Auran,
+Aquan, Ignan, and Terran dialects, one for each of the four elemental
+planes. Creatures that speak different dialects of the same language can
+communicate with one another.
+
+\hypertarget{standard-languages}{%
+\paragraph{Standard Languages}\label{standard-languages}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Language & Typical Speakers & Script\tabularnewline
+\midrule
+\endhead
+Common & Humans & Common\tabularnewline
+Dwarvish & Dwarves & Dwarvish\tabularnewline
+Elvish & Elves & Elvish\tabularnewline
+Giant & Ogres, giants & Dwarvish\tabularnewline
+Gnomish & Gnomes & Dwarvish\tabularnewline
+Goblin & Goblinoids & Dwarvish\tabularnewline
+Halfling & Halflings & Common\tabularnewline
+Orc & Orcs & Dwarvish\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{exotic-languages}{%
+\paragraph{Exotic Languages}\label{exotic-languages}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Language & Typical Speakers & Script\tabularnewline
+\midrule
+\endhead
+Abyssal & Demons & Infernal\tabularnewline
+Celestial & Celestials & Celestial\tabularnewline
+Draconic & Dragons, dragonborn & Draconic\tabularnewline
+Deep Speech & Aboleths, cloakers & ---\tabularnewline
+Infernal & Devils & Infernal\tabularnewline
+Primordial & Elementals & Dwarvish\tabularnewline
+Sylvan & Fey creatures & Elvish\tabularnewline
+Undercommon & Underworld traders & Elvish\tabularnewline
+\bottomrule
+\end{longtable}
+
+\end{document}

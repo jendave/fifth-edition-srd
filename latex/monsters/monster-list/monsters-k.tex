@@ -1,0 +1,215 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monsters-k}{%
+\section{Monsters (K)}\label{monsters-k}}
+
+\hypertarget{kobold}{%
+\subsubsection{Kobold}\label{kobold}}
+
+\emph{Small humanoid (kobold), lawful evil}
+
+\textbf{Armor Class} 12
+
+\textbf{Hit Points} 5 (2d6 − 2)
+
+\textbf{Speed} 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+7 (−2) & 15 (+2) & 9 (−1) & 8 (-1) & 7 (-2) & 8 (−1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Senses} darkvision 60 ft., passive Perception 8
+
+\textbf{Languages} Common, Draconic
+
+\textbf{Challenge} ⅛ (25 XP)
+
+\textbf{Sunlight Sensitivity.} While in sunlight, the kobold has
+disadvantage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+
+\textbf{Pack Tactics.} The kobold has advantage on an attack roll
+against a creature if at least one of the kobold's allies is within 5
+feet of the creature and the ally isn't incapacitated.
+
+\hypertarget{actions}{%
+\paragraph{Actions}\label{actions}}
+
+\textbf{Dagger.} \emph{Melee Weapon Attack:} +4 to hit, reach 5 ft., one
+target. \emph{Hit:} 4 (1d4 + 2) piercing damage.
+
+\textbf{Sling.} \emph{Ranged Weapon Attack:} +4 to hit, range 30/120
+ft., one target. \emph{Hit:} 4 (1d4 + 2) bludgeoning damage.
+
+\hypertarget{kraken}{%
+\subsubsection{Kraken}\label{kraken}}
+
+\emph{Gargantuan monstrosity (titan), chaotic evil}
+
+\textbf{Armor Class} 18 (natural armor)
+
+\textbf{Hit Points} 472 (27d20 + 189)
+
+\textbf{Speed} 20 ft., swim 60 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+30 (+10) & 11 (+0) & 25 (+7) & 22 (+6) & 18 (+4) & 20
+(+5)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Saving Throws} Str +17, Dex +7, Con +14, Int +13, Wis +11
+
+\textbf{Damage Immunities} lightning; bludgeoning, piercing, and
+slashing from nonmagical attacks
+
+\textbf{Condition Immunities} frightened, paralyzed
+
+\textbf{Senses} truesight 120 ft., passive Perception 14
+
+\textbf{Languages} understands Abyssal, Celestial, Infernal, and
+Primordial but can't speak, telepathy 120 ft.
+
+\textbf{Challenge} 23 (50,000 XP)
+
+\textbf{Amphibious.} The kraken can breathe air and water.
+
+\textbf{Freedom of Movement.} The kraken ignores difficult terrain, and
+magical effects can't reduce its speed or cause it to be restrained. It
+can spend 5 feet of movement to escape from nonmagical restraints or
+being grappled.
+
+\textbf{Siege Monster.} The kraken deals double damage to objects and
+structures.
+
+\hypertarget{actions-1}{%
+\paragraph{Actions}\label{actions-1}}
+
+\textbf{Multiattack.} The kraken makes three tentacle attacks, each of
+which it can replace with one use of \textbf{Fling.}
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +17 to hit, reach 5 ft., one
+target. \emph{Hit:} 23 (3d8 + 10) piercing damage. If the target is a
+Large or smaller creature grappled by the kraken, that creature is
+swallowed, and the grapple ends.
+
+While swallowed, the creature is blinded and restrained, it has total
+cover against attacks and other effects outside the kraken, and it takes
+42 (12d6) acid damage at the start of each of the kraken's turns.
+
+If the kraken takes 50 damage or more on a single turn from a creature
+inside it, the kraken must succeed on a DC 25 Constitution saving throw
+at the end of that turn or regurgitate all swallowed creatures, which
+fall prone in a space within 10 feet of the kraken. If the kraken dies,
+a swallowed creature is no longer restrained by it and can escape from
+the corpse using 15 feet of movement, exiting prone.
+
+\textbf{Tentacle.} \emph{Melee Weapon Attack:} +17 to hit, reach 30 ft.,
+one target. \emph{Hit:} 20 (3d6 + 10) bludgeoning damage, and the target
+is grappled (escape DC 18). Until this grapple ends, the target is
+restrained. The kraken has ten tentacles, each of which can grapple one
+target.
+
+\textbf{Fling.} One Large or smaller object held or creature grappled by
+the kraken is thrown up to 60 feet in a random direction and knocked
+prone. If a thrown target strikes a solid surface, the target takes 3
+(1d6) bludgeoning damage for every 10 feet it was thrown. If the target
+is thrown at another creature, that creature must succeed on a DC 18
+Dexterity saving throw or take the same damage and be knocked prone.
+
+\textbf{Lightning Storm.} The kraken magically creates three bolts of
+lightning, each of which can strike a target the kraken can see within
+120 feet of it. A target must make a DC 23 Dexterity saving throw,
+taking 22 (4d10) lightning damage on a failed save, or half as much
+damage on a successful one.
+
+\hypertarget{legendary-actions}{%
+\paragraph{Legendary Actions}\label{legendary-actions}}
+
+The kraken can take 3 legendary actions, choosing from the options
+below. Only one legendary action option can be used at a time and only
+at the end of another creature's turn. The kraken regains spent
+legendary actions at the start of its turn.
+
+\textbf{Tentacle Attack or Fling.} The kraken makes one tentacle attack
+or uses its Fling.
+
+\textbf{Lightning Storm (Costs 2 Actions).} The kraken uses Lightning
+Storm.
+
+\textbf{Ink Cloud (Costs 3 Actions).} While underwater, the kraken
+expels an ink cloud in a 60-­‐foot radius. The cloud spreads around
+corners, and that area is heavily obscured to creatures other than the
+kraken. Each creature other than the kraken that ends its turn there
+must succeed on a DC 23 Constitution saving throw, taking 16 (3d10)
+poison damage on a failed save, or half as much damage on a successful
+one. A strong current disperses the cloud, which otherwise disappears at
+the end of the kraken's next turn.
+
+\end{document}

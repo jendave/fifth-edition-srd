@@ -1,0 +1,447 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{ranger}{%
+\section{Ranger}\label{ranger}}
+
+\hypertarget{class-features}{%
+\subsection{Class Features}\label{class-features}}
+
+As a ranger, you gain the following class features.
+
+\hypertarget{hit-points}{%
+\paragraph{Hit Points}\label{hit-points}}
+
+\textbf{Hit Dice:} 1d10 per ranger level
+
+\textbf{Hit Points at 1st Level:} 10 + your Constitution modifier
+
+\textbf{Hit Points at Higher Levels:} 1d10 (or 6) + your Constitution
+modifier per ranger level after 1st
+
+\hypertarget{proficiencies}{%
+\paragraph{Proficiencies}\label{proficiencies}}
+
+\textbf{Armor:} Light armor, medium armor, shields
+
+\textbf{Weapons:} Simple weapons, martial weapons
+
+\textbf{Tools:} None
+
+\textbf{Saving Throws:} Strength, Dexterity
+
+\textbf{Skills:} Choose three from Animal Handling, Athletics, Insight,
+Investigation, Nature, Perception, Stealth, and Survival
+
+\hypertarget{equipment}{%
+\paragraph{Equipment}\label{equipment}}
+
+You start with the following equipment, in addition to the equipment
+granted by your background:
+
+\begin{itemize}
+\tightlist
+\item
+  (\emph{a}) scale mail or (\emph{b}) leather armor
+\item
+  (\emph{a}) two shortswords or (\emph{b}) two simple melee weapons
+\item
+  (\emph{a}) a dungeoneer's pack or (\emph{b}) an explorer's pack
+\item
+  A longbow and a quiver of 20 arrows
+\end{itemize}
+
+\hypertarget{the-ranger}{%
+\paragraph{The Ranger}\label{the-ranger}}
+
+\begin{longtable}[]{@{}lllllllll@{}}
+\toprule
+Level & Proficiency Bonus & Features & Spells Known & 1st & 2nd & 3rd &
+4th & 5th\tabularnewline
+\midrule
+\endhead
+1st & +2 & Favored Enemy, Natural Explorer & --- & --- & --- & --- & ---
+& ---\tabularnewline
+2nd & +2 & Fighting Style, Spellcasting & 2 & 2 & --- & --- & --- &
+---\tabularnewline
+3rd & +2 & Ranger Archetype, Primeval Awareness & 3 & 3 & --- & --- &
+--- & ---\tabularnewline
+4th & +2 & Ability Score Improvement & 3 & 3 & --- & --- & --- &
+---\tabularnewline
+5th & +3 & Extra Attack & 4 & 4 & 2 & --- & --- & ---\tabularnewline
+6th & +3 & Favored Enemy and Natural Explorer improvements & 4 & 4 & 2 &
+--- & --- & ---\tabularnewline
+7th & +3 & Ranger Archetype feature & 5 & 4 & 3 & --- & --- &
+---\tabularnewline
+8th & +3 & Ability Score Improvement, Land's Stride & 5 & 4 & 3 & --- &
+--- & ---\tabularnewline
+9th & +4 & --- & 6 & 4 & 3 & 2 & --- & ---\tabularnewline
+10th & +4 & Natural Explorer improvement, Hide in Plain Sight & 6 & 4 &
+3 & 2 & --- & ---\tabularnewline
+11th & +4 & Ranger Archetype feature & 7 & 4 & 3 & 3 & --- &
+---\tabularnewline
+12th & +4 & Ability Score Improvement & 7 & 4 & 3 & 3 & --- &
+---\tabularnewline
+13th & +5 & --- & 8 & 4 & 3 & 3 & 1 & ---\tabularnewline
+14th & +5 & Favored Enemy improvement, Vanish & 8 & 4 & 3 & 3 & 1 &
+---\tabularnewline
+15th & +5 & Ranger Archetype feature & 9 & 4 & 3 & 3 & 2 &
+---\tabularnewline
+16th & +5 & Ability Score Improvement & 9 & 4 & 3 & 3 & 2 &
+---\tabularnewline
+17th & +6 & --- & 10 & 4 & 3 & 3 & 3 & 1\tabularnewline
+18th & +6 & Feral Senses & 10 & 4 & 3 & 3 & 3 & 1\tabularnewline
+19th & +6 & Ability Score Improvement & 11 & 4 & 3 & 3 & 3 &
+2\tabularnewline
+20th & +6 & Foe Slayer & 11 & 4 & 3 & 3 & 3 & 2\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{favored-enemy}{%
+\subsubsection{Favored Enemy}\label{favored-enemy}}
+
+Beginning at 1st level, you have significant experience studying,
+tracking, hunting, and even talking to a certain type of enemy.
+
+Choose a type of favored enemy: aberrations, beasts, celestials,
+constructs, dragons, elementals, fey, fiends, giants, monstrosities,
+oozes, plants, or undead. Alternatively, you can select two races of
+humanoid (such as gnolls and orcs) as favored enemies.
+
+You have advantage on Wisdom (Survival) checks to track your favored
+enemies, as well as on Intelligence checks to recall information about
+them.
+
+When you gain this feature, you also learn one language of your choice
+that is spoken by your favored enemies, if they speak one at all. You
+choose one additional favored enemy, as well as an associated language,
+at 6th and 14th level. As you gain levels, your choices should reflect
+the types of monsters you have encountered on your adventures.
+
+\hypertarget{natural-explorer}{%
+\subsubsection{Natural Explorer}\label{natural-explorer}}
+
+You are particularly familiar with one type of natural environment and
+are adept at traveling and surviving in such regions. Choose one type of
+favored terrain: arctic, coast, desert, forest, grassland, mountain, or
+swamp. When you make an Intelligence or Wisdom check related to your
+favored terrain, your proficiency bonus is doubled if you are using a
+skill that you're proficient in. While traveling for an hour or more in
+your favored terrain, you gain the following benefits:
+
+\begin{itemize}
+\tightlist
+\item
+  Difficult terrain doesn't slow your group's travel.
+\item
+  Your group can't become lost except by magical means.
+\item
+  Even when you are engaged in another activity while traveling (such as
+  foraging, navigating, or tracking), you remain alert to danger.
+\item
+  If you are traveling alone, you can move stealthily at a normal pace.
+\item
+  When you forage, you find twice as much food as you normally would.
+\item
+  While tracking other creatures, you also learn their exact number,
+  their sizes, and how long ago they passed through the area.
+\end{itemize}
+
+You choose additional favored terrain types at 6th and 10th level.
+
+\hypertarget{fighting-style}{%
+\subsubsection{Fighting Style}\label{fighting-style}}
+
+At 2nd level, you adopt a particular style of fighting as your
+specialty. Choose one of the following options. You can't take a
+Fighting Style option more than once, even if you later get to choose
+again.
+
+\hypertarget{archery}{%
+\paragraph{Archery}\label{archery}}
+
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+\hypertarget{defense}{%
+\paragraph{Defense}\label{defense}}
+
+While you are wearing armor, you gain a +1 bonus to AC.
+
+\#\#\#\#Dueling
+
+When you are wielding a melee weapon in one hand and no other weapons,
+you gain a +2 bonus to damage rolls with that weapon.
+
+\hypertarget{two-weapon-fighting}{%
+\paragraph{Two-Weapon Fighting}\label{two-weapon-fighting}}
+
+When you engage in two weapon fighting, you can add your ability
+modifier to the damage of the second attack.
+
+\hypertarget{spellcasting}{%
+\subsubsection{Spellcasting}\label{spellcasting}}
+
+By the time you reach 2nd level, you have learned to use the magical
+essence of nature to cast spells, much as a druid does.
+
+\hypertarget{spell-slots}{%
+\paragraph{Spell Slots}\label{spell-slots}}
+
+The Ranger table shows how many spell slots you have to cast your spells
+of 1st level and higher. To cast one of these spells, you must expend a
+slot of the spell's level or higher. You regain all expended spell slots
+when you finish a long rest.
+
+For example, if you know the 1st level spell \emph{animal friendship}
+and have a 1st-level and a 2nd-level spell slot available, you can cast
+\emph{animal friendship} using either slot.
+
+\hypertarget{spells-known-of-1st-level-and-higher}{%
+\paragraph{Spells Known of 1st Level and
+Higher}\label{spells-known-of-1st-level-and-higher}}
+
+You know two 1st level spells of your choice from the ranger spell list.
+
+The Spells Known column of the Ranger table shows when you learn more
+ranger spells of your choice. Each of these spells must be of a level
+for which you have spell slots. For instance, when you reach 5th level
+in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of
+the ranger spells you know and replace it with another spell from the
+ranger spell list, which also must be of a level for which you have
+spell slots.
+
+\hypertarget{spellcasting-ability}{%
+\paragraph{Spellcasting Ability}\label{spellcasting-ability}}
+
+Wisdom is your spellcasting ability for your ranger spells, since your
+magic draws on your attunement to nature. You use your Wisdom whenever a
+spell refers to your spellcasting ability. In addition, you use your
+Wisdom modifier when setting the saving throw DC for a ranger spell you
+cast and when making an attack roll with one.
+
+\textbf{Spell save DC} = 8 + your proficiency bonus + your Wisdom
+modifier
+
+\textbf{Spell attack modifier} = your proficiency bonus + your Wisdom
+modifier
+
+\hypertarget{ranger-archetype}{%
+\subsubsection{Ranger Archetype}\label{ranger-archetype}}
+
+At 3rd level, you choose an archetype that you strive to emulate, such
+as the Hunter. Your choice grants you features at 3rd level and again at
+7th, 11th, and 15th level.
+
+\hypertarget{primeval-awareness}{%
+\subsubsection{Primeval Awareness}\label{primeval-awareness}}
+
+Beginning at 3rd level, you can use your action and expend one ranger
+spell slot to focus your awareness on the region around you. For 1
+minute per level of the spell slot you expend, you can sense whether the
+following types of creatures are present within 1 mile of you (or within
+up to 6 miles if you are in your favored terrain): aberrations,
+celestials, dragons, elementals, fey, fiends, and undead. This feature
+doesn't reveal the creatures' location or number.
+
+\hypertarget{ability-score-improvement}{%
+\subsubsection{Ability Score
+Improvement}\label{ability-score-improvement}}
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level,
+you can increase one ability score of your choice by 2, or you can
+increase two ability scores of your choice by 1. As normal, you can't
+increase an ability score above 20 using this feature.
+
+\hypertarget{extra-attack}{%
+\subsubsection{Extra Attack}\label{extra-attack}}
+
+Beginning at 5th level, you can attack twice, instead of once, whenever
+you take the Attack action on your turn.
+
+\hypertarget{lands-stride}{%
+\subsubsection{Land's Stride}\label{lands-stride}}
+
+Starting at 8th level, moving through nonmagical difficult terrain costs
+you no extra movement. You can also pass through nonmagical plants
+without being slowed by them and without taking damage from them if they
+have thorns, spines, or a similar hazard. In addition, you have
+advantage on saving throws against plants that are magically created or
+manipulated to impede movement, such those created by the entangle
+spell.
+
+\hypertarget{hide-in-plain-sight}{%
+\subsubsection{Hide in Plain Sight}\label{hide-in-plain-sight}}
+
+Starting at 10th level, you can spend 1 minute creating camouflage for
+yourself. You must have access to fresh mud, dirt, plants, soot, and
+other naturally occurring materials with which to create your
+camouflage.
+
+Once you are camouflaged in this way, you can try to hide by pressing
+yourself up against a solid surface, such as a tree or wall, that is at
+least as tall and wide as you are. You gain a +10 bonus to Dexterity
+(Stealth) checks as long as you remain there without moving or taking
+actions. Once you move or take an action or a reaction, you must
+camouflage yourself again to gain this benefit.
+
+\hypertarget{vanish}{%
+\subsubsection{Vanish}\label{vanish}}
+
+Starting at 14th level, you can use the Hide action as a bonus action on
+your turn. Also, you can't be tracked by nonmagical means, unless you
+choose to leave a trail.
+
+\hypertarget{feral-senses}{%
+\subsubsection{Feral Senses}\label{feral-senses}}
+
+At 18th level, you gain preternatural senses that help you fight
+creatures you can't see. When you attack a creature you can't see, your
+inability to see it doesn't impose disadvantage on your attack rolls
+against it. You are also aware of the location of any invisible creature
+within 30 feet of you, provided that the creature isn't hidden from you
+and you aren't blinded or deafened.
+
+\hypertarget{foe-slayer}{%
+\subsubsection{Foe Slayer}\label{foe-slayer}}
+
+At 20th level, you become an unparalleled hunter of your enemies. Once
+on each of your turns, you can add your Wisdom modifier to the attack
+roll or the damage roll of an attack you make against one of your
+favored enemies. You can choose to use this feature before or after the
+roll, but before any effects of the roll are applied.
+
+\hypertarget{ranger-archetypes}{%
+\subsection{Ranger Archetypes}\label{ranger-archetypes}}
+
+A classic expression of the ranger ideal is the Hunter.
+
+\hypertarget{hunter}{%
+\subsubsection{Hunter}\label{hunter}}
+
+Emulating the Hunter archetype means accepting your place as a bulwark
+between civilization and the terrors of the wilderness. As you walk the
+Hunter's path, you learn specialized techniques for fighting the threats
+you face, from rampaging ogres and hordes of orcs to towering giants and
+terrifying dragons.
+
+\hypertarget{hunters-prey}{%
+\paragraph{Hunter's Prey}\label{hunters-prey}}
+
+At 3rd level, you gain one of the following features of your choice.
+
+\textbf{Colossus Slayer.} Your tenacity can wear down the most potent
+foes. When you hit a creature with a weapon attack, the creature takes
+an extra 1d8 damage if it's below its hit point maximum. You can deal
+this extra damage only once per turn.
+
+\textbf{Giant Killer.} When a Large or larger creature within 5 feet of
+you hits or misses you with an attack, you can use your reaction to
+attack that creature immediately after its attack, provided that you can
+see the creature.
+
+\textbf{Horde Breaker.} Once on each of your turns when you make a
+weapon attack, you can make another attack with the same weapon against
+a different creature that is within 5 feet of the original target and
+within range of your weapon.
+
+\hypertarget{defensive-tactics}{%
+\paragraph{Defensive Tactics}\label{defensive-tactics}}
+
+At 7th level, you gain one of the following features of your choice.
+
+\textbf{Escape the Horde.} Opportunity attacks against you are made with
+disadvantage. \textbf{Multiattack Defense.} When a creature hits you
+with an attack, you gain a +4 bonus to AC against all subsequent attacks
+made by that creature for the rest of the turn. \textbf{Steel Will.} You
+have advantage on saving throws against being frightened.
+
+\hypertarget{multiattack}{%
+\paragraph{Multiattack}\label{multiattack}}
+
+At 11th level, you gain one of the following features of your choice.
+\textbf{Volley.} You can use your action to make a ranged attack against
+any number of creatures within 10 feet of a point you can see within
+your weapon's range. You must have ammunition for each target, as
+normal, and you make a separate attack roll for each target.
+
+\textbf{Whirlwind Attack.} You can use your action to make a melee
+attack against any number of creatures within 5 feet of you, with a
+separate attack roll for each target.
+
+\hypertarget{superior-hunters-defense}{%
+\paragraph{Superior Hunter's Defense}\label{superior-hunters-defense}}
+
+At 15th level, you gain one of the following features of your choice.
+
+\textbf{Evasion.} When you are subjected to an effect, such as a red
+dragon's fiery breath or a lightning bolt spell, that allows you to make
+a Dexterity saving throw to take only half damage, you instead take no
+damage if you succeed on the saving throw, and only half damage if you
+fail.
+
+\textbf{Stand Against the Tide.} When a hostile creature misses you with
+a melee attack, you can use your reaction to force that creature to
+repeat the same attack against another creature (other than itself) of
+your choice. \textbf{Uncanny Dodge.} When an attacker that you can see
+hits you with an attack, you can use your reaction to halve the attack's
+damage against you.
+
+\end{document}

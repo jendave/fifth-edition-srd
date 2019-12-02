@@ -1,0 +1,595 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monsters-l}{%
+\section{Monsters (L)}\label{monsters-l}}
+
+\hypertarget{lamia}{%
+\subsubsection{Lamia}\label{lamia}}
+
+\emph{Large monstrosity, chaotic evil}
+
+\textbf{Armor Class} 13 (natural armor)
+
+\textbf{Hit Points} 97 (13d10 + 26)
+
+\textbf{Speed} 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+16 (+3) & 13 (+1) & 15 (+2) & 14 (+2) & 15 (+2) & 16 (+3)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Deception +7, Insight +4, Stealth +3
+
+\textbf{Senses} darkvision 60 ft., passive Perception 12
+
+\textbf{Languages} Abyssal, Common
+
+\textbf{Challenge} 4 (1,100 XP)
+
+\textbf{Innate Spellcasting.} The lamia's innate spellcasting ability is
+Charisma (spell save DC 13). It can innately cast the following spells,
+requiring no material components.
+
+At will: \emph{disguise self} (any humanoid form), \emph{major image}
+
+3/day each: \emph{charm person}, \emph{mirror image}, \emph{scrying},
+\emph{suggestion}
+
+1/day: \emph{geas}
+
+\hypertarget{actions}{%
+\paragraph{Actions}\label{actions}}
+
+\textbf{Multiattack.} The lamia makes two attacks: one with its claws
+and one with its dagger or Intoxicating Touch.
+
+\textbf{Claws.} \emph{Melee Weapon Attack:} +5 to hit, reach 5 ft., one
+target. \emph{Hit:} 14 (2d10 + 3) slashing damage.
+
+\textbf{Dagger.} \emph{Melee Weapon Attack:} +5 to hit, reach 5 ft., one
+target. \emph{Hit:} 5 (1d4 + 3) piercing damage.
+
+\textbf{Intoxicating Touch.} Melee Spell Attack: +5 to hit, reach 5 ft.,
+one creature. \emph{Hit:} The target is magically cursed for 1 hour.
+Until the curse ends, the target has disadvantage on Wisdom
+\textbf{Saving Throws} and all ability checks.
+
+\hypertarget{lich}{%
+\subsubsection{Lich}\label{lich}}
+
+\emph{Medium undead, any evil alignment}
+
+\textbf{Armor Class} 17 (natural armor)
+
+\textbf{Hit Points} 135 (18d8 + 54)
+
+\textbf{Speed} 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+11 (+0) & 16 (+3) & 16 (+3) & 20 (+5) & 14 (+2) & 16 (+3)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Saving Throws} Con +10, Int +12, Wis +9
+
+\textbf{Skills} Arcana +18, History +12, Insight +9, Perception +9
+
+\textbf{Damage Resistances} cold, lightning, necrotic
+
+\textbf{Damage Immunities} poison; bludgeoning, piercing, and slashing
+from nonmagical attacks
+
+\textbf{Condition Immunities} charmed, exhaustion, frightened,
+paralyzed, poisoned
+
+\textbf{Senses} truesight 120 ft., passive Perception 19
+
+\textbf{Languages} Common plus up to five other languages
+
+\textbf{Challenge} 21 (33,000 XP)
+
+\textbf{Legendary Resistance (3/Day).} If the lich fails a saving throw,
+it can choose to succeed instead.
+
+\textbf{Rejuvenation.} If it has a phylactery, a destroyed lich gains a
+new body in 1d10 days, regaining all its hit points and becoming active
+again. The new body appears within 5 feet of the phylactery.
+
+\textbf{Spellcasting.} The lich is an 18th-­‐level spellcaster. Its
+spellcasting ability is Intelligence (spell save DC 20, +12 to hit with
+spell attacks). The lich has the following wizard spells prepared:
+
+Cantrips (at will): \emph{mage hand}, \emph{prestidigitation}, \emph{ray
+of frost}
+
+1st level (4 slots): \emph{detect magic}, \emph{magic missile},
+\emph{shield}, \emph{thunderwave}
+
+2nd level (3 slots): \emph{acid arrow}, \emph{detect thoughts},
+\emph{invisibility}, \emph{mirror image}
+
+3rd level (3 slots): \emph{animate dead},\emph{counterspell},
+\emph{dispel magic}, \emph{fireball}
+
+4th level (3 slots): \emph{blight}, \emph{dimension door}
+
+5th level (3 slots): \emph{cloudkill}, \emph{scrying}
+
+6th level (1 slot): \emph{disintegrate}, \emph{globe of invulnerability}
+
+7th level (1 slot): \emph{finger of death}, \emph{plane shift}
+
+8th level (1 slot): \emph{dominate monster}, \emph{power word stun}
+
+9th level (1 slot): \emph{power word kill}
+
+\textbf{Turn Resistance.} The lich has advantage on saving throws
+against any effect that turns undead.
+
+\hypertarget{actions-1}{%
+\paragraph{Actions}\label{actions-1}}
+
+\textbf{Paralyzing Touch.} Melee Spell Attack: +12 to hit, reach 5 ft.,
+one creature. \emph{Hit:} 10 (3d6) cold damage. The target must succeed
+on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The
+target can repeat the saving throw at the end of each of its turns,
+ending the effect on itself on a success.
+
+\hypertarget{legendary-actions}{%
+\paragraph{Legendary Actions}\label{legendary-actions}}
+
+The lich can take 3 legendary actions, choosing from the options below.
+Only one legendary action option can be used at a time and only at the
+end of another creature's turn. The lich regains spent legendary actions
+at the start of its turn.
+
+\textbf{Cantrip.} The lich casts a \textbf{Cantrip.}
+
+\textbf{Paralyzing Touch (Costs 2 Actions).} The lich uses its
+Paralyzing Touch.
+
+\textbf{Frightening Gaze (Costs 2 Actions).} The lich fixes its gaze on
+one creature it can see within 10 feet of it. The target must succeed on
+a DC 18 Wisdom saving throw against this magic or become frightened for
+1 minute. The frightened target can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success. If a
+target's saving throw is successful or the effect ends for it, the
+target is immune to the lich's gaze for the next 24 hours.
+
+\textbf{Disrupt Life (Costs 3 Actions).} Each living creature within 20
+feet of the lich must make a DC 18 Constitution saving throw against
+this magic, taking 21 (6d6) necrotic damage on a failed save, or half as
+much damage on a successful one.
+
+\hypertarget{lizardfolk}{%
+\subsubsection{Lizardfolk}\label{lizardfolk}}
+
+\emph{Medium humanoid (lizardfolk), neutral}
+
+\textbf{Armor Class} 15 (natural armor, shield)
+
+\textbf{Hit Points} 22 (4d8 + 4)
+
+\textbf{Speed} 30 ft., swim 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+15 (+2) & 10 (+0) & 13 (+1) & 7 (−2) & 12 (+1) & 7 (−2)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +3, Stealth +4, Survival +5
+
+\textbf{Senses} passive Perception 13
+
+\textbf{Languages} Draconic
+
+\textbf{Challenge} ½ (100 XP)
+
+\textbf{Hold Breath.} The lizardfolk can hold its breath for 15 minutes.
+
+\hypertarget{actions-2}{%
+\paragraph{Actions}\label{actions-2}}
+
+\textbf{Multiattack.} The lizardfolk makes two melee attacks, each one
+with a different weapon.
+
+\textbf{Bite.} \emph{Melee Weapon Attack:} +4 to hit, reach 5 ft., one
+target. \emph{Hit:} 5 (1d6 + 2) piercing damage.
+
+\textbf{Heavy Club.} \emph{Melee Weapon Attack:} +4 to hit, reach 5 ft.,
+one target. \emph{Hit:} 5 (1d6 + 2) bludgeoning damage.
+
+\textbf{Javelin} \emph{Melee or Ranged Weapon Attack:} +4 to hit, reach
+5 ft. or range 30/120 ft., one target. \emph{Hit:} 5 (1d6 + 2) piercing
+damage.
+
+\textbf{Spiked Shield.} \emph{Melee Weapon Attack:} +4 to hit, reach 5
+ft., one target. \emph{Hit:} 5 (1d6 + 2) piercing damage.
+
+\hypertarget{lycanthropes}{%
+\subsection{Lycanthropes}\label{lycanthropes}}
+
+\hypertarget{werebear}{%
+\paragraph{Werebear}\label{werebear}}
+
+\emph{Medium humanoid (human, shapechanger), neutral good}
+
+\textbf{Armor Class} 10 in humanoid form, 11 (natural armor) in bear and
+hybrid form
+
+\textbf{Hit Points} 135 (18d8 + 54)
+
+\textbf{Speed} 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+19 (+4) & 10 (+0) & 17 (+3) & 11 (+0) & 12 (+1) & 12 (+1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +7
+
+\textbf{Damage Immunities} bludgeoning, piercing, and slashing from
+nonmagical attacks not made with silvered weapons
+
+\textbf{Senses} passive Perception 17
+
+\textbf{Languages} Common (can't speak in bear form)
+
+\textbf{Challenge} 5 (1,800 XP)
+
+\textbf{Shapechanger.} The werebear can use its action to polymorph into
+a Large bear-­‐humanoid hybrid or into a Large bear, or back into its
+true form, which is humanoid. Its statistics, other than its size and
+AC, are the same in each form. Any equipment it is wearing or carrying
+isn't transformed. It reverts to its true form if it dies.
+
+\textbf{Keen Smell.} The werebear has advantage on Wisdom (Perception)
+checks that rely on smell.
+
+\hypertarget{actions-3}{%
+\paragraph{Actions}\label{actions-3}}
+
+\textbf{Multiattack.} In bear form, the werebear makes two claw attacks.
+In humanoid form, it makes two greataxe attacks. In hybrid form, it can
+attack like a bear or a humanoid.
+
+\textbf{Bite (Bear or Hybrid Form Only).} \emph{Melee Weapon Attack:} +7
+to hit, reach 5 ft., one target. \emph{Hit:} 15 (2d10 + 4) piercing
+damage. If the target is a humanoid, it must succeed on a DC 14
+Constitution saving throw or be cursed with werebear lycanthropy.
+
+\textbf{Claw (Bear or Hybrid Form Only).} \emph{Melee Weapon Attack:} +7
+to hit, reach 5 ft., one target. \emph{Hit:} 13 (2d8 + 4) slashing
+damage.
+
+\textbf{Greataxe (Humanoid or Hybrid Form Only)} \emph{Melee Weapon
+Attack:} +7 to hit, reach 5 ft., one target. \emph{Hit:} 10 (1d12 + 4)
+slashing damage.
+
+\hypertarget{wereboar}{%
+\subsubsection{Wereboar}\label{wereboar}}
+
+\emph{Medium humanoid (human, shapechanger), neutral evil}
+
+\textbf{Armor Class} 10 in humanoid form, 11 (natural armor) in boar or
+hybrid form
+
+\textbf{Hit Points} 78 (12d8 + 24)
+
+\textbf{Speed} 30 ft. (40 ft. in boar form)
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+17 (+3) & 10 (+0) & 15 (+2) & 10 (+0) & 11 (+0) & 8 (−1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +2
+
+\textbf{Damage Immunities} bludgeoning, piercing, and slashing from
+nonmagical attacks not made with silvered weapons
+
+\textbf{Senses} passive Perception 12
+
+\textbf{Languages} Common (can't speak in boar form)
+
+\textbf{Challenge} 4 (1,100 XP)
+
+\textbf{Shapechanger.} The wereboar can use its action to polymorph into
+a boar-­‐humanoid hybrid or into a boar, or back into its true form,
+which is humanoid. Its statistics, other than its AC, are the same in
+each form. Any equipment it is wearing or carrying isn't transformed. It
+reverts to its true form if it dies.
+
+\textbf{Charge (Boar or Hybrid Form Only).} If the wereboar moves at
+least 15 feet straight toward a target and then hits it with its tusks
+on the same turn, the target takes an extra 7 (2d6) slashing damage. If
+the target is a creature, it must succeed on a DC 13 Strength saving
+throw or be knocked prone.
+
+\textbf{Relentless (Recharges after a Short or Long Rest).} If the
+wereboar takes 14 damage or less that would reduce it to 0 hit points,
+it is reduced to 1 hit point instead.
+
+\hypertarget{actions-4}{%
+\paragraph{Actions}\label{actions-4}}
+
+\textbf{Multiattack (Humanoid or Hybrid Form Only)} The wereboar makes
+two attacks, only one of which can be with its tusks.
+
+\textbf{Maul (Humanoid or Hybrid Form Only).} \emph{Melee Weapon
+Attack:} +5 to hit, reach 5 ft., one target. \emph{Hit:} 10 (2d6 + 3)
+bludgeoning damage.
+
+\textbf{Tusks (Boar or Hybrid Form Only).} \emph{Melee Weapon Attack:}
++5 to hit, reach 5 ft., one target. \emph{Hit:} 10 (2d6 +3) slashing
+damage. If the target is a humanoid, it must succeed on a DC 12
+Constitution saving throw or be cursed with wereboar lycanthropy.
+
+\hypertarget{wererat}{%
+\subsubsection{Wererat}\label{wererat}}
+
+\emph{Medium humanoid (human, shapechanger), lawful evil}
+
+\textbf{Armor Class} 12
+
+\textbf{Hit Points} 33 (6d8 + 6)
+
+\textbf{Speed} 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+10 (+0) & 15 (+2) & 12 (+1) & 11 (+0) & 10 (+0) & 8 (−1)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +2, Stealth +4
+
+\textbf{Damage Immunities} bludgeoning, piercing, and slashing from
+nonmagical attacks not made with silvered weapons
+
+\textbf{Senses} darkvision 60 ft. (rat form only), passive Perception 12
+
+\textbf{Languages} Common (can't speak in rat form)
+
+\textbf{Challenge} 2 (450 XP)
+
+\textbf{Shapechanger.} The wererat can use its action to polymorph into
+a rat-­‐humanoid hybrid or into a giant rat, or back into its true form,
+which is humanoid. Its statistics, other than its size, are the same in
+each form. Any equipment it is wearing or carrying isn't transformed. It
+reverts to its true form if it dies.
+
+\textbf{Keen Smell.} The wererat has advantage on Wisdom (Perception)
+checks that rely on smell.
+
+\hypertarget{actions-5}{%
+\paragraph{Actions}\label{actions-5}}
+
+\_\emph{Multiattack (Humanoid or Hybrid Form Only)}* The wererat makes
+two attacks, only one of which can be a \textbf{Bite.}
+
+\textbf{Bite (Rat or Hybrid Form Only).} \emph{Melee Weapon Attack:} +4
+to hit, reach 5 ft., one target. \emph{Hit:} 4 (1d4 + 2) piercing
+damage. If the target is a humanoid, it must succeed on a DC 11
+Constitution saving throw or be cursed with wererat lycanthropy.
+
+\textbf{Shortsword (Humanoid or Hybrid Form Only).} \emph{Melee Weapon
+Attack:} +4 to hit, reach 5 ft., one target. \emph{Hit:} 5 (1d6 + 2)
+piercing damage.
+
+\textbf{Hand Crossbow (Humanoid or Hybrid Form Only).} \emph{Ranged
+Weapon Attack:} +4 to hit, range 30/120 ft., one target. \emph{Hit:} 5
+(1d6 + 2) piercing damage.
+
+\hypertarget{weretiger}{%
+\subsubsection{Weretiger}\label{weretiger}}
+
+\emph{Medium humanoid (human, shapechanger), neutral}
+
+\textbf{Armor Class} 12
+
+\textbf{Hit Points} 120 (16d8 + 48)
+
+\textbf{Speed} 30 ft. (40 ft. in tiger form)
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+17 (+3) & 15 (+2) & 16 (+3) & 10 (+0) & 13 (+1) & 11 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +5, Stealth +4
+
+\textbf{Damage Immunities} bludgeoning, piercing, and slashing from
+nonmagical attacks not made with silvered weapons
+
+\textbf{Senses} darkvision 60 ft., passive Perception 15
+
+\textbf{Languages} Common (can't speak in tiger form)
+
+\textbf{Challenge} 4 (1,100 XP)
+
+\textbf{Shapechanger.} The weretiger can use its action to polymorph
+into a tiger-­‐humanoid hybrid or into a tiger, or back into its true
+form, which is humanoid. Its statistics, other than its size, are the
+same in each form. Any equipment it is wearing or carrying isn't
+transformed. It reverts to its true form if it dies.
+
+\textbf{Keen Hearing and Smell.} The weretiger has advantage on Wisdom
+(Perception) checks that rely on hearing or smell.
+
+\textbf{Pounce (Tiger or Hybrid Form Only).} If the weretiger moves at
+least 15 feet straight toward a creature and then hits it with a claw
+attack on the same turn, that target must succeed on a DC 14 Strength
+saving throw or be knocked prone. If the target is prone, the weretiger
+can make one bite attack against it as a bonus action.
+
+\hypertarget{actions-6}{%
+\paragraph{Actions}\label{actions-6}}
+
+\_\emph{Multiattack (Humanoid or Hybrid Form Only).}* In humanoid form,
+the weretiger makes two scimitar attacks or two longbow attacks. In
+hybrid form, it can attack like a humanoid or make two claw attacks.
+
+\textbf{Bite (Tiger or Hybrid Form Only).} \emph{Melee Weapon Attack:}
++5 to hit, reach 5 ft., one target. \emph{Hit:} 8 (1d10 + 3) piercing
+damage. If the target is a humanoid, it must succeed on a DC 13
+Constitution saving throw or be cursed with weretiger lycanthropy.
+
+\textbf{Claw (Tiger or Hybrid Form Only).} \emph{Melee Weapon Attack:}
++5 to hit, reach 5 ft., one target. \emph{Hit:} 7 (1d8 + 3) slashing
+damage.
+
+\textbf{Scimitar (Humanoid or Hybrid Form Only).} \emph{Melee Weapon
+Attack:} +5 to hit, reach 5 ft., one target. \emph{Hit:} 6 (1d6 + 3)
+slashing damage.
+
+\textbf{Longbow (Humanoid or Hybrid Form Only).} \emph{Ranged Weapon
+Attack:} +4 to hit, range 150/600 ft., one target. \emph{Hit:} 6 (1d8 +
+2) piercing damage.
+
+\hypertarget{werewolf}{%
+\subsubsection{Werewolf}\label{werewolf}}
+
+\emph{Medium humanoid (human, shapechanger), chaotic evil}
+
+\textbf{Armor Class} 11 in humanoid form, 12 (natural armor) in wolf or
+hybrid form
+
+\textbf{Hit Points} 58 (9d8 + 18)
+
+\textbf{Speed} 30 ft. (40 ft. in wolf form)
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+15 (+2) & 13 (+1) & 14 (+2) & 10 (+0) & 11 (+0) & 10 (+0)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Skills} Perception +4, Stealth +3
+
+\textbf{Damage Immunities} bludgeoning, piercing, and slashing from
+nonmagical attacks not made with silvered weapons
+
+\textbf{Senses} passive Perception 14
+
+\textbf{Languages} Common (can't speak in wolf form)
+
+\textbf{Challenge} 3 (700 XP)
+
+\textbf{Shapechanger.} The werewolf can use its action to polymorph into
+a wolf-­‐humanoid hybrid or into a wolf, or back into its true form,
+which is humanoid. Its statistics, other than its AC, are the same in
+each form. Any equipment it is wearing or carrying isn't transformed. It
+reverts to its true form if it dies.
+
+\textbf{Keen Hearing and Smell.} The werewolf has advantage on Wisdom
+(Perception) checks that rely on hearing or smell.
+
+\hypertarget{actions-7}{%
+\paragraph{Actions}\label{actions-7}}
+
+\textbf{Multiattack (Humanoid or Hybrid Form Only)} The werewolf makes
+two attacks: one with its bite and one with its claws or spear.
+
+\textbf{Bite (Wolf or Hybrid Form Only).} \emph{Melee Weapon Attack:} +4
+to hit, reach 5 ft., one target. \emph{Hit:} 6 (1d8 + 2) piercing
+damage. If the target is a humanoid, it must succeed on a DC 12
+Constitution saving throw or be cursed with werewolf lycanthropy.
+
+\textbf{Claws (Hybrid Form Only).} \emph{Melee Weapon Attack:} +4 to
+hit, reach 5 ft., one creature. \emph{Hit:} 7 (2d4 + 2) slashing damage.
+
+\textbf{Spear (Humanoid Form Only).} \emph{Melee or Ranged Weapon
+Attack:} +4 to hit, reach 5 ft. or range 20/60 ft., one creature.
+\emph{Hit:} 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage
+if used with two hands to make a melee attack
+
+\end{document}

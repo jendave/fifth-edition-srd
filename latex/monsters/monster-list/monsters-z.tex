@@ -1,0 +1,153 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monsters-z}{%
+\section{Monsters (Z)}\label{monsters-z}}
+
+\hypertarget{zombies}{%
+\subsection{Zombies}\label{zombies}}
+
+\hypertarget{zombie}{%
+\subsubsection{Zombie}\label{zombie}}
+
+\emph{Medium undead, neutral evil}
+
+\textbf{Armor Class} 8
+
+\textbf{Hit Points} 22 (3d8 + 9)
+
+\textbf{Speed} 20 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+13 (+1) & 6 (−2) & 16 (+3) & 3 (−4) & 6 (−2) & 5 (-3)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Saving Throws} Wis +0
+
+\textbf{Damage Immunities} poison
+
+\textbf{Condition Immunities} poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 8
+
+\textbf{Languages} understands the languages it knew in life but can't
+speak
+
+\textbf{Challenge} ¼ (50 XP)
+
+\textbf{Undead Fortitude.} If damage reduces the zombie to 0 hit points,
+it must make a Constitution saving throw with a DC of 5 + the damage
+taken, unless the damage is radiant or from a critical hit. On a
+success, the zombie drops to 1 hit point instead.
+
+\hypertarget{actions}{%
+\paragraph{Actions}\label{actions}}
+
+\textbf{Slam.} \emph{Melee Weapon Attack:} +3 to hit, reach 5 ft., one
+target. \emph{Hit:} 4 (1d6 + 1) bludgeoning damage.
+
+\hypertarget{ogre-zombie}{%
+\subsubsection{Ogre Zombie}\label{ogre-zombie}}
+
+\emph{Large undead, neutral evil}
+
+\textbf{Armor Class} 8
+
+\textbf{Hit Points} 85 (9d10 + 36)
+
+\textbf{Speed} 30 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+19 (+4) & 6 (−2) & 18 (+4) & 3 (−4) & 6 (−2) & 5 (−3)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Saving Throws} Wis +0
+
+\textbf{Damage Immunities} poison
+
+\textbf{Condition Immunities} poisoned
+
+\textbf{Senses} darkvision 60 ft., passive Perception 8
+
+\textbf{Languages} understands Common and Giant but can't speak
+
+\textbf{Challenge} 2 (450 XP)
+
+\textbf{Undead Fortitude.} If damage reduces the zombie to 0 hit points,
+it must make a Constitution saving throw with a DC of 5 + the damage
+taken, unless the damage is radiant or from a critical hit. On a
+success, the zombie drops to 1 hit point instead.
+
+\hypertarget{actions-1}{%
+\paragraph{Actions}\label{actions-1}}
+
+\textbf{Morningstar.} \emph{Melee Weapon Attack:} +6 to hit, reach 5
+ft., one target. \emph{Hit:} 13 (2d8 + 4) bludgeoning damage.
+
+\end{document}

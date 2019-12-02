@@ -1,0 +1,146 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\date{}
+
+\begin{document}
+
+\hypertarget{monsters-f}{%
+\section{Monsters (F)}\label{monsters-f}}
+
+\hypertarget{fungi}{%
+\subsubsection{Fungi}\label{fungi}}
+
+\hypertarget{shrieker}{%
+\subsubsection{Shrieker}\label{shrieker}}
+
+\emph{Medium plant, unaligned}
+
+\textbf{Armor Class} 5
+
+\textbf{Hit Points} 13 (3d8)
+
+\textbf{Speed} 0 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+1 (−5) & 1 (−5) & 10 (+0) & 1 (−5) & 3 (−4) & 1 (−5)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Condition Immunities} blinded, deafened, frightened
+
+\textbf{Senses} blindsight 30 ft. (blind beyond this radius), passive
+Perception 6
+
+\textbf{Languages} ---
+
+\textbf{Challenge} 0 (10 XP)
+
+\textbf{False Appearance.} While the shrieker remains motionless, it is
+indistinguishable from an ordinary fungus.
+
+\hypertarget{reactions}{%
+\paragraph{Reactions}\label{reactions}}
+
+\textbf{Shriek.} When bright light or a creature is within 30 feet of
+the shrieker, it emits a shriek audible within 300 feet of it. The
+shrieker continues to shriek until the disturbance moves out of range
+and for 1d4 of the shrieker's turns afterward.
+
+\hypertarget{violet-fungus}{%
+\subsubsection{Violet Fungus}\label{violet-fungus}}
+
+\emph{Medium plant, unaligned}
+
+\textbf{Armor Class} 5
+
+\textbf{Hit Points} 18 (4d8)
+
+\textbf{Speed} 5 ft.
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+STR & DEX & CON & INT & WIS & CHA\tabularnewline
+\midrule
+\endhead
+3 (−4) & 1 (−5) & 10 (+0) & 1 (−5) & 3 (−4) & 1 (−5)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Condition Immunities} blinded, deafened, frightened
+
+\textbf{Senses} blindsight 30 ft. (blind beyond this radius), passive
+Perception 6
+
+\textbf{Languages} ---
+
+\textbf{Challenge} ¼ (50 XP)
+
+\textbf{False Appearance.} While the violet fungus remains motionless,
+it is indistinguishable from an ordinary fungus.
+
+\hypertarget{actions}{%
+\paragraph{Actions}\label{actions}}
+
+\textbf{Multiattack.} The fungus makes 1d4 Rotting Touch attacks.
+
+\textbf{Rotting Touch.} \emph{Melee Weapon Attack:} +2 to hit, reach 10
+ft., one creature. \emph{Hit:} 4 (1d8) necrotic damage.
+
+\end{document}
