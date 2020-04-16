@@ -1,6 +1,6 @@
 # Fifth Edition System Reference Document
 
-The goal of this project is to have a markdown conversion of the [Dungeons & Dragons Fifth Edition System Reference document](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
+The goal of this project is to have a markdown and asciidoc conversion of the [Dungeons & Dragons Fifth Edition System Reference document](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
 
 ## Status
 This is a large undertaking. Below is a list of the various sections of the SRD. As portions get completed they will be checked off. (Do you want to help? See below.)
@@ -60,7 +60,7 @@ This is a large undertaking. Below is a list of the various sections of the SRD.
 
 ## How you can help
 
-Converting the SRD into a universal format that everyone can use will be quick work if everyone takes a chunk. Knowledge of the markdown format is preferred but not required. (You get bonus points if you can do pull requests on Github.) I'll be happy to help you through any rough spots.
+Converting the SRD into a universal format that everyone can use will be quick work if everyone takes a chunk. Knowledge of the markdown and asciidoc formats is preferred but not required. (You get bonus points if you can do pull requests on Github.) I'll be happy to help you through any rough spots.
 
 1. Let me know you want to help by sending me a message at oestii [at] yahoo [dot] com.
 2. Pick one (or more) of the sections above under Status to do and I'll assign it to you as an Issue.

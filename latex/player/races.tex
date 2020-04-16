@@ -1,62 +1,4 @@
-% Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode}{hyperref}
-\PassOptionsToPackage{hyphens}{url}
-%
-\documentclass[
-]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provide euro and other symbols
-\else % if luatex or xetex
-  \usepackage{unicode-math}
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-% Use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-\IfFileExists{microtype.sty}{% use microtype if available
-  \usepackage[]{microtype}
-  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\makeatletter
-\@ifundefined{KOMAClassName}{% if non-KOMA class
-  \IfFileExists{parskip.sty}{%
-    \usepackage{parskip}
-  }{% else
-    \setlength{\parindent}{0pt}
-    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
-}{% if KOMA class
-  \KOMAoptions{parskip=half}}
-\makeatother
-\usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
-% Correct order of tables after \paragraph or \subparagraph
-\usepackage{etoolbox}
-\makeatletter
-\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
-\makeatother
-% Allow footnotes in longtable head/foot
-\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
-\makesavenoteenv{longtable}
-\setlength{\emergencystretch}{3em} % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
-
-\date{}
-
-\begin{document}
-
+\chapter{Races}
 \hypertarget{races}{%
 \section{Races}\label{races}}
 
@@ -375,23 +317,19 @@ Medium.
 \hypertarget{draconic-ancestry}{%
 \paragraph{Draconic Ancestry}\label{draconic-ancestry}}
 
-\begin{longtable}[]{@{}lll@{}}
-\toprule
-Dragon & Damage Type & Breath Weapon\tabularnewline
-\midrule
-\endhead
-Black & Acid & 5 by 30 ft. line (Dex. save)\tabularnewline
-Blue & Lightning & 5 by 30 ft. line (Dex. save)\tabularnewline
-Brass & Fire & 5 by 30 ft. line (Dex. save)\tabularnewline
-Bronze & Lightning & 5 by 30 ft. line (Dex. save)\tabularnewline
-Copper & Acid & 5 by 30 ft. line (Dex. save)\tabularnewline
-Gold & Fire & 15 ft. cone (Dex. save)\tabularnewline
-Green & Poison & 15 ft. cone (Con. save)\tabularnewline
-Red & Fire & 15 ft. cone (Dex. save)\tabularnewline
-Silver & Cold & 15 ft. cone (Con. save)\tabularnewline
-White & Cold & 15 ft. cone (Con. save)\tabularnewline
-\bottomrule
-\end{longtable}
+\begin{DndTable}[]{@{}lll@{}}
+\textbf{Dragon} & \textbf{Damage Type} & \textbf{Breath Weapon} \\
+Black & Acid & 5 by 30 ft. line (Dex. save) \\
+Blue & Lightning & 5 by 30 ft. line (Dex. save) \\
+Brass & Fire & 5 by 30 ft. line (Dex. save) \\
+Bronze & Lightning & 5 by 30 ft. line (Dex. save) \\
+Copper & Acid & 5 by 30 ft. line (Dex. save) \\
+Gold & Fire & 15 ft. cone (Dex. save) \\
+Green & Poison & 15 ft. cone (Con. save) \\
+Red & Fire & 15 ft. cone (Dex. save) \\
+Silver & Cold & 15 ft. cone (Con. save) \\
+White & Cold & 15 ft. cone (Con. save) \\
+\end{DndTable}
 
 \textbf{Draconic Ancestry.} You have draconic ancestry. Choose one type
 of dragon from the Draconic Ancestry table. Your breath weapon and
@@ -627,5 +565,3 @@ so when you finish a long rest. Charisma is your spellcasting ability
 for these spells.
 
 \textbf{Languages.} You can speak, read, and write Common and Infernal.
-
-\end{document}

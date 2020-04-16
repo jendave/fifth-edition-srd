@@ -1,0 +1,51 @@
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{lipsum}
+\usepackage{listings}
+\usepackage{shortvrb}
+\usepackage{imakeidx}
+\usepackage[open,openlevel=1]{bookmark}
+
+\usepackage[table]{xcolor}
+\usepackage{everypage}
+\usepackage{calc}
+\usepackage[absolute]{textpos}
+\usepackage{lettrine}
+\usepackage{lipsum}
+\usepackage{environ}
+\usepackage{multirow,makecell}
+\usepackage{dblfloatfix}
+\usepackage{multicol}
+\usepackage{overpic}
+\usepackage{changepage}
+\usepackage{luatexja}
+\usepackage{xcolor}
+\usepackage{pdfrender}
+\usepackage{fontspec}
+\usepackage{tikz}
+\usepackage[export]{adjustbox}
+\usepackage{luatexja-fontspec}
+\usepackage{supertabular}
+\usepackage[titles]{tocloft}
+\usepackage[titletoc]{appendix}
+\usepackage{biblatex}
+\usepackage{microtype}
+\usepackage{csquotes}
+\usepackage{xpatch}
+
+\MakeShortVerb{|}
+
+\lstset{%
+	basicstyle=\ttfamily,
+	language=[LaTeX]{TeX},
+	breaklines=true,
+}
+
+\definecolor{CharFillColor}{rgb}{1,1,1}
+
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+
+% Remove reference numbers from Inspiration/Bibliography
+\DeclareFieldFormat{labelnumberwidth}{}
+\setlength{\biblabelsep}{0pt}

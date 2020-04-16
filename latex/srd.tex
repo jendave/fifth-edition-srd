@@ -1,0 +1,65 @@
+\documentclass[letterpaper,twocolumn,openany]{dndbook}
+
+\input{preamble}
+\input{fonts}
+\input{layout}
+
+\makeindex[intoc,name=index,title=Index]
+\indexsetup{  
+  level=\chapter*,%
+  toclevel=chapter,%
+}
+
+\hypersetup{
+  pdfauthor={Wizards of the Coast},%
+  pdftitle={System Reference Document},%
+  pdfsubject={RPG Sourcebook},%
+  pdfkeywords={RPG, 5E, Sourcebook},%
+  pdfproducer={LaTeX},%
+  pdfcreator={LuaLaTeX},%
+  hidelinks
+}
+
+\title{System Reference Document}
+\author{Wizards of the Coast}
+\date{2019/12/03}
+
+\renewcommand{\DndTitle}{System Reference Document}
+\renewcommand{\DndCoverSplotchText}{HOMEBREW}
+\renewcommand{\DndTagline}{The Systems Reference Document contains guidelines for publishing content under the Open-Gaming License}
+
+\begin{document}
+
+\frontmatter
+
+\DndMakeCover%
+\DndMakeSubcover%
+
+\setcounter{tocdepth}{1}
+\pdfbookmark{\contentsname}{toc}
+{
+  \hypersetup{hidelinks}
+  \tableofcontents
+}
+
+\mainmatter%
+
+\include{legal}
+\input{errors}
+\include{player/races}
+%\include{player/classes/barbarian}
+
+\backmatter%
+{\hypersetup{hidelinks}
+	\printindex[index]
+}
+
+\renewcommand*{\DndBackcover}{img/backcoverimage}
+\renewcommand{\DndBackcoverHeader}{System \protect\\ Reference \protect\\ Document}
+\renewcommand{\DndBackcoverDescription}{The Systems Reference Document contains guidelines for publishing content under the Open-Gaming License.}
+\renewcommand{\DndBackcoverClose}{The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities.}
+\renewcommand{\DndBackcoverLink}{\normalsize\url{https://dnd.wizards.com/articles/features/systems-reference-document-srd}}
+\renewcommand*{\DndBackcoverLogo}{img/cover-logo-homebrewery}
+\DndMakeBackcover%
+
+\end{document}
